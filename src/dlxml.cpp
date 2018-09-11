@@ -1,25 +1,46 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <unistd.h>
 #include <iostream> 
 #include <curl/curl.h>
 #include "tinyxml.h"
-#define TIXML_USE_STL
+#include "Item.h"
 
-void openXML(TiXmlDocument doc)
+void printTitles(Item items){
+	std::cout<<items.GetUrl()<<std::endl;
+}
+
+void openXML(TiXmlDocument *doc)
 {
-	TiXmlElement *rootElem = doc.RootElement();
+	TiXmlElement *rootElem = doc->RootElement();
 	TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
+	TiXmlElement *itemC = channel->FirstChildElement( "item" );
 	TiXmlElement *item = channel->FirstChildElement( "item" );
-
-	if(NULL != item){
-		while(item){
-			
-			TiXmlElement *title = item->FirstChildElement( "title" );
-			std::cout<<title->GetText()<<std::endl;
-			item = item->NextSiblingElement("item");
-		}
+	int numItems = 0;
+	while(NULL != itemC){
+		numItems++;
+		itemC = itemC->NextSiblingElement("item");
 	}
+	std::cout <<numItems<<std::endl;
+	Item itemArr[numItems];	
+	int count = 0;
+	while(count<numItems){
+		//std::cout<<item->FirstChildElement( "title" )->GetText()<<std::endl;
+		itemArr[count].SetTitle(item->FirstChildElement( "title" )->GetText());
+		itemArr[count].SetDescr(item->FirstChildElement( "description" )->GetText());
+		itemArr[count].SetUrl(item->FirstChildElement( "link" )->GetText());
+		itemArr[count].SetDate(item->FirstChildElement( "pubDate" )->GetText());
+		count++;
+		item = item->NextSiblingElement("item");
+	
+	}
+
+	for(int a =0; a<numItems; a++)
+	{
+		std::cout<<a<<std::endl;
+		printTitles(itemArr[a]);
+		std::cout<<a<<std::endl;
+	}
+	std::cout<<"done"<<std::endl;
 }
 void openXML(const char* pFilename)
 {
@@ -28,15 +49,18 @@ void openXML(const char* pFilename)
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
-		openXML( doc ); // defined later in the tutorial
+		openXML( &doc ); // defined later in the tutorial
 	}
 	else
 	{
 		printf("Failed to load file \"%s\"\n", pFilename);
 	}
+
+
 }
 
-int main(int argc, char *argv[])
+
+int main()
 {
 	CURL *curl = curl_easy_init();
 	char const *pagename = "url.xml";
@@ -59,4 +83,5 @@ int main(int argc, char *argv[])
 	}
 	
 	openXML(pagename);
+	return 0;
 }

@@ -26,7 +26,7 @@ AR     := ar rc
 RANLIB := ranlib
 
 DEBUG_CFLAGS     := -Wall -Wno-format -g -DDEBUG 
-RELEASE_CFLAGS   := -Wall -Wno-unknown-pragmas -Wno-format -O3
+RELEASE_CFLAGS   := -Wextra -g -Wall -Wno-unknown-pragmas -Wno-format -O3
 
 LIBS		 :=
 
@@ -90,7 +90,7 @@ all: ${OUTPUT}
 # Source files
 #****************************************************************************
 
-SRCS := src/tinyxml.cpp src/tinyxmlparser.cpp src/dlxml.cpp src/tinyxmlerror.cpp src/tinystr.cpp
+SRCS := src/tinyxml.cpp src/tinyxmlparser.cpp src/dlxml.cpp src/tinyxmlerror.cpp src/tinystr.cpp src/Item.cpp
 
 # Add on the sources for libraries
 SRCS := ${SRCS}
@@ -126,5 +126,5 @@ depend:
 
 tinyxml.o: tinyxml.h tinystr.h
 tinyxmlparser.o: tinyxml.h tinystr.h
-dlxml.o: tinyxml.h tinystr.h
+dlxml.o: tinyxml.h tinystr.h Item.h
 tinyxmlerror.o: tinyxml.h tinystr.h

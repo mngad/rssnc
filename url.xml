@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Sep 2018 14:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Sep 2018 17:22:13 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,16 +20,16 @@
             <description><![CDATA[The ex-foreign secretary was at an event making the economic case for leaving the EU without a trade deal.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45483679</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45483679</guid>
-            <pubDate>Tue, 11 Sep 2018 14:06:00 GMT</pubDate>
+            <pubDate>Tue, 11 Sep 2018 16:03:16 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E1D0/production/_103380875_mediaitem103380873.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Police funding: Met chief 'disappointed' by police pay rise]]></title>
-            <description><![CDATA[Cressida Dick calls the government's refusal to accept a recommended pay rise a "punch on the nose".]]></description>
+            <title><![CDATA[Police 2% pay rise 'a punch on the nose', Cressida Dick says]]></title>
+            <description><![CDATA[Met Police chief Cressida Dick criticises the government's refusal to accept a recommended pay rise.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45487244</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45487244</guid>
-            <pubDate>Tue, 11 Sep 2018 14:38:35 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B502/production/_103383364_cressidadick.jpg"/>
+            <pubDate>Tue, 11 Sep 2018 17:16:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C254/production/_103384794_cressida.jpg"/>
         </item>
         <item>
             <title><![CDATA[Jealous stalker guilty of murdering co-worker in Taunton]]></title>
@@ -41,10 +41,10 @@
         </item>
         <item>
             <title><![CDATA[Westminster Bridge terror attack: 'Chaos' as pedestrians tried to escape]]></title>
-            <description><![CDATA[A witness tells an inquest pedestrians tried to escape the attacker but they "never had a chance".]]></description>
+            <description><![CDATA[Witness tells inquest pedestrians tried to escape attacker but they "never had a chance".]]></description>
             <link>https://www.bbc.co.uk/news/uk-45485404</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45485404</guid>
-            <pubDate>Tue, 11 Sep 2018 13:19:56 GMT</pubDate>
+            <pubDate>Tue, 11 Sep 2018 16:01:55 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6EF8/production/_103380482_aaa39525-57cc-4da6-b0d8-f23d9dd364f8.jpg"/>
         </item>
         <item>
@@ -56,7 +56,7 @@
             <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/A92C/production/_103380334_5wzrnhau.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burglar jailed after being caught by nail clipping DNA]]></title>
+            <title><![CDATA[Scratched burglar jailed after being caught by nail clipping DNA]]></title>
             <description><![CDATA[David Devlin is jailed for 22 years after breaking into the house of a woman who scratched his face.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-leicestershire-45488294</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-45488294</guid>
@@ -64,11 +64,19 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17DF1/production/_103377779_devlin.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Man held after Hull city centre bank blaze]]></title>
+            <description><![CDATA[Part of Hull city centre was left "in complete lockdown" after a fire at a bank, an eyewitness says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-45485917</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-45485917</guid>
+            <pubDate>Tue, 11 Sep 2018 16:44:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0260/production/_103380600_santanderfire.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[P&O stops transporting calves following BBC investigation]]></title>
             <description><![CDATA[The ferry operator will no longer sail very young cattle abroad after concerns were raised by a BBC investigation.]]></description>
             <link>https://www.bbc.co.uk/news/uk-scotland-45487502</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-45487502</guid>
-            <pubDate>Tue, 11 Sep 2018 14:12:10 GMT</pubDate>
+            <pubDate>Tue, 11 Sep 2018 17:20:30 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/128D4/production/_103288957_inaw_thedarksideofdairy_fornews_frame_7177.jpg"/>
         </item>
         <item>
@@ -96,12 +104,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12167/production/_103378047_gettyimages-866502256_crop.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Puppet master' teacher jailed for inciting child abuse]]></title>
-            <description><![CDATA[Richard Clark is jailed for manipulating people to sexually abuse children around the world.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-45485914</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-45485914</guid>
-            <pubDate>Tue, 11 Sep 2018 12:43:46 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C164/production/_103380594_richardclark10111988.jpg"/>
+            <title><![CDATA[Anderson secures victory - and Test bowling record]]></title>
+            <description><![CDATA[England's James Anderson surpasses Glenn McGrath of Australia to become Test cricket's most successful fast bowler.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/45464628</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/45464628</guid>
+            <pubDate>Tue, 11 Sep 2018 16:31:50 GMT</pubDate>
+            <media:thumbnail width="1668" height="938" url="http://c.files.bbci.co.uk/76A0/production/_103386303_andersonafp.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman punched by thieves for £11]]></title>
@@ -160,12 +168,20 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6C63/production/_103374772_deaf_260718_onlinepic.jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBC News Channel]]></title>
+            <title><![CDATA[BBC News at Six]]></title>
             <description><![CDATA[BBC coverage of latest developments]]></description>
             <link>https://www.bbc.co.uk/news/10318089</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
             <pubDate>Mon, 03 Sep 2018 06:55:21 GMT</pubDate>
             <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kirstie Allsopp leaves Twitter over iPad smashing backlash]]></title>
+            <description><![CDATA[The presenter leaves Twitter after coming under fire when revealing she smashed her children's iPads when they broke her screen time rules.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-45483606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-45483606</guid>
+            <pubDate>Tue, 11 Sep 2018 12:19:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3AEF/production/_103378051_gettyimages-533763514_crop.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fergie the tortoise 'stolen from farm in hoodie pocket']]></title>
@@ -176,12 +192,28 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4495/production/_103375571_fergie_tortoise.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hynde slams building 'monstrosity' as a gig distraction]]></title>
-            <description><![CDATA[The Pretenders singer says a controversial development beside Dundee's V&A should be "torn down".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-45473839</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-45473839</guid>
-            <pubDate>Tue, 11 Sep 2018 09:20:27 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A133/production/_103376214_collagehynde.jpg"/>
+            <title><![CDATA[England in black and white to mark Kick It Out anniversary]]></title>
+            <description><![CDATA[Former players talk about racism in the game, as the Kick It Out campaign marks its 25th birthday.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-45484574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-45484574</guid>
+            <pubDate>Tue, 11 Sep 2018 16:43:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13E9/production/_103379050_blackandwhite.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bodyguard: The show's 'bold' twists are keeping viewers guessing]]></title>
+            <description><![CDATA[The conspiracy theories about BBC One's hit thriller are mounting.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45485114</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45485114</guid>
+            <pubDate>Tue, 11 Sep 2018 15:12:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0FB2/production/_103381040_16189767-low_res-bodyguard.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How JD Sports became a £5bn company]]></title>
+            <description><![CDATA[Record profits for the sports fashion retailer means it is knocking on the door of the FTSE 100.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45482460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45482460</guid>
+            <pubDate>Tue, 11 Sep 2018 15:22:09 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/4F04/production/_103382202_jd.jpg"/>
         </item>
         <item>
             <title><![CDATA[How to eat well - and save the planet]]></title>
