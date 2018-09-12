@@ -6,6 +6,7 @@
 #include "Item.h"
 
 void printTitles(Item items){
+	std::cout<<items.GetTitle()<<std::endl;
 	std::cout<<items.GetUrl()<<std::endl;
 }
 
@@ -36,9 +37,7 @@ void openXML(TiXmlDocument *doc)
 
 	for(int a =0; a<numItems; a++)
 	{
-		std::cout<<a<<std::endl;
 		printTitles(itemArr[a]);
-		std::cout<<a<<std::endl;
 	}
 	std::cout<<"done"<<std::endl;
 }
@@ -59,14 +58,14 @@ void openXML(const char* pFilename)
 
 }
 
-
-int main()
+void saveRssXml(char const *pagename, char const *link)
 {
+
 	CURL *curl = curl_easy_init();
-	char const *pagename = "url.xml";
+	
 	FILE *pagefile;
 	if(curl) {
-	  curl_easy_setopt(curl, CURLOPT_URL, "http://feeds.bbci.co.uk/news/uk/rss.xml");
+	  curl_easy_setopt(curl, CURLOPT_URL, link);
 	  curl_easy_setopt(curl, CURLOPT_NOPROGRESS, 1L);
 	  pagefile = fopen(pagename, "wb");
 	  if(pagefile) {
@@ -81,7 +80,15 @@ int main()
 	  }
 	  curl_easy_cleanup(curl);
 	}
-	
+
+}
+
+int main()
+{
+	char const *pagename = "url.txt";	
+	//char const *link = "http://feeds.bbci.co.uk/news/uk/rss.xml";
+	char const *link = "https://www.theverge.com/rss/index.xml";
+	saveRssXml(pagename, link);
 	openXML(pagename);
 	return 0;
 }

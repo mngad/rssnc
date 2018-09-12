@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  All Posts</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2018-09-12T00:36:13-04:00</updated>
+  <id>https://www.theverge.com/rss/full.xml</id>
+  <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2018-09-12T00:36:13-04:00</published>
+    <updated>2018-09-12T00:36:13-04:00</updated>
+    <title>Christopher Nolan and Paul Thomas Anderson are talking to TV makers about killing motion smoothing</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/xzCD9oYR-10zwVNgFbuiwTNlmm4=/0x0:5028x3352/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61317317/915183354.jpg.0.jpg" /&gt;
+
+
+
+  &lt;p id="lcqlQI"&gt;Even if you have a great TV, it can be hard to set it up so that meticulously shot and color-graded movies don’t look like a combination of motion-smoothed soap opera and Saturday morning cartoon. Out of the box, most sets have features like motion smoothing and various color “enhancement” settings switched on, with no easy way to set things up to view movies and TV shows the way that they were meant to be.&lt;/p&gt;
+&lt;p id="oBwGRg"&gt;Directors Christopher Nolan and Paul Thomas Anderson have been talking to TV manufacturers in the UHD Alliance about standardising a “reference mode” that would more accurately display movies and shows in accordance with creative intent. &lt;a href="https://www.slashfilm.com/war-on-motion-smoothing/"&gt;&lt;em&gt;Slashfilm&lt;/em&gt; has the information&lt;/a&gt; through a letter sent out by the Directors Guild of America that...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/circuitbreaker/2018/9/12/17849560/tv-motion-smoothing-reference-mode-nolan-anderson"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/circuitbreaker/2018/9/12/17849560/tv-motion-smoothing-reference-mode-nolan-anderson"/>
+    <id>https://www.theverge.com/circuitbreaker/2018/9/12/17849560/tv-motion-smoothing-reference-mode-nolan-anderson</id>
+    <author>
+      <name>Sam Byford</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T20:11:50-04:00</published>
+    <updated>2018-09-11T20:11:50-04:00</updated>
+    <title>FCC pauses 180-day clock on T-Mobile and Sprint merger for additional review</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/YDPFQ2QSlIo-a0g5R7n2uHeE3sw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61304839/acasatro_180430_1777_sprint_Tmobile_0004.0.jpg" /&gt;
+
+
+
+  &lt;p id="D8mCZ4"&gt;The Federal Communications Commission &lt;a href="https://www.fcc.gov/document/letter-pausing-t-mobile-sprint-transaction-clock"&gt;announced today&lt;/a&gt; that it will pause the so-called shot clock on its 180-day review period for the Sprint and T-Mobile merger. The shot clock in question is an informal six-month deadline for approval from when the merger was &lt;a href="https://www.theverge.com/2018/4/29/17298904/sprint-and-t-mobile-merger"&gt;first announced (again) in April of this year&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="VqUbFO"&gt;The FCC says it now “additional time is necessary to allow for thorough staff and third-party review of newly submitted and anticipated modeling.” The letter is penned by David Lawrence, the director of the T-Mobile / Sprint Transaction Task Force, and Donald Stockdale, the chief of Wireless Telecommunication Bureau. &lt;/p&gt;
+&lt;div class="c-float-right"&gt;&lt;aside id="C9JliO"&gt;&lt;q&gt;The FCC is taking addition time due to receiving key information so late in the process&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="dLYPMq"&gt;The two companies, when...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17848416/fcc-sprint-t-mobile-merger-review-pause-shot-clock"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17848416/fcc-sprint-t-mobile-merger-review-pause-shot-clock"/>
+    <id>https://www.theverge.com/2018/9/11/17848416/fcc-sprint-t-mobile-merger-review-pause-shot-clock</id>
+    <author>
+      <name>Nick Statt</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T17:00:02-04:00</published>
+    <updated>2018-09-11T17:00:02-04:00</updated>
+    <title>Verizon will launch 5G home internet service starting October 1st</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/6G1SBJBYwoo_5mxyeUllSwKMGpE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61295215/acastro_180430_1777_5G_0001.0.1536704518.jpg" /&gt;
+
+
+
+  &lt;p id="lKXnRw"&gt;Verizon’s 5G broadband internet service will go live later this fall, with installations starting on October 1st in Houston, Indianapolis, Los Angeles, and Sacramento, the company &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.verizon.com%2Fabout%2Fnews%2F5g-here" rel="nofollow noopener" target="_blank"&gt;announced today&lt;/a&gt;. This marks the first 5G commercial service to launch in the US, and it sees &lt;a href="https://www.theverge.com/2017/11/29/16717270/verizon-5g-rollout-service-five-cities-sacramento-milimeter-wave"&gt;Verizon make good on its promise to do so in November 2017&lt;/a&gt;. Verizon is calling it simply 5G Home, quoting “typical speeds” of 300 Mbps and peak speeds of nearly 1 Gbps, depending upon location.&lt;/p&gt;
+&lt;p id="ZdC6Co"&gt;This isn’t &lt;a href="https://www.theverge.com/2017/2/24/14701430/5g-network-explained-mobile-data-cellular-millimeter-wave"&gt;true mobile 5G&lt;/a&gt;, which will be the more impactful rollout of the new internet speed standard that was finalized last December when all networks and phone manufacturers support it. But theoretically, it should bring faster broadband speeds for home internet that are on...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1"/>
+    <id>https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1</id>
+    <author>
+      <name>Nick Statt</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T16:29:20-04:00</published>
+    <updated>2018-09-11T16:29:20-04:00</updated>
+    <title>Popular Twitch streamer says someone shot at his house twice in a week</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/SbKJYPR-X5AM4oF8q-Rv3eLEExs=/0x0:1116x744/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61293931/Screen_Shot_2018_09_11_at_3.45.49_PM.0.png" /&gt;
+
+
+
+  &lt;p id="A2gaF3"&gt;Guy Beahm, best known as the boisterous &lt;em&gt;PlayerUnknown’s Battlegrounds&lt;/em&gt; streamer Dr. Disrespect, abruptly stopped his Twitch broadcast today following what he says was an attempted shooting at his house. &lt;/p&gt;
+&lt;p id="hxvMWu"&gt;News of this apparent shooting spread primarily due to Beahm’s live stream, where he can be seen playing &lt;em&gt;Call of Duty&lt;/em&gt; only to leave his station following an unknown noise. He breaks character and says, “someone shot at our house. Broke the fucking upstairs window. This is the second shot. Someone shot yesterday at our fucking house.” Before the broadcast ends,  Beahm is visibly upset, and yells, “you pussy” at whoever perpetrated the apparent drive-by shooting. &lt;/p&gt;
+&lt;p id="z1g3yM"&gt;Details are scarce at the moment, but &lt;a href="https://www.polygon.com/2018/9/11/17847158/dr-disrespect-shooting-house-twitch-livestream"&gt;as &lt;em&gt;Polygon &lt;/em&gt;reports,&lt;/a&gt; authorities in...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls"/>
+    <id>https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls</id>
+    <author>
+      <name>Patricia Hernandez</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T15:56:42-04:00</published>
+    <updated>2018-09-11T15:56:42-04:00</updated>
+    <title>Plex shutters its cloud service after months of technical issues</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/_X9GIh3x42aHTDOpzrXXwFCz-gc=/109x0:2137x1352/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61292219/plex-cloud-server.0.0.jpg" /&gt;
+
+
+
+  &lt;p id="KebSeI"&gt;Personal media player Plex told its users today that it’s shutting down its Plex Cloud service at the end of November, as &lt;a href="https://variety.com/2018/digital/news/plex-cloud-shutting-down-1202936840/"&gt;spotted by &lt;em&gt;Variety&lt;/em&gt;&lt;/a&gt;. The Plex Cloud service has had multiple technical issues and has been in maintenance mode for a few months.&lt;/p&gt;
+&lt;p id="j2IWaL"&gt;The company shared an email it sent customers with &lt;em&gt;The Verge &lt;/em&gt;that said “after a lot of investigation and thought, we haven’t found a solution capable of delivering a truly first class Plex experience to Plex Cloud users at a reasonable cost.” It continued, “While we are super bummed about the impact this will have on our happy Cloud users, ending support for it will allow us to focus on improving core functionality, adding new features and content.”&lt;/p&gt;
+&lt;div class="c-float-right"&gt;&lt;aside id="oHRzTW"&gt;&lt;q&gt;Unable to handle multiple cloud storage...&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues"/>
+    <id>https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues</id>
+    <author>
+      <name>Shannon Liao</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T15:50:22-04:00</published>
+    <updated>2018-09-11T15:50:22-04:00</updated>
+    <title>Amazon will sell live, seven-foot Christmas trees this year</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/1fkXlsEt5xqju-oDuPY46BsT0bM=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61291851/901652050.jpg.0.jpg" /&gt;
+
+
+
+  &lt;p id="xuStQk"&gt;In a sign of how far Amazon’s shipping operation has come, the company will be selling and delivering seven-foot Christmas trees to customers this holiday season. And yes, they’ll be eligible for Prime shipping. &lt;/p&gt;
+&lt;p id="gdSTBx"&gt;&lt;a href="https://apnews.com/5f6506372f364a24b8894cf902eee601"&gt;According to &lt;em&gt;The Associated Press&lt;/em&gt;&lt;/a&gt;, Amazon will start selling the trees sometime in November, letting buyers pick between Douglas firs, Norfolk Island pines, and other options. A seven-foot Fraser fir (sourced from a North Carolina farm) will go for $115. &lt;/p&gt;
+&lt;p id="R9NKiu"&gt;The trees will ship in a large box, but Amazon isn’t including water or anything extra in there. Apparently, each tree will be sent out within 10 days of being cut down, so the company expects they’ll make it through the shipping process just fine before eventually drying out...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018"/>
+    <id>https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018</id>
+    <author>
+      <name>Chris Welch</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T15:32:35-04:00</published>
+    <updated>2018-09-11T15:32:35-04:00</updated>
+    <title>The Logitech Crayon is a good Apple Pencil substitute that makes some compromises</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/aYLh-qYeY4Jk0m5JvSj7Fs3r50U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61290837/akrales_180911_2943_0011.0.jpg" /&gt;
+
+
+
+  &lt;p id="3t58eN"&gt;At its education event in Chicago earlier this year, Apple announced a $49 Logitech Crayon that was only available exclusively to schools and educators. As of last week, Apple has &lt;a href="https://www.theverge.com/circuitbreaker/2018/9/6/17826556/logitech-crayon-ipad-stylus-education-general-public"&gt;changed its tune&lt;/a&gt;, and the Crayon is now available for the rest of us at $69.99. The question of “which stylus to get” between the Logitech Crayon and Apple Pencil is really only an issue if you have the latest $329 iPad, which is the only iPad the Crayon is compatible with. &lt;/p&gt;
+&lt;p id="zP4PTH"&gt;Though it can be seen as a cheaper Apple Pencil alternative, it’s the lack of pressure sensitivity that costs it the $30 difference. Yes, you heard that right, this $70 stylus doesn’t have pressure sensitivity. It does, however, have tilt support, which lets you adjust line weight depending...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review"/>
+    <id>https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review</id>
+    <author>
+      <name>Dami Lee</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T15:25:56-04:00</published>
+    <updated>2018-09-11T15:25:56-04:00</updated>
+    <title>Amazon is stuffing its search results pages with ads </title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/U9tvgODqU5T6xoVrjWleaLMUin8=/129x0:1071x628/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61290517/download.0.jpeg" /&gt;
+
+
+
+  &lt;p&gt;And they seem to be working&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads"/>
+    <id>https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads</id>
+    <author>
+      <name>Rani Molla</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T15:14:09-04:00</published>
+    <updated>2018-09-11T15:14:09-04:00</updated>
+    <title>eBay’s HeadGaze brings hands-free input to the iPhone X using ARKit</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/KG7P5RA8kcIUI3fJ7Fy6GVoQDrc=/128x0:1472x896/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61289917/ebay_headgaze_2.0.png" /&gt;
+
+
+
+  &lt;p id="0vc5H1"&gt;Today, eBay revealed a nifty new piece of augmented reality software that makes use of both the front-facing iPhone X camera and Apple’s ARKit framework. By tracking head motions using the 3D sensors in the TrueDepth camera, which is the same hardware that enables Apple’s Face ID unlock feature, eBay developed a way to transmit input commands by just moving your head. &lt;/p&gt;
+&lt;p id="eSDSUJ"&gt;The system, which eBay is calling HeadGaze, seems to work similarly to eye tracking, although it would understandably be less precise than a fully featured eye-tracking kit. Given its primary business of helping people sell products online, eBay’s demo video illustrates how HeadGaze can be used to do hands-free online shopping, and just glancing at certain parts of the...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source"/>
+    <id>https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source</id>
+    <author>
+      <name>Nick Statt</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-11T14:24:30-04:00</published>
+    <updated>2018-09-11T14:24:30-04:00</updated>
+    <title>OkCupid now lets users define their pronouns</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/fvJ29YOBE2ss3Lm7uONKUAODuOs=/0x0:934x623/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61286443/okcpronoun.0.jpg" /&gt;
+
+
+
+  &lt;p id="XuACNx"&gt;OkCupid users &lt;a href="https://theblog.okcupid.com/share-your-pronouns-on-your-okcupid-profile-16b307a227bb"&gt;can now pick their pronouns&lt;/a&gt;. The company rolled out the new gender-expressive option yesterday, a feature that’ll allow users to choose between he / him, she / her, and they / them. The options join the 22 gender and 13 sexual orientation choices already available to users. The pronouns will show up as a menu when users who identify as any gender other than man or woman sign up for the service. People who have a sexual orientation under the LGBTQ umbrella will also see the menu in their profiles, just not at sign up. &lt;/p&gt;
+&lt;p id="aMrDQ6"&gt;Product designer Rowan Rosenthal, who uses the they / them pronouns, created the feature during OkCupid’s hack week earlier this year. They tell &lt;em&gt;The Verge&lt;/em&gt; that up until now, they always had awkward first date...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options"/>
+    <id>https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options</id>
+    <author>
+      <name>Ashley Carman</name>
+    </author>
+  </entry>
+</feed>
