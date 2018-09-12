@@ -2,9 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2018-09-12T00:36:13-04:00</updated>
+  <updated>2018-09-12T09:06:50-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2018-09-12T09:06:50-04:00</published>
+    <updated>2018-09-12T09:06:50-04:00</updated>
+    <title>Microsoft to ‘warn’ Windows 10 users not to install Chrome or Firefox</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/nB3vWO9TkDdfx0xuJSJ4caA1BpI=/0x0:1320x880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61339229/microsoftedgeprompt.0.jpg" /&gt;
+
+
+
+  &lt;p id="Mw9YQK"&gt;Microsoft is getting ready to warn Windows 10 users not to install Chrome or Firefox. The software giant is in the final stages of testing its &lt;a href="https://www.theverge.com/2018/8/31/17805372/microsoft-windows-10-october-2018-update"&gt;Windows 10 October 2018 Update&lt;/a&gt;, and &lt;a href="https://techdows.com/2018/09/windows-10-warns-to-open-edge-instead-of-installing-firefox.html"&gt;testers have spotted&lt;/a&gt; a new change that appears when you try to install a rival web browser. “You already have Microsoft Edge – the safer, faster browser for Windows 10” says a prompt that appears when you run the Chrome or Firefox installers on the latest Windows 10 October 2018 Update.&lt;/p&gt;
+&lt;p id="AgRhL4"&gt;While the prompts can be turned off, they’re yet another example of &lt;a href="https://www.theverge.com/2017/3/17/14956540/microsoft-windows-10-ads-taskbar-file-explorer"&gt;Microsoft infesting Windows 10 with annoying ads and pop-ups&lt;/a&gt;. Some similar prompts already appear and attempt to push Chrome or Firefox users to use Edge, but this latest one steps up &lt;a href="https://www.theverge.com/2017/3/17/14956540/microsoft-windows-10-ads-taskbar-file-explorer"&gt;Microsoft’s war against...&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17850146/microsoft-windows-10-chrome-firefox-warning"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17850146/microsoft-windows-10-chrome-firefox-warning"/>
+    <id>https://www.theverge.com/2018/9/12/17850146/microsoft-windows-10-chrome-firefox-warning</id>
+    <author>
+      <name>Tom Warren</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T08:17:30-04:00</published>
+    <updated>2018-09-12T08:17:30-04:00</updated>
+    <title>Will we ever get tired of buying iPhones?</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/xp1R7-J_4bbG0i2lZ0OLWBDGinc=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61336945/dbohn_170912_1993_0176.0.jpg" /&gt;
+
+
+
+  &lt;p id="NavdMs"&gt;It’s iPhone launch day today, which I would usually greet with some meditation on the expected features or design of the new device and how it fits into the wider competitive field. This year, however, I want to zoom out rather than in. Because no matter how much or how little the iPhone changes today, no matter how awful its &lt;a href="https://www.theverge.com/2018/9/12/17849898/apple-confirms-iphone-xs-iphone-xs-max-iphone-xr-names"&gt;new naming scheme&lt;/a&gt;, we can all be certain that Apple will sell tens of millions of its 2018 iteration before the year is through. It’s this apparent &lt;em&gt;inevitability&lt;/em&gt; to Apple’s commercial success that I find fascinating.&lt;/p&gt;
+&lt;p id="PbDKvi"&gt;In its 11 years of existence, the iPhone has grown into one giant contradiction.&lt;/p&gt;
+&lt;p id="pevyQf"&gt;On one hand, especially after last year’s price increase for the flagship model, the iPhone is a luxury item. People save...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17849134/apple-iphone-sales-september-2018-event"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17849134/apple-iphone-sales-september-2018-event"/>
+    <id>https://www.theverge.com/2018/9/12/17849134/apple-iphone-sales-september-2018-event</id>
+    <author>
+      <name>Vlad Savov</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T08:00:04-04:00</published>
+    <updated>2018-09-12T08:00:04-04:00</updated>
+    <title>Destiny 2’s Forsaken expansion might be the best the series has ever been</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/uQ7JqUoHsEY_qogNYFU2bKwwWuA=/65x0:1685x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61320957/D2_Forsaken_Gamescom_Super_TitanArc_02.0.jpg" /&gt;
+
+
+
+  		 &lt;p&gt;Bungie’s latest and biggest expansion is a giant and much-needed reset for its shooter-RPG hybrid&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17847450/destiny-2-forsaken-expansion-review-first-impressions"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17847450/destiny-2-forsaken-expansion-review-first-impressions"/>
+    <id>https://www.theverge.com/2018/9/12/17847450/destiny-2-forsaken-expansion-review-first-impressions</id>
+    <author>
+      <name>Nick Statt</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T07:12:57-04:00</published>
+    <updated>2018-09-12T07:12:57-04:00</updated>
+    <title>EU approves controversial internet ‘link tax’ and ‘upload filter’</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/FRQH4Nxn1QINa8W0WUMR7-fS150=/8x0:2033x1350/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61333737/wjoel_180317_2415_002_social.0.0.jpg" /&gt;
+
+
+
+  &lt;p id="dCqaTU"&gt;The European Parliament has voted in favor of &lt;a href="http://www.europarl.europa.eu/news/en/press-room/20180906IPR12103/parliament-adopts-its-position-on-digital-copyright-rules"&gt;the Copyright Directive&lt;/a&gt;, a controversial piece of legislation intended to update online copyright laws for the internet age. &lt;/p&gt;
+&lt;p id="8pZp4k"&gt;The directive was originally rejected by MEPs &lt;a href="https://www.theverge.com/2018/7/5/17535874/eu-copyright-law-article-11-13-rejected-first-vote"&gt;in July&lt;/a&gt; following criticism of two key provisions: Articles 11 and 13, dubbed the “link tax” and “upload filter” by critics. However, in parliament this morning, an updated version of the directive was approved, along with amended versions of Articles 11 and 13. The final vote was 438 in favor and 226 against.&lt;/p&gt;
+&lt;div class="c-float-right"&gt;&lt;aside id="YJg0Nm"&gt;&lt;q&gt;The fight is far from finished&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+&lt;p id="6nDw5G"&gt;The fallout from this decision will be far-reaching, and take a long time to settle. The directive itself still faces a final vote in January 2019 (although experts say it’s unlikely it...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved"/>
+    <id>https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved</id>
+    <author>
+      <name>James Vincent</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T07:00:02-04:00</published>
+    <updated>2018-09-12T07:00:02-04:00</updated>
+    <title>Apple iPhone event 2018: start time, live stream, and live blog</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/UUD3Qp5Gv8cq-CGIdF7_vKHhi-o=/100x0:1546x964/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61293219/Screen_Shot_2018_08_30_at_12.13.04_PM.0.png" /&gt;
+
+
+
+  &lt;p id="IjCXgb"&gt;iPhones! Apple Watches! More Apple announcements! We’re just hours away from Apple’s big fall hardware event where the company is expected to show off the phones, smartwatches, accessories, and software updates for its suite of products. &lt;/p&gt;
+&lt;p id="khIquQ"&gt;As always, the spotlight will almost certainly be on the rumored iPhone XS and XS Max, which are updates to last year’s flagship iPhone X. There’s also rumored to be a new iPhone XR with 6.1-inch LCD that could bring the bezel-less notch display down to a cheaper price point.&lt;/p&gt;
+&lt;aside id="Yv7CVn"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"Five things to expect at the Apple event next week","url":"https://www.theverge.com/2018/9/7/17826686/apple-event-september-2018-rumors-preview-iphone-xs-watch"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;p id="HVG4v1"&gt;The Apple Watch is also expected to get a big update with the Series 4 model said to offer the first redesign in years, with a slimmer design and a larger screen. &lt;/p&gt;
+&lt;p id="GQOoaM"&gt;And given that it’s Apple, anything (maybe even “&lt;a href="https://www.theverge.com/2014/9/9/6127397/apple-said-one-more-thing-for-the-first-time-since-steve-jobs-death"&gt;one more thing&lt;/a&gt;”)...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17831040/apple-event-live-stream-time-watch-iphone-keynote-launch-2018"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17831040/apple-event-live-stream-time-watch-iphone-keynote-launch-2018"/>
+    <id>https://www.theverge.com/2018/9/12/17831040/apple-event-live-stream-time-watch-iphone-keynote-launch-2018</id>
+    <author>
+      <name>Chaim Gartenberg</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T06:39:15-04:00</published>
+    <updated>2018-09-12T06:39:15-04:00</updated>
+    <title>Apple leaks iPhone XS, XS Max, and XR names on its own website</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/SMSkNG7zyCMMqIqlmb8AOX1PdEA=/0x0:1320x880/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61332261/iphonexs.0.1536748754.jpg" /&gt;
+
+
+
+  &lt;p id="WxCwJI"&gt;A last-minute leak has seemingly confirmed the iPhone XS, XS Max, and XR names for Apple’s newest phones, and revealed new Apple Watch sizes. The names, &lt;a href="https://allthings.how/iphone-xs-and-iphone-xs-max-names-confirmed-in-apple-products-sitemap/"&gt;first spotted by &lt;em&gt;ATH&lt;/em&gt;&lt;/a&gt;, are found in a &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.apple.com%2Fshop%2Fsitemaps%2Fsitemap-product.xml" rel="nofollow noopener" target="_blank"&gt;product sitemap XML file&lt;/a&gt; hosted on Apple.com, and are associated with items that will be available to purchase including AppleCare support, phone cases, and Watch bands. Today’s leak would put the names “iPhone XS Plus” and “iPhone XC” out of contention. &lt;/p&gt;
+&lt;p id="zhYwoE"&gt;The XML file mentions the Apple Watch Series 4 by name, and new watch bands in wider 40mm and 44mm sizes (existing Apple Watches are either 38mm or 42mm) and a variety of colors. &lt;/p&gt;
+&lt;p id="LZkdYz"&gt;The file has been pulled, but not before we grabbed a few screenshots.&lt;/p&gt;
+  &lt;figure class="e-image"&gt;
+        
+  &lt;/figure&gt;
+  &lt;figure class="e-image"&gt;
+        
+  &lt;/figure&gt;
+  &lt;figure class="e-image"&gt;
+        
+  &lt;/figure&gt;
+&lt;p id="l8vZZO"&gt;The...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17849898/apple-confirms-iphone-xs-iphone-xs-max-iphone-xr-names"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17849898/apple-confirms-iphone-xs-iphone-xs-max-iphone-xr-names"/>
+    <id>https://www.theverge.com/2018/9/12/17849898/apple-confirms-iphone-xs-iphone-xs-max-iphone-xr-names</id>
+    <author>
+      <name>Thomas Ricker</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-09-12T06:00:04-04:00</published>
+    <updated>2018-09-12T06:00:04-04:00</updated>
+    <title>A partisan war over fact-checking is putting pressure on Facebook</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/v5Zg_gAleYg7jmJ_xwNe4WvCuc8=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61304935/akrales_180614_1777_0099.0.jpg" /&gt;
+
+
+
+  &lt;p id="kn4F6n"&gt;In December of last year, conservative publisher &lt;em&gt;The Weekly Standard &lt;/em&gt;became &lt;a href="http://em.getrevue.co/mpss/c/-AA/1EoYAA/t.2ks/LnVbh0WmQomVUazkM-F3xg/h2/HE2UYZIDTZxfLuJ8qHDFiEgByNtltdx-2BO9l5fN8BsDUntf3cHgTTGQikfmCLBcuDudLYaf5-2FY84g-2Bnm2HxpSpvGQ6dwJUWjIl1Dd5YAF9z54Pz1QMkCNRxNRZO1T5xwjbEU8ltfrTCnUWWPoi7McZOPqTENjfDWqP7Yt3v94UoVbIu-2BFV-2BqCQ6sOgViHh-2BF5"&gt;an approved fact-checker at Facebook&lt;/a&gt;. It is the only partisan outlet to be approved as a Facebook fact-checker in the United States, and the decision to include it in the partnership alongside the Associated Press, Politifact, Snopes, and Factcheck.org &lt;a href="http://em.getrevue.co/mpss/c/-AA/1EoYAA/t.2ks/LnVbh0WmQomVUazkM-F3xg/h3/A1SU7mtjs2kLEoznlDIrqYmyxn9zULL6-2F8HpqoNgf0-2BRBQSt5SH6iDuUdDNCTVewfuQXr51aSG5SflRbQHNJExlphEVtgbWiH8N6kJj2CKMxvvzNd-2BrPoP0eW5OYYtC8abHJaggIcf0lKISUuR2haoL-2Bfm1OU0GXNgNcsmAzqkTY8fVC4B46EQL2ZTn2cR5O7eAYamBBUAhTshTnoBOJiM-2BkCsIKMXqZlP0USclvxNI-3D"&gt;drew some criticism when it occurred&lt;/a&gt;, as Sam Levin reported at the time in the &lt;em&gt;Guardian&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p id="KixxJj"&gt;“I’m really disheartened and disturbed by this,” said Angelo Carusone, president of Media Matters for America, a progressive watchdog group that &lt;a href="http://em.getrevue.co/mpss/c/-AA/1EoYAA/t.2ks/LnVbh0WmQomVUazkM-F3xg/h4/hN6pcpWamWZlxfsmE6eKro2Ox8pSwu4E8kz-2BPcP7N1C56RcxPTVXqWUKf3Tw1KfsHWTg5auv-2FB0vmzXsNrdlxqwnSxHQWanDqVyRPr7oA5o9R-2FXp399XvH5IJy8YPxR5biiSpNCKzkj7d-2Fed-2BeY-2BYdmD2TAVA5OqmRc0cAxTqgEBvtfj6XXa7ulHXQT5-2FgfEaE1Uh1dIU1zuZh9i6IxJMU30kPXjjKJyO3qxJRaVExs0nL95kdBzM-2FQHqnRuclItp10bK1N-2BarJLkXqos-2Fs28a4gnjvoqX1PYg9tGrYO3fY-3D"&gt;published numerous criticisms&lt;/a&gt; of the Weekly Standard after the partnership was &lt;a href="http://em.getrevue.co/mpss/c/-AA/1EoYAA/t.2ks/LnVbh0WmQomVUazkM-F3xg/h5/hN6pcpWamWZlxfsmE6eKro2Ox8pSwu4E8kz-2BPcP7N1Bi0XkXgakEn8sA1cDQJ7csSLrpDTACPAuZEL8ELndr1PoOcC4Y1TllGhDhGE4Ld5rVCiRxJz7FWp1gSic7am-2F4zN55yixeifBT775NgwUdcCiwNZPEG8Xm7q-2BZtVFxDN-2BD6gIzUcKKxJBoT6B4ywd-2BY-2Bm8Ln1KBr8mtajUjnF-2BrypcgKrF56AfCUQhV6R6sniuiW2lGD5GghTmb6SgmXAUPRf6I4LV-2FIDNBdjnZREZyg4qyjfRPgzvSFO0re9LJhE-3D"&gt;first rumored&lt;/a&gt; in October. “They have described themselves as an opinion magazine. They are supposed to...&lt;/p&gt;
+&lt;/blockquote&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/9/12/17848478/thinkprogress-weekly-standard-facebook-fact-check-false"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/12/17848478/thinkprogress-weekly-standard-facebook-fact-check-false"/>
+    <id>https://www.theverge.com/2018/9/12/17848478/thinkprogress-weekly-standard-facebook-fact-check-false</id>
+    <author>
+      <name>Casey Newton</name>
+    </author>
+  </entry>
   <entry>
     <published>2018-09-12T00:36:13-04:00</published>
     <updated>2018-09-12T00:36:13-04:00</updated>
@@ -52,181 +223,25 @@
     </author>
   </entry>
   <entry>
-    <published>2018-09-11T17:00:02-04:00</published>
-    <updated>2018-09-11T17:00:02-04:00</updated>
-    <title>Verizon will launch 5G home internet service starting October 1st</title>
+    <published>2018-09-12T06:00:00-04:00</published>
+    <updated>2018-09-12T06:00:00-04:00</updated>
+    <title>Today, the EU will vote on the future of the internet (again) </title>
     <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/6G1SBJBYwoo_5mxyeUllSwKMGpE=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61295215/acastro_180430_1777_5G_0001.0.1536704518.jpg" /&gt;
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Aulv72ee4Vpj-xh9bIHY83EeTTA=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61274893/acastro_1800724_1777_EU_0001.0.jpg" /&gt;
 
 
 
-  &lt;p id="lKXnRw"&gt;Verizon’s 5G broadband internet service will go live later this fall, with installations starting on October 1st in Houston, Indianapolis, Los Angeles, and Sacramento, the company &lt;a href="https://go.redirectingat.com?id=66960X1514734&amp;amp;xs=1&amp;amp;url=https%3A%2F%2Fwww.verizon.com%2Fabout%2Fnews%2F5g-here" rel="nofollow noopener" target="_blank"&gt;announced today&lt;/a&gt;. This marks the first 5G commercial service to launch in the US, and it sees &lt;a href="https://www.theverge.com/2017/11/29/16717270/verizon-5g-rollout-service-five-cities-sacramento-milimeter-wave"&gt;Verizon make good on its promise to do so in November 2017&lt;/a&gt;. Verizon is calling it simply 5G Home, quoting “typical speeds” of 300 Mbps and peak speeds of nearly 1 Gbps, depending upon location.&lt;/p&gt;
-&lt;p id="ZdC6Co"&gt;This isn’t &lt;a href="https://www.theverge.com/2017/2/24/14701430/5g-network-explained-mobile-data-cellular-millimeter-wave"&gt;true mobile 5G&lt;/a&gt;, which will be the more impactful rollout of the new internet speed standard that was finalized last December when all networks and phone manufacturers support it. But theoretically, it should bring faster broadband speeds for home internet that are on...&lt;/p&gt;
+  &lt;p id="Yg15Xf"&gt;The fight over EU copyright reform is not over yet. Today, members of the European Parliament (MEPs) will vote on amendments to the Copyright Directive, a piece of draft legislation that was intended to update copyright for the internet age but has been mired in controversy after the inclusion of two provisions: Articles 11 and 13, also known as the “link tax” and “upload filter.” &lt;/p&gt;
+&lt;p id="fAsb9A"&gt;Critics of the directive claim that these clauses &lt;a href="https://www.theverge.com/2018/6/19/17480344/eu-european-union-parliament-copyright-article-13-upload-filter"&gt;threaten the internet as we know it&lt;/a&gt;. The link tax would require online platforms like Google and Facebook to pay media companies when linking to their articles, and the upload filter could force them to check all content uploaded to their sites to remove copyrighted material. Supporters of these measures,...&lt;/p&gt;
   &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+    &lt;a href="https://www.theverge.com/2018/9/11/17845394/eu-copyright-directive-reform-date-vote-article-11-13"&gt;Continue reading&amp;hellip;&lt;/a&gt;
   &lt;/p&gt;
 
 </content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1"/>
-    <id>https://www.theverge.com/2018/9/11/17847640/verizon-5g-first-home-broadband-internet-service-installations-october-1</id>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17845394/eu-copyright-directive-reform-date-vote-article-11-13"/>
+    <id>https://www.theverge.com/2018/9/11/17845394/eu-copyright-directive-reform-date-vote-article-11-13</id>
     <author>
-      <name>Nick Statt</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T16:29:20-04:00</published>
-    <updated>2018-09-11T16:29:20-04:00</updated>
-    <title>Popular Twitch streamer says someone shot at his house twice in a week</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/SbKJYPR-X5AM4oF8q-Rv3eLEExs=/0x0:1116x744/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61293931/Screen_Shot_2018_09_11_at_3.45.49_PM.0.png" /&gt;
-
-
-
-  &lt;p id="A2gaF3"&gt;Guy Beahm, best known as the boisterous &lt;em&gt;PlayerUnknown’s Battlegrounds&lt;/em&gt; streamer Dr. Disrespect, abruptly stopped his Twitch broadcast today following what he says was an attempted shooting at his house. &lt;/p&gt;
-&lt;p id="hxvMWu"&gt;News of this apparent shooting spread primarily due to Beahm’s live stream, where he can be seen playing &lt;em&gt;Call of Duty&lt;/em&gt; only to leave his station following an unknown noise. He breaks character and says, “someone shot at our house. Broke the fucking upstairs window. This is the second shot. Someone shot yesterday at our fucking house.” Before the broadcast ends,  Beahm is visibly upset, and yells, “you pussy” at whoever perpetrated the apparent drive-by shooting. &lt;/p&gt;
-&lt;p id="z1g3yM"&gt;Details are scarce at the moment, but &lt;a href="https://www.polygon.com/2018/9/11/17847158/dr-disrespect-shooting-house-twitch-livestream"&gt;as &lt;em&gt;Polygon &lt;/em&gt;reports,&lt;/a&gt; authorities in...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls"/>
-    <id>https://www.theverge.com/2018/9/11/17847474/dr-disrespect-shooting-twitch-stream-investigation-trolls</id>
-    <author>
-      <name>Patricia Hernandez</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T15:56:42-04:00</published>
-    <updated>2018-09-11T15:56:42-04:00</updated>
-    <title>Plex shutters its cloud service after months of technical issues</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/_X9GIh3x42aHTDOpzrXXwFCz-gc=/109x0:2137x1352/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61292219/plex-cloud-server.0.0.jpg" /&gt;
-
-
-
-  &lt;p id="KebSeI"&gt;Personal media player Plex told its users today that it’s shutting down its Plex Cloud service at the end of November, as &lt;a href="https://variety.com/2018/digital/news/plex-cloud-shutting-down-1202936840/"&gt;spotted by &lt;em&gt;Variety&lt;/em&gt;&lt;/a&gt;. The Plex Cloud service has had multiple technical issues and has been in maintenance mode for a few months.&lt;/p&gt;
-&lt;p id="j2IWaL"&gt;The company shared an email it sent customers with &lt;em&gt;The Verge &lt;/em&gt;that said “after a lot of investigation and thought, we haven’t found a solution capable of delivering a truly first class Plex experience to Plex Cloud users at a reasonable cost.” It continued, “While we are super bummed about the impact this will have on our happy Cloud users, ending support for it will allow us to focus on improving core functionality, adding new features and content.”&lt;/p&gt;
-&lt;div class="c-float-right"&gt;&lt;aside id="oHRzTW"&gt;&lt;q&gt;Unable to handle multiple cloud storage...&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues"/>
-    <id>https://www.theverge.com/2018/9/11/17847288/plex-cloud-service-ends-technical-issues</id>
-    <author>
-      <name>Shannon Liao</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T15:50:22-04:00</published>
-    <updated>2018-09-11T15:50:22-04:00</updated>
-    <title>Amazon will sell live, seven-foot Christmas trees this year</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/1fkXlsEt5xqju-oDuPY46BsT0bM=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61291851/901652050.jpg.0.jpg" /&gt;
-
-
-
-  &lt;p id="xuStQk"&gt;In a sign of how far Amazon’s shipping operation has come, the company will be selling and delivering seven-foot Christmas trees to customers this holiday season. And yes, they’ll be eligible for Prime shipping. &lt;/p&gt;
-&lt;p id="gdSTBx"&gt;&lt;a href="https://apnews.com/5f6506372f364a24b8894cf902eee601"&gt;According to &lt;em&gt;The Associated Press&lt;/em&gt;&lt;/a&gt;, Amazon will start selling the trees sometime in November, letting buyers pick between Douglas firs, Norfolk Island pines, and other options. A seven-foot Fraser fir (sourced from a North Carolina farm) will go for $115. &lt;/p&gt;
-&lt;p id="R9NKiu"&gt;The trees will ship in a large box, but Amazon isn’t including water or anything extra in there. Apparently, each tree will be sent out within 10 days of being cut down, so the company expects they’ll make it through the shipping process just fine before eventually drying out...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018"/>
-    <id>https://www.theverge.com/2018/9/11/17847208/amazon-christmas-trees-prime-shipping-holidays-2018</id>
-    <author>
-      <name>Chris Welch</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T15:32:35-04:00</published>
-    <updated>2018-09-11T15:32:35-04:00</updated>
-    <title>The Logitech Crayon is a good Apple Pencil substitute that makes some compromises</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/aYLh-qYeY4Jk0m5JvSj7Fs3r50U=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61290837/akrales_180911_2943_0011.0.jpg" /&gt;
-
-
-
-  &lt;p id="3t58eN"&gt;At its education event in Chicago earlier this year, Apple announced a $49 Logitech Crayon that was only available exclusively to schools and educators. As of last week, Apple has &lt;a href="https://www.theverge.com/circuitbreaker/2018/9/6/17826556/logitech-crayon-ipad-stylus-education-general-public"&gt;changed its tune&lt;/a&gt;, and the Crayon is now available for the rest of us at $69.99. The question of “which stylus to get” between the Logitech Crayon and Apple Pencil is really only an issue if you have the latest $329 iPad, which is the only iPad the Crayon is compatible with. &lt;/p&gt;
-&lt;p id="zP4PTH"&gt;Though it can be seen as a cheaper Apple Pencil alternative, it’s the lack of pressure sensitivity that costs it the $30 difference. Yes, you heard that right, this $70 stylus doesn’t have pressure sensitivity. It does, however, have tilt support, which lets you adjust line weight depending...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review"/>
-    <id>https://www.theverge.com/circuitbreaker/2018/9/11/17842556/ipad-logitech-crayon-apple-pencil-stylus-review</id>
-    <author>
-      <name>Dami Lee</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T15:25:56-04:00</published>
-    <updated>2018-09-11T15:25:56-04:00</updated>
-    <title>Amazon is stuffing its search results pages with ads </title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/U9tvgODqU5T6xoVrjWleaLMUin8=/129x0:1071x628/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61290517/download.0.jpeg" /&gt;
-
-
-
-  &lt;p&gt;And they seem to be working&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads"/>
-    <id>https://www.recode.net/2018/9/10/17797720/amazon-is-stuffing-its-search-results-pages-with-ads</id>
-    <author>
-      <name>Rani Molla</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T15:14:09-04:00</published>
-    <updated>2018-09-11T15:14:09-04:00</updated>
-    <title>eBay’s HeadGaze brings hands-free input to the iPhone X using ARKit</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/KG7P5RA8kcIUI3fJ7Fy6GVoQDrc=/128x0:1472x896/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61289917/ebay_headgaze_2.0.png" /&gt;
-
-
-
-  &lt;p id="0vc5H1"&gt;Today, eBay revealed a nifty new piece of augmented reality software that makes use of both the front-facing iPhone X camera and Apple’s ARKit framework. By tracking head motions using the 3D sensors in the TrueDepth camera, which is the same hardware that enables Apple’s Face ID unlock feature, eBay developed a way to transmit input commands by just moving your head. &lt;/p&gt;
-&lt;p id="eSDSUJ"&gt;The system, which eBay is calling HeadGaze, seems to work similarly to eye tracking, although it would understandably be less precise than a fully featured eye-tracking kit. Given its primary business of helping people sell products online, eBay’s demo video illustrates how HeadGaze can be used to do hands-free online shopping, and just glancing at certain parts of the...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source"/>
-    <id>https://www.theverge.com/2018/9/11/17847006/ebay-headgaze-hands-free-shopping-apple-iphone-x-arkit-open-source</id>
-    <author>
-      <name>Nick Statt</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-09-11T14:24:30-04:00</published>
-    <updated>2018-09-11T14:24:30-04:00</updated>
-    <title>OkCupid now lets users define their pronouns</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/fvJ29YOBE2ss3Lm7uONKUAODuOs=/0x0:934x623/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61286443/okcpronoun.0.jpg" /&gt;
-
-
-
-  &lt;p id="XuACNx"&gt;OkCupid users &lt;a href="https://theblog.okcupid.com/share-your-pronouns-on-your-okcupid-profile-16b307a227bb"&gt;can now pick their pronouns&lt;/a&gt;. The company rolled out the new gender-expressive option yesterday, a feature that’ll allow users to choose between he / him, she / her, and they / them. The options join the 22 gender and 13 sexual orientation choices already available to users. The pronouns will show up as a menu when users who identify as any gender other than man or woman sign up for the service. People who have a sexual orientation under the LGBTQ umbrella will also see the menu in their profiles, just not at sign up. &lt;/p&gt;
-&lt;p id="aMrDQ6"&gt;Product designer Rowan Rosenthal, who uses the they / them pronouns, created the feature during OkCupid’s hack week earlier this year. They tell &lt;em&gt;The Verge&lt;/em&gt; that up until now, they always had awkward first date...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options"/>
-    <id>https://www.theverge.com/2018/9/11/17846054/okcupid-pronoun-options</id>
-    <author>
-      <name>Ashley Carman</name>
+      <name>James Vincent</name>
     </author>
   </entry>
 </feed>

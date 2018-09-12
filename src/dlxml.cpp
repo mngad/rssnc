@@ -8,8 +8,60 @@
 void printTitles(Item items){
 	std::cout<<items.GetTitle()<<std::endl;
 	std::cout<<items.GetUrl()<<std::endl;
+	std::cout<<items.GetDate()<<std::endl;
 }
+bool checkExists(TiXmlElement *elem){
 
+	if(elem != NULL){
+		return true;
+	}
+	else{
+		return false;
+	}
+}
+void openXMLAtom(TiXmlDocument *doc)
+{
+	TiXmlElement *rootElem = doc->RootElement();
+	TiXmlElement *entryC = rootElem->FirstChildElement( "entry" );
+	TiXmlElement *entry = rootElem->FirstChildElement( "entry" );
+	int numItems = 0;
+	while(NULL != entryC){
+		numItems++;
+		entryC = entryC->NextSiblingElement("entry");
+
+	}
+	std::cout <<numItems<<std::endl;
+	Item itemArr[numItems];	
+	int count = 0;
+	while(count<numItems){
+		TiXmlElement *title = entry->FirstChildElement( "title" );
+		TiXmlElement *content = entry->FirstChildElement( "content" );
+		TiXmlElement *link = entry->FirstChildElement( "id" );
+		TiXmlElement *date = entry->FirstChildElement( "updated" );
+		if(checkExists(title)){
+			itemArr[count].SetTitle(title->GetText());
+		}
+		if(checkExists(content)){
+			itemArr[count].SetDescr(content->GetText());
+		}
+		if(checkExists(link)){
+			itemArr[count].SetUrl(link->GetText());
+		}
+		if(checkExists(date)){
+			itemArr[count].SetDate(date->GetText());
+		}
+
+		count++;
+		entry = entry->NextSiblingElement("entry");
+	
+	}
+
+	for(int a =0; a<numItems; a++)
+	{
+		printTitles(itemArr[a]);
+	}
+	std::cout<<"done"<<std::endl;
+}
 void openXML(TiXmlDocument *doc)
 {
 	TiXmlElement *rootElem = doc->RootElement();
@@ -48,7 +100,7 @@ void openXML(const char* pFilename)
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
-		openXML( &doc ); // defined later in the tutorial
+		openXMLAtom( &doc ); // defined later in the tutorial
 	}
 	else
 	{
