@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream> 
+#include <fstream>
 #include <curl/curl.h>
 #include "tinyxml.h"
 #include "Item.h"
@@ -19,80 +20,88 @@ bool checkExists(TiXmlElement *elem){
 		return false;
 	}
 }
+
+std::string openFirstType(TiXmlDocument *doc){
+	TiXmlElement *rootElem = doc->RootElement();
+	TiXmlElement *entry = rootElem->FirstChildElement( "entry" );
+	if(NULL != entry){
+		return "entry";
+	}
+	else{
+
+		TiXmlElement *rootElem = doc->RootElement();
+		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
+		TiXmlElement *itemC = channel->FirstChildElement( "item" );
+		return "item";
+	}
+}
 void openXMLAtom(TiXmlDocument *doc)
 {
+	TiXmlElement *entryC;
+	TiXmlElement *entry;
+	std::string firstType = openFirstType(doc);
 	TiXmlElement *rootElem = doc->RootElement();
-	TiXmlElement *entryC = rootElem->FirstChildElement( "entry" );
-	TiXmlElement *entry = rootElem->FirstChildElement( "entry" );
+	if(firstType == "entry"){
+		entryC = rootElem->FirstChildElement( firstType.c_str() );
+		entry = rootElem->FirstChildElement( firstType.c_str() );
+	}
+	if(firstType == "item"){
+		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
+		entryC = channel->FirstChildElement( firstType.c_str() );
+		entry = channel->FirstChildElement( firstType.c_str() );
+	}
 	int numItems = 0;
 	while(NULL != entryC){
 		numItems++;
-		entryC = entryC->NextSiblingElement("entry");
+		entryC = entryC->NextSiblingElement(firstType.c_str());
 
 	}
-	std::cout <<numItems<<std::endl;
 	Item itemArr[numItems];	
 	int count = 0;
 	while(count<numItems){
 		TiXmlElement *title = entry->FirstChildElement( "title" );
 		TiXmlElement *content = entry->FirstChildElement( "content" );
-		TiXmlElement *link = entry->FirstChildElement( "id" );
+		TiXmlElement *id = entry->FirstChildElement( "id" );
 		TiXmlElement *date = entry->FirstChildElement( "updated" );
+		TiXmlElement *descr = entry->FirstChildElement( "description" );
+		TiXmlElement *link = entry->FirstChildElement( "link" );
+		TiXmlElement *pubdate = entry->FirstChildElement( "pubDate" );
+
 		if(checkExists(title)){
 			itemArr[count].SetTitle(title->GetText());
 		}
 		if(checkExists(content)){
 			itemArr[count].SetDescr(content->GetText());
 		}
-		if(checkExists(link)){
+		else if(checkExists(descr)){
+			itemArr[count].SetDescr(descr->GetText());
+		}
+		if(checkExists(id)){
+			itemArr[count].SetUrl(id->GetText());
+		}
+		else if(checkExists(link)){
 			itemArr[count].SetUrl(link->GetText());
 		}
 		if(checkExists(date)){
 			itemArr[count].SetDate(date->GetText());
 		}
+		else if(checkExists(pubdate)){
+			itemArr[count].SetDate(pubdate->GetText());
+		}
 
 		count++;
-		entry = entry->NextSiblingElement("entry");
+		entry = entry->NextSiblingElement(firstType.c_str());
 	
 	}
 
 	for(int a =0; a<numItems; a++)
 	{
-		printTitles(itemArr[a]);
-	}
-	std::cout<<"done"<<std::endl;
-}
-void openXML(TiXmlDocument *doc)
-{
-	TiXmlElement *rootElem = doc->RootElement();
-	TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
-	TiXmlElement *itemC = channel->FirstChildElement( "item" );
-	TiXmlElement *item = channel->FirstChildElement( "item" );
-	int numItems = 0;
-	while(NULL != itemC){
-		numItems++;
-		itemC = itemC->NextSiblingElement("item");
-	}
-	std::cout <<numItems<<std::endl;
-	Item itemArr[numItems];	
-	int count = 0;
-	while(count<numItems){
-		//std::cout<<item->FirstChildElement( "title" )->GetText()<<std::endl;
-		itemArr[count].SetTitle(item->FirstChildElement( "title" )->GetText());
-		itemArr[count].SetDescr(item->FirstChildElement( "description" )->GetText());
-		itemArr[count].SetUrl(item->FirstChildElement( "link" )->GetText());
-		itemArr[count].SetDate(item->FirstChildElement( "pubDate" )->GetText());
-		count++;
-		item = item->NextSiblingElement("item");
 	
+		printTitles(itemArr[a]);
 	}
 
-	for(int a =0; a<numItems; a++)
-	{
-		printTitles(itemArr[a]);
-	}
-	std::cout<<"done"<<std::endl;
 }
+
 void openXML(const char* pFilename)
 {
 	TiXmlDocument doc(pFilename);
@@ -100,7 +109,8 @@ void openXML(const char* pFilename)
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
-		openXMLAtom( &doc ); // defined later in the tutorial
+		openXMLAtom( &doc );
+		doc.Clear();
 	}
 	else
 	{
@@ -121,13 +131,10 @@ void saveRssXml(char const *pagename, char const *link)
 	  curl_easy_setopt(curl, CURLOPT_NOPROGRESS, 1L);
 	  pagefile = fopen(pagename, "wb");
 	  if(pagefile) {
-		  /* write the page body to this file handle */
 		  curl_easy_setopt(curl, CURLOPT_WRITEDATA, pagefile);
 
-		  /* get it! */
 		  curl_easy_perform(curl);
 
-		  /* close the header file */
 		  fclose(pagefile);
 	  }
 	  curl_easy_cleanup(curl);
@@ -137,10 +144,14 @@ void saveRssXml(char const *pagename, char const *link)
 
 int main()
 {
-	char const *pagename = "url.txt";	
-	//char const *link = "http://feeds.bbci.co.uk/news/uk/rss.xml";
-	char const *link = "https://www.theverge.com/rss/index.xml";
-	saveRssXml(pagename, link);
-	openXML(pagename);
+	std::ifstream file("urllist.txt");
+	std::string content;
+	int id =0;
+	while(file >> content) {
+		saveRssXml(std::to_string(id).c_str(), content.c_str());
+
+		openXML(std::to_string(id).c_str());
+		id++;
+	}
 	return 0;
 }
