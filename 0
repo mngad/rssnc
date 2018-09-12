@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Sep 2018 15:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Sep 2018 21:27:35 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[E. coli 'caused Egypt hotel couple's deaths']]></title>
-            <description><![CDATA[A British couple who died at Egyptian hotel were killed by E. coli, the country's authorities say.]]></description>
+            <description><![CDATA[Egyptian authorities say E. coli caused the deaths of a British couple, a claim dismissed by their daughter as "rubbish".]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-45501947</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45501947</guid>
-            <pubDate>Wed, 12 Sep 2018 15:31:27 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 18:50:01 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AEB5/production/_103152744_cooperss.jpg"/>
         </item>
         <item>
@@ -29,31 +29,39 @@
             <link>https://www.bbc.co.uk/news/world-europe-45494627</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45494627</guid>
             <pubDate>Wed, 12 Sep 2018 14:57:22 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/35DD/production/_103298731_mediaitem103298730.jpg"/>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A4D8/production/_103400224_cctvpic2metpolice.jpg"/>
         </item>
         <item>
             <title><![CDATA[Brexit: Tory MPs say technology key to avoiding hard Irish border]]></title>
-            <description><![CDATA[There is no need for physical checks, Brexiteer MPs say, if "established" procedures are used.]]></description>
+            <description><![CDATA[There is no need for physical checks if "established" procedures are used, Brexiteer MPs say,]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45495960</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45495960</guid>
-            <pubDate>Wed, 12 Sep 2018 14:26:24 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 16:05:42 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11D45/production/_103392037_gettyimages-530478418-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glass Animals drummer 'learned to talk again' after lorry crash]]></title>
+            <description><![CDATA[Joe Seaward from Glass Animals suffered a fractured skull while cycling in Dublin.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-45500432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-45500432</guid>
+            <pubDate>Wed, 12 Sep 2018 17:00:28 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A47F/production/_102511124_mediaitem102511123.jpg"/>
         </item>
         <item>
             <title><![CDATA[Woman struck by hit-and-run cyclist in Dalston dies]]></title>
             <description><![CDATA[Sakine Cihan is thought to be the first pedestrian in London to die after being hit by an electric bike.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-45497026</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45497026</guid>
-            <pubDate>Wed, 12 Sep 2018 13:13:34 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 15:53:00 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DE7F/production/_103395965_dltenw8w4aazmvp.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Birmingham sex death killer jailed for 'sadistic' murder of mum]]></title>
-            <description><![CDATA[Richard Bailey, who has 171 previous convictions, claimed his victim died accidentally.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-45497285</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45497285</guid>
-            <pubDate>Wed, 12 Sep 2018 13:36:22 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2180/production/_103367580_charlottenew.jpg"/>
+            <title><![CDATA[Scallop negotiations end with no deal, say fishing leaders]]></title>
+            <description><![CDATA[Crews clashed in the English Channel over laws that allow British boats to gather scallops but place restrictions on French vessels.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45502115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45502115</guid>
+            <pubDate>Wed, 12 Sep 2018 17:49:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/158C4/production/_103206288_stonethrow.jpg"/>
         </item>
         <item>
             <title><![CDATA[Cornwall Council adds apostrophe to Land's End]]></title>
@@ -62,6 +70,14 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-45499594</guid>
             <pubDate>Wed, 12 Sep 2018 14:00:15 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/153CD/production/_103398968_land&apos;send.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Birmingham sex death killer jailed for 'sadistic' murder of mum]]></title>
+            <description><![CDATA[Richard Bailey, who has 171 previous convictions, claimed his victim died accidentally.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-45497285</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45497285</guid>
+            <pubDate>Wed, 12 Sep 2018 13:36:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2180/production/_103367580_charlottenew.jpg"/>
         </item>
         <item>
             <title><![CDATA[Labour's Tom Watson 'reversed' type-2 diabetes through diet and exercise]]></title>
@@ -80,27 +96,11 @@
             <media:thumbnail width="983" height="553" url="http://c.files.bbci.co.uk/F4AF/production/_103393626_hi038750956.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Boy, 7, dies after fall from pub wall in Romford]]></title>
-            <description><![CDATA[The boy was found with serious injuries and died in hospital.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45493888</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45493888</guid>
-            <pubDate>Wed, 12 Sep 2018 07:15:01 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6912/production/_103389862_mediaitem103389858.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup winner fined for drink-driving]]></title>
-            <description><![CDATA[The World Cup-winning captain was fined £50,000 for being more than twice the limit in his Porsche.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45482366</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45482366</guid>
-            <pubDate>Wed, 12 Sep 2018 13:15:28 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AA81/production/_103394634_mediaitem103391793.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Grenfell Tower fire: Bereaved to help decide site's future]]></title>
             <description><![CDATA[A panel is set up to devise "the most fitting and appropriate way" to memorialise fire's 72 victims.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45499754</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45499754</guid>
-            <pubDate>Wed, 12 Sep 2018 15:15:09 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 18:01:13 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D2D1/production/_103396935_mediaitem103396934.jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <description><![CDATA[Chikayzea Flanders, 12, had been told he would have to cut off his dreadlocks or face suspension.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-45499584</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45499584</guid>
-            <pubDate>Wed, 12 Sep 2018 14:09:38 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 17:25:53 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AC71/production/_98554144_boy.jpg"/>
         </item>
         <item>
@@ -118,6 +118,14 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45492228</guid>
             <pubDate>Wed, 12 Sep 2018 06:01:53 GMT</pubDate>
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/119AD/production/_103390127_p06ky0n7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Creepy' alarm sound made Ipswich woman 'feel sick']]></title>
+            <description><![CDATA[The woman heard the sound of "It's raining, it's pouring" intermittently over the course of a year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-45501615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-45501615</guid>
+            <pubDate>Wed, 12 Sep 2018 17:35:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17565/production/_103398559_p06l00gg.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why women struggle to get coils and implants]]></title>
@@ -160,14 +168,6 @@
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10189/production/_103392956_p06kyh5t.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Iain Duncan Smith says he'd 'stamp on' any coup against Theresa May]]></title>
-            <description><![CDATA[Iain Duncan Smith says anyone talking about challenging Theresa May should "grow up and leave the room".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45501167</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45501167</guid>
-            <pubDate>Wed, 12 Sep 2018 14:40:21 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11C4B/production/_103397727_p06kz5qb.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BBC News Channel]]></title>
             <description><![CDATA[BBC coverage of latest developments]]></description>
             <link>https://www.bbc.co.uk/news/10318089</link>
@@ -180,7 +180,7 @@
             <description><![CDATA[The Victorian Society's annual list exposes the plight facing Victorian and Edwardian buildings.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-45485245</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45485245</guid>
-            <pubDate>Wed, 12 Sep 2018 07:00:00 GMT</pubDate>
+            <pubDate>Wed, 12 Sep 2018 15:51:15 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AA76/production/_103383634_convent.jpg"/>
         </item>
         <item>

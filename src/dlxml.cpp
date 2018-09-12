@@ -5,11 +5,12 @@
 #include <curl/curl.h>
 #include "tinyxml.h"
 #include "Item.h"
+#include "feed.h"
 
 void printTitles(Item items){
 	std::cout<<items.GetTitle()<<std::endl;
 	std::cout<<items.GetUrl()<<std::endl;
-	std::cout<<items.GetDate()<<std::endl;
+	// std::cout<<items.GetDate()<<std::endl;
 }
 bool checkExists(TiXmlElement *elem){
 
@@ -21,26 +22,21 @@ bool checkExists(TiXmlElement *elem){
 	}
 }
 
-std::string openFirstType(TiXmlDocument *doc){
-	TiXmlElement *rootElem = doc->RootElement();
-	TiXmlElement *entry = rootElem->FirstChildElement( "entry" );
-	if(NULL != entry){
+std::string openFirstType(TiXmlElement *rootElem){
+	
+	if(NULL != rootElem->FirstChildElement( "entry" )){
 		return "entry";
 	}
 	else{
-
-		TiXmlElement *rootElem = doc->RootElement();
-		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
-		TiXmlElement *itemC = channel->FirstChildElement( "item" );
 		return "item";
 	}
 }
-void openXMLAtom(TiXmlDocument *doc)
+void openXml(TiXmlDocument *doc)
 {
 	TiXmlElement *entryC;
 	TiXmlElement *entry;
-	std::string firstType = openFirstType(doc);
 	TiXmlElement *rootElem = doc->RootElement();
+	std::string firstType = openFirstType(rootElem);
 	if(firstType == "entry"){
 		entryC = rootElem->FirstChildElement( firstType.c_str() );
 		entry = rootElem->FirstChildElement( firstType.c_str() );
@@ -56,7 +52,9 @@ void openXMLAtom(TiXmlDocument *doc)
 		entryC = entryC->NextSiblingElement(firstType.c_str());
 
 	}
+	
 	Item itemArr[numItems];	
+	
 	int count = 0;
 	while(count<numItems){
 		TiXmlElement *title = entry->FirstChildElement( "title" );
@@ -99,6 +97,8 @@ void openXMLAtom(TiXmlDocument *doc)
 	
 		printTitles(itemArr[a]);
 	}
+	// Feed feed = new feed() //TODO
+	// return feed;
 
 }
 
@@ -109,8 +109,8 @@ void openXML(const char* pFilename)
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
-		openXMLAtom( &doc );
-		doc.Clear();
+		openXml( &doc);
+		//doc.Clear();
 	}
 	else
 	{
@@ -142,16 +142,21 @@ void saveRssXml(char const *pagename, char const *link)
 
 }
 
-int main()
-{
-	std::ifstream file("urllist.txt");
+void getRSS(std::string fname){
+
+	std::ifstream file(fname);
 	std::string content;
 	int id =0;
 	while(file >> content) {
 		saveRssXml(std::to_string(id).c_str(), content.c_str());
-
 		openXML(std::to_string(id).c_str());
 		id++;
 	}
+}
+
+int main()
+{
+	getRSS("urllist.txt");
+	
 	return 0;
 }
