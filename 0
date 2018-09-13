@@ -11,97 +11,121 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Sep 2018 08:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Sep 2018 12:29:16 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[PM discussing no-deal Brexit plans]]></title>
-            <description><![CDATA[Theresa May meets her cabinet as the government releases more advice for no Brexit deal being reached.]]></description>
+            <title><![CDATA[Skripal suspects: 'We were just tourists in Salisbury']]></title>
+            <description><![CDATA[The two men were named as suspects in the poisoning of Russian ex-spy Sergei Skripal and his daughter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45509697</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45509697</guid>
+            <pubDate>Thu, 13 Sep 2018 12:08:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1449D/production/_103410138_mediaitem103410134.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Westminster Bridge inquest: Partner tells of girlfriend search]]></title>
+            <description><![CDATA[Andreea Cristea was in London with her boyfriend to celebrate his birthday when the attack happened.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45507412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45507412</guid>
+            <pubDate>Thu, 13 Sep 2018 11:30:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A4/production/_103406240_hi038745105.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No-deal Brexit won't bring back mobile roaming charges - minister]]></title>
+            <description><![CDATA[Britons won't be hit with mobile phone roaming charges if the UK leaves the EU without a deal, a minister vows.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45501007</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45501007</guid>
-            <pubDate>Thu, 13 Sep 2018 01:19:17 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BDF6/production/_103403684_a634bd77-c96a-4c84-9658-2f40e268bf54.jpg"/>
+            <pubDate>Thu, 13 Sep 2018 12:27:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3A4/production/_103408145_gettyimages-694014826.jpg"/>
         </item>
         <item>
             <title><![CDATA[John Lewis profits slump 99% in 'challenging times']]></title>
-            <description><![CDATA[The retailer's half-year profits slump to £1.2m amid discounting "extravaganza days" by rivals.]]></description>
+            <description><![CDATA[The retailer's half-year profits plunge to £1.2m amid discounting "extravaganza days" by rivals.]]></description>
             <link>https://www.bbc.co.uk/news/business-45506322</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45506322</guid>
-            <pubDate>Thu, 13 Sep 2018 07:27:57 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 09:02:19 GMT</pubDate>
             <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/8D36/production/_103405163_9yniarol.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dundee hit by second huge fire in 24 hours]]></title>
-            <description><![CDATA[Sixty firefighters tackle a blaze at an indoor market, less than a day after a major fire at a school in the city.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-tayside-central-45502485</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-tayside-central-45502485</guid>
-            <pubDate>Thu, 13 Sep 2018 05:34:53 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1C6F/production/_103397270_hi049242064.jpg"/>
+            <title><![CDATA[Two dead as lorry and cars crash on M5, near Taunton]]></title>
+            <description><![CDATA[Four people were taken to hospital, two of them with serious injuries, police said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-45508272</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-45508272</guid>
+            <pubDate>Thu, 13 Sep 2018 11:42:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1C02/production/_103407170_m5.jpg.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Met Police officers to be quizzed over spit hoods]]></title>
-            <description><![CDATA[The Met's commissioner has said front-line officers in London will not be allowed the guards.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45499779</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45499779</guid>
-            <pubDate>Wed, 12 Sep 2018 23:07:08 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4421/production/_94014471_spit1.jpg"/>
+            <title><![CDATA[Calls for abortion clinic buffer zones rejected]]></title>
+            <description><![CDATA[The home secretary says protest-free areas around clinics "would not be a proportionate response".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45509202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45509202</guid>
+            <pubDate>Thu, 13 Sep 2018 12:08:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F376/production/_98262326_de27.jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBC solves World Cup streaming delay]]></title>
-            <description><![CDATA[Hearing neighbours cheering goals that you have not seen yet may soon be a thing of the past.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-45499784</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-45499784</guid>
-            <pubDate>Wed, 12 Sep 2018 23:13:23 GMT</pubDate>
-            <media:thumbnail width="1540" height="866" url="http://c.files.bbci.co.uk/1D91/production/_103396570_mediaitem103396569.jpg"/>
+            <title><![CDATA[Bank of England leaves rates on hold amid Brexit uncertainty]]></title>
+            <description><![CDATA[Policymakers at the Bank of England vote 9-0 to leave rates at 0.75% after last month's increase.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45508563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45508563</guid>
+            <pubDate>Thu, 13 Sep 2018 12:09:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17F16/production/_103407089_gettyimages-154742233.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Experts attack health agency's ties to drink industry]]></title>
-            <description><![CDATA[Experts criticise Public Health England's decision to work with a charity funded by the alcohol industry.]]></description>
-            <link>https://www.bbc.co.uk/news/health-45502974</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45502974</guid>
-            <pubDate>Wed, 12 Sep 2018 23:46:39 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D53A/production/_92068545_thinkstockphotos-482225699.jpg"/>
+            <title><![CDATA[Pupils sent home from Exeter schools amid 'norovirus' outbreak]]></title>
+            <description><![CDATA[A headteacher says the bug "escalated very quickly" and school premises have been deep-cleaned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-45507076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-45507076</guid>
+            <pubDate>Thu, 13 Sep 2018 11:36:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D732/production/_103409055_schools.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tougher sentences for emergency staff attacks]]></title>
-            <description><![CDATA[Maximum prison terms for common assault against staff including NHS workers will double to a year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45506622</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45506622</guid>
-            <pubDate>Thu, 13 Sep 2018 07:49:27 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15AAE/production/_103405788_4fb3b87e-f666-463a-8dec-80ca16499403.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abuser 'should have been caught decades ago']]></title>
-            <description><![CDATA[A victim of a serial paedophile says others were attacked because no-one believed her when she first reported him.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-45446746</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-45446746</guid>
-            <pubDate>Wed, 12 Sep 2018 23:59:24 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6B29/production/_103333472_acaa96d2-7080-4955-9f9a-6b041e5d8e71.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King's Lynn QE Hospital placed into special measures]]></title>
-            <description><![CDATA[A hospital where bereaved parents were counselled close to women giving birth is branded inadequate.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-45499116</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-45499116</guid>
-            <pubDate>Wed, 12 Sep 2018 23:23:07 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CFBB/production/_100097135_mediaitem100094114.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mothers want action over sexual assaults at school]]></title>
-            <description><![CDATA[Two mothers whose children were attacked at school are calling for changes to prevent similar assaults]]></description>
-            <link>https://www.bbc.co.uk/news/education-45498984</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-45498984</guid>
-            <pubDate>Wed, 12 Sep 2018 23:41:14 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA58/production/_103400815_childinhoodie.jpg"/>
+            <title><![CDATA[Heathers the Musical: Carrie Hope Fletcher body-shamed over lead role]]></title>
+            <description><![CDATA[Carrie Hope Fletcher says she was criticised online after she was announced in the lead role.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45497344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45497344</guid>
+            <pubDate>Thu, 13 Sep 2018 10:00:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0559/production/_103396310_-l-r-jodie-steele--heather.jpg"/>
         </item>
         <item>
             <title><![CDATA['Gut instinct' helped catch Hull child rapist]]></title>
             <description><![CDATA[David Bushell reported Keith Morris, 72, after observing him with young girls at a hotel in Kenya.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-humber-45499334</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-45499334</guid>
-            <pubDate>Wed, 12 Sep 2018 23:03:00 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 11:47:55 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1834C/production/_101684199_keithmorris.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How the bubble burst]]></title>
+            <description><![CDATA[Ten years ago the collapse of an American investment bank changed British life forever.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45504585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45504585</guid>
+            <pubDate>Thu, 13 Sep 2018 05:37:19 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CE18/production/_103406725_banker.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Morgan: The 17-year-old dressing football's biggest names]]></title>
+            <description><![CDATA[Sam Morgan is 17 and a personal shopper for some of football's biggest names, including Paul Pogba, and Kevin de Bruyne.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/45496454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/45496454</guid>
+            <pubDate>Thu, 13 Sep 2018 06:00:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D335/production/_103396045_p06kyx3v.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M25 'middle lane hoggers' targeted in Hertfordshire]]></title>
+            <description><![CDATA[A driver is stopped by officers on the M25 in Hertfordshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509592</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509592</guid>
+            <pubDate>Thu, 13 Sep 2018 10:10:46 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D0F2/production/_103409435_p06l1jcl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 80s teen classic about teenage sex and suicide that's been given a modern makeover.]]></title>
+            <description><![CDATA[The 80s teen classic about teenage sex and suicide that's been given a modern makeover.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45503645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45503645</guid>
+            <pubDate>Thu, 13 Sep 2018 10:38:00 GMT</pubDate>
+            <media:thumbnail width="1302" height="732" url="http://c.files.bbci.co.uk/CBF2/production/_103401225_thecastofheathersthemusical-pamelaraithphotography-045.jpg"/>
         </item>
         <item>
             <title><![CDATA[Peng? Beef? The secret world of slang]]></title>
@@ -128,39 +152,7 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/100A3/production/_103399656_p06kzmhm.jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Irish border: Brexit's 310-mile problem]]></title>
-            <description><![CDATA[BBC News NI's Jayne McCormack explains what could happen with the Irish border after Brexit.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-northern-ireland-45056661</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-45056661</guid>
-            <pubDate>Wed, 12 Sep 2018 11:08:01 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/ED57/production/_103395706_irishborderthumbnailjaynepic.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Penzance's 'lost valley' revisited by last surviving resident]]></title>
-            <description><![CDATA[This summer's heatwave revealed the remains of a former settlement that had been hidden for decades.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45489238</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45489238</guid>
-            <pubDate>Wed, 12 Sep 2018 06:39:20 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/167CD/production/_103390129_p06ky2c6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Labour's Tom Watson lost weight and 'reversed' diabetes]]></title>
-            <description><![CDATA[Labour's deputy leader reveals how he lost seven stone and 'reversed' type-2 diabetes.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45500774</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45500774</guid>
-            <pubDate>Wed, 12 Sep 2018 13:49:30 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CC37/production/_103397225_p06kzbt3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who was to blame for the financial crisis?]]></title>
-            <description><![CDATA[BBC Business editor Simon Jack explores who could have been to blame for the global financial crisis.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45489064</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45489064</guid>
-            <pubDate>Tue, 11 Sep 2018 23:19:42 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10189/production/_103392956_p06kyh5t.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBC Breakfast]]></title>
+            <title><![CDATA[BBC News Channel]]></title>
             <description><![CDATA[BBC coverage of latest developments]]></description>
             <link>https://www.bbc.co.uk/news/10318089</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
@@ -184,7 +176,7 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B22A/production/_103401654_e60abfc6-bb7c-4351-84d2-05f243dcc5d4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How Paul McCartney was inspired by Taylor Swift and 'mad captain' Trump]]></title>
+            <title><![CDATA[Paul McCartney on handling crowds, and why he calls Donald Trump "the mad captain"]]></title>
             <description><![CDATA[The star also says he can take the train to London without being spotted. But how?]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-45482360</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45482360</guid>

@@ -7,6 +7,8 @@
 #include "Item.h"
 #include "feed.h"
 
+void feedToXml(Feed feed);
+
 void printTitles(Item items){
 	std::cout<<items.GetTitle()<<std::endl;
 	std::cout<<items.GetUrl()<<"\n"<<std::endl;
@@ -38,15 +40,21 @@ Feed openXml(TiXmlDocument *doc)
 	TiXmlElement *entryC;
 	TiXmlElement *entry;
 	TiXmlElement *rootElem = doc->RootElement();
+	std::string feedTitle;
+	std::string feedUrl;
 	std::string firstType = openFirstType(rootElem);
 	if(firstType == "entry"){
 		entryC = rootElem->FirstChildElement( firstType.c_str() );
 		entry = rootElem->FirstChildElement( firstType.c_str() );
+		feedTitle = rootElem->FirstChildElement( "title")->GetText();
+		feedUrl = rootElem->FirstChildElement("id")->GetText();
 	}
 	if(firstType == "item"){
 		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
 		entryC = channel->FirstChildElement( firstType.c_str() );
 		entry = channel->FirstChildElement( firstType.c_str() );
+		feedTitle = channel->FirstChildElement( "title" )->GetText();
+		feedUrl = channel->FirstChildElement( "link" )->GetText();
 	}
 
 	int numItems = 0;
@@ -96,7 +104,7 @@ Feed openXml(TiXmlDocument *doc)
 	}
 
 
-	Feed feed(itemArr);
+	Feed feed(feedTitle, feedUrl, itemArr);
 	return feed;
 
 }
@@ -153,14 +161,65 @@ void getRSS(std::string fname){
 		TiXmlDocument doc =  openXMLSafe(std::to_string(id).c_str());
 		fe.push_back(openXml( &doc));
 		id++;
+		remove(std::to_string(id).c_str());
 	}
 
 	for(Feed i:fe){
+		feedToXml(i);
 		std::vector<Item> itemarr = i.GetItemArray();
 		for(Item item : itemarr){
 			printTitles(item);
 		}
 	}
+}
+
+void feedToXml(Feed feed){
+
+	TiXmlDocument doc;  
+	TiXmlElement* entry;
+ 	TiXmlDeclaration* decl = new TiXmlDeclaration( "1.0", "", "" );  
+	doc.LinkEndChild( decl );  
+ 
+	TiXmlElement * root = new TiXmlElement( feed.GetName().c_str() );  
+	doc.LinkEndChild( root );  
+
+	TiXmlElement * entrys = new TiXmlElement( "Entrys" );  
+	root->LinkEndChild( entrys );  
+	std::vector<Item> itemarr = feed.GetItemArray();
+
+	TiXmlElement * title;
+	TiXmlElement * descr;
+	TiXmlElement * url;
+	TiXmlElement * date;
+
+	for(Item item : itemarr){
+
+		entry = new TiXmlElement( "Entry" );  
+		entrys->LinkEndChild( entry );
+
+		title = new TiXmlElement( "Title" );
+		entry->LinkEndChild(title);
+		title->LinkEndChild(new TiXmlText(item.GetTitle()));
+
+		descr = new TiXmlElement( "Description" );
+		entry->LinkEndChild(descr);
+		descr->LinkEndChild(new TiXmlText(item.GetDescr().c_str()));
+
+		url = new TiXmlElement( "URL" );
+		entry->LinkEndChild(url);
+		url->LinkEndChild(new TiXmlText(item.GetUrl().c_str()));
+
+		date = new TiXmlElement( "Date" );
+		entry->LinkEndChild(date);
+		date->LinkEndChild(new TiXmlText(item.GetDate().c_str()));
+
+
+		
+
+	}
+	doc.SaveFile( feed.GetName() + ".xml" );  
+
+
 }
 
 int main()
