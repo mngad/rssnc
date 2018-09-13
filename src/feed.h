@@ -12,7 +12,8 @@ class Feed{
 		std::vector<Item> _itemArr;
 		
 	public:
-		Feed(std::string name, std::string url, std::vector<Item> item);
+		Feed(std::vector<Item> itemArr);
+		Feed(std::string name, std::string url, std::vector<Item> itemArr);
 		std::string GetName();
 		std::string GetUrl();
 		Item  GetItem(int entry);

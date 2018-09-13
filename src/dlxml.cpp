@@ -31,7 +31,7 @@ std::string openFirstType(TiXmlElement *rootElem){
 		return "item";
 	}
 }
-void openXml(TiXmlDocument *doc)
+Feed openXml(TiXmlDocument *doc)
 {
 	TiXmlElement *entryC;
 	TiXmlElement *entry;
@@ -52,8 +52,8 @@ void openXml(TiXmlDocument *doc)
 		entryC = entryC->NextSiblingElement(firstType.c_str());
 
 	}
+	std::vector<Item> itemArr(numItems);
 	
-	Item itemArr[numItems];	
 	
 	int count = 0;
 	while(count<numItems){
@@ -92,29 +92,26 @@ void openXml(TiXmlDocument *doc)
 	
 	}
 
-	for(int a =0; a<numItems; a++)
-	{
-	
-		printTitles(itemArr[a]);
-	}
-	// Feed feed = new feed() //TODO
-	// return feed;
+
+	Feed feed(itemArr);
+	return feed;
 
 }
 
-void openXML(const char* pFilename)
+TiXmlDocument openXMLSafe(const char* pFilename)
 {
 	TiXmlDocument doc(pFilename);
 	bool loadOkay = doc.LoadFile();
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
-		openXml( &doc);
+		return doc;
 		//doc.Clear();
 	}
 	else
 	{
 		printf("Failed to load file \"%s\"\n", pFilename);
+		exit (EXIT_FAILURE);
 	}
 
 
@@ -144,13 +141,22 @@ void saveRssXml(char const *pagename, char const *link)
 
 void getRSS(std::string fname){
 
+ 	std::vector<Feed> fe;
 	std::ifstream file(fname);
 	std::string content;
 	int id =0;
 	while(file >> content) {
 		saveRssXml(std::to_string(id).c_str(), content.c_str());
-		openXML(std::to_string(id).c_str());
+		TiXmlDocument doc =  openXMLSafe(std::to_string(id).c_str());
+		fe.push_back(openXml( &doc));
 		id++;
+	}
+
+	for(Feed i:fe){
+		std::vector<Item> itemarr = i.GetItemArray();
+		for(Item item : itemarr){
+			printTitles(item);
+		}
 	}
 }
 
