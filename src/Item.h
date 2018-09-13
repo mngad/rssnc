@@ -1,3 +1,5 @@
+#ifndef ITEM_H
+#define ITEM_H
 #include <string>
 
 class Item{
@@ -18,3 +20,5 @@ class Item{
 		void SetDate(std::string date);
 
 };
+
+#endif
