@@ -261,8 +261,37 @@ void openFeedStoreXML(std::string title){
 
 }
 
+void feedListToXML(std::string feedListFname){
+
+	TiXmlDocument doc;  
+	TiXmlElement* entry;
+ 	TiXmlDeclaration* decl = new TiXmlDeclaration( "1.0", "", "" );  
+	doc.LinkEndChild( decl );  
+ 
+	TiXmlElement * root = new TiXmlElement( feedListFname);  
+	doc.LinkEndChild( root );  
+
+	TiXmlElement * entrys = new TiXmlElement( "Entrys" );  
+	root->LinkEndChild( entrys );  
+
+	TiXmlElement * filename;
+
+	for(Feed feed : fe){
+
+		entry = new TiXmlElement( "Entry" );  
+		entrys->LinkEndChild( entry );
+
+		filename = new TiXmlElement( "FileName" );
+		entry->LinkEndChild(filename);
+		filename->LinkEndChild(new TiXmlText(feed.GetName() + ".xml"));
+
+	}
+	doc.SaveFile(feedListFname );  
+}
+
+
 void populateFeedVec(std::string urllist){
-	
+
 	std::ifstream file(urllist);
 	std::string content;
 	int id =0;
@@ -279,6 +308,7 @@ void populateFeedVec(std::string urllist){
 int main()
 {
 	getRSS("urllist.txt");
+	feedListToXML("feedStore.xml");
 	
 	return 0;
 }

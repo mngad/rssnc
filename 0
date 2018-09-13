@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Sep 2018 12:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Sep 2018 15:20:04 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,15 +20,15 @@
             <description><![CDATA[The two men were named as suspects in the poisoning of Russian ex-spy Sergei Skripal and his daughter.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-45509697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45509697</guid>
-            <pubDate>Thu, 13 Sep 2018 12:44:21 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1449D/production/_103410138_mediaitem103410134.jpg"/>
+            <pubDate>Thu, 13 Sep 2018 14:47:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C955/production/_103414515_mediaitem103414324.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Westminster Bridge inquest: Partner tells of girlfriend search]]></title>
-            <description><![CDATA[Andreea Cristea was in London with her boyfriend to celebrate his birthday when the attack happened.]]></description>
+            <title><![CDATA[Westminster Bridge inquest: Partner recalls girlfriend search]]></title>
+            <description><![CDATA[Andreea Cristea was visiting London with her boyfriend when she was run over and fell into the Thames.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45507412</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45507412</guid>
-            <pubDate>Thu, 13 Sep 2018 11:30:48 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 15:18:56 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A4/production/_103406240_hi038745105.jpg"/>
         </item>
         <item>
@@ -36,16 +36,8 @@
             <description><![CDATA[UK drivers may need international permits in EU countries after a no-deal Brexit, the government says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45512152</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45512152</guid>
-            <pubDate>Thu, 13 Sep 2018 12:54:48 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 13:50:44 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CBA3/production/_103413125_driving_pa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Lewis profits slump 99% in 'challenging times']]></title>
-            <description><![CDATA[The retailer's half-year profits plunge to £1.2m amid discounting "extravaganza days" by rivals.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45506322</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45506322</guid>
-            <pubDate>Thu, 13 Sep 2018 09:02:19 GMT</pubDate>
-            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/8D36/production/_103405163_9yniarol.jpg"/>
         </item>
         <item>
             <title><![CDATA[Two dead as lorry and cars crash on M5, near Taunton]]></title>
@@ -56,11 +48,27 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1C02/production/_103407170_m5.jpg.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Diane Abbott unveils Labour's new immigration policy]]></title>
+            <description><![CDATA[Anyone with "bona fide skills" will be able to work in the UK if Labour wins power, Diane Abbott says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45510623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45510623</guid>
+            <pubDate>Thu, 13 Sep 2018 13:15:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/625C/production/_103408152_de27-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HMP Bedford inmates 'effectively control' jail]]></title>
+            <description><![CDATA[Inspectors fear there could "all too easily be a complete breakdown in order" at the Category B jail.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509813</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509813</guid>
+            <pubDate>Thu, 13 Sep 2018 14:24:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17CFB/production/_103413579_bedford2.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Calls for abortion clinic buffer zones rejected]]></title>
             <description><![CDATA[The home secretary says protest-free areas around clinics "would not be a proportionate response".]]></description>
             <link>https://www.bbc.co.uk/news/uk-45509202</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45509202</guid>
-            <pubDate>Thu, 13 Sep 2018 12:08:01 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 14:33:00 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F376/production/_98262326_de27.jpg"/>
         </item>
         <item>
@@ -96,14 +104,6 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0559/production/_103396310_-l-r-jodie-steele--heather.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No-deal Brexit won't bring back mobile roaming charges - minister]]></title>
-            <description><![CDATA[Britons won't be hit with mobile phone roaming charges if the UK leaves the EU without a deal, a minister vows.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45501007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45501007</guid>
-            <pubDate>Thu, 13 Sep 2018 12:57:33 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3A4/production/_103408145_gettyimages-694014826.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Skripal suspects deny involvement in Salisbury Novichok poisoning]]></title>
             <description><![CDATA[Two men named as suspects in the poisoning of a Russian ex-spy in the UK say they were just tourists.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-45508079</link>
@@ -112,7 +112,7 @@
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/22EC/production/_103404980_p06l21ky.jpg"/>
         </item>
         <item>
-            <title><![CDATA[How the bubble burst]]></title>
+            <title><![CDATA[Why the shock of 2008 still matters today]]></title>
             <description><![CDATA[Ten years ago the collapse of an American investment bank changed British life forever.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45504585</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45504585</guid>
@@ -166,14 +166,6 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
             <pubDate>Mon, 03 Sep 2018 06:55:21 GMT</pubDate>
             <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Newspaper headlines: Branson 'in pickle' and Archbishop's 'fury']]></title>
-            <description><![CDATA[A rail boss in a Twitter storm and a church leader's foray into politics make Thursday's front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-45504665</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-45504665</guid>
-            <pubDate>Thu, 13 Sep 2018 04:48:50 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/091A/production/_103403320_comp.jpg"/>
         </item>
         <item>
             <title><![CDATA[How children's services cuts are affecting one family]]></title>
