@@ -7,6 +7,8 @@
 #include "Item.h"
 #include "feed.h"
 
+
+std::vector<Feed> fe;
 void feedToXml(Feed feed);
 
 void printTitles(Item items){
@@ -41,33 +43,28 @@ Feed openXml(TiXmlDocument *doc)
 	TiXmlElement *entry;
 	TiXmlElement *rootElem = doc->RootElement();
 	std::string feedTitle;
-	std::string feedUrl;
 	std::string firstType = openFirstType(rootElem);
 	if(firstType == "entry"){
 		entryC = rootElem->FirstChildElement( firstType.c_str() );
 		entry = rootElem->FirstChildElement( firstType.c_str() );
 		feedTitle = rootElem->FirstChildElement( "title")->GetText();
-		feedUrl = rootElem->FirstChildElement("id")->GetText();
+
 	}
 	if(firstType == "item"){
 		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
 		entryC = channel->FirstChildElement( firstType.c_str() );
 		entry = channel->FirstChildElement( firstType.c_str() );
 		feedTitle = channel->FirstChildElement( "title" )->GetText();
-		feedUrl = channel->FirstChildElement( "link" )->GetText();
-	}
-
-	int numItems = 0;
-	while(NULL != entryC){
-		numItems++;
-		entryC = entryC->NextSiblingElement(firstType.c_str());
 
 	}
-	std::vector<Item> itemArr(numItems);
+
+	
+	std::vector<Item> itemArr;
 	
 	
 	int count = 0;
-	while(count<numItems){
+	while(NULL != entry){
+		Item item;
 		TiXmlElement *title = entry->FirstChildElement( "title" );
 		TiXmlElement *content = entry->FirstChildElement( "content" );
 		TiXmlElement *id = entry->FirstChildElement( "id" );
@@ -77,47 +74,46 @@ Feed openXml(TiXmlDocument *doc)
 		TiXmlElement *pubdate = entry->FirstChildElement( "pubDate" );
 
 		if(checkExists(title)){
-			itemArr[count].SetTitle(title->GetText());
+			item.SetTitle(title->GetText());
 		}
 		if(checkExists(content)){
-			itemArr[count].SetDescr(content->GetText());
+			item.SetDescr(content->GetText());
 		}
 		else if(checkExists(descr)){
-			itemArr[count].SetDescr(descr->GetText());
+			item.SetDescr(descr->GetText());
 		}
 		if(checkExists(id)){
-			itemArr[count].SetUrl(id->GetText());
+			item.SetUrl(id->GetText());
 		}
 		else if(checkExists(link)){
-			itemArr[count].SetUrl(link->GetText());
+			item.SetUrl(link->GetText());
 		}
 		if(checkExists(date)){
-			itemArr[count].SetDate(date->GetText());
+			item.SetDate(date->GetText());
 		}
 		else if(checkExists(pubdate)){
-			itemArr[count].SetDate(pubdate->GetText());
+			item.SetDate(pubdate->GetText());
 		}
 
-		count++;
+		
 		entry = entry->NextSiblingElement(firstType.c_str());
-	
+		itemArr.push_back(item);
 	}
 
 
-	Feed feed(feedTitle, feedUrl, itemArr);
+	Feed feed(feedTitle, itemArr);
 	return feed;
 
 }
 
-TiXmlDocument openXMLSafe(const char* pFilename)
+TiXmlDocument * openXMLSafe(const char* pFilename)
 {
-	TiXmlDocument doc(pFilename);
-	bool loadOkay = doc.LoadFile();
+	TiXmlDocument *doc = new TiXmlDocument(pFilename);
+	bool loadOkay = doc->LoadFile();
 	if (loadOkay)
 	{
 		printf("\n%s:\n", pFilename);
 		return doc;
-		//doc.Clear();
 	}
 	else
 	{
@@ -138,11 +134,10 @@ void saveRssXml(char const *pagename, char const *link)
 	  curl_easy_setopt(curl, CURLOPT_URL, link);
 	  curl_easy_setopt(curl, CURLOPT_NOPROGRESS, 1L);
 	  pagefile = fopen(pagename, "wb");
+
 	  if(pagefile) {
 		  curl_easy_setopt(curl, CURLOPT_WRITEDATA, pagefile);
-
 		  curl_easy_perform(curl);
-
 		  fclose(pagefile);
 	  }
 	  curl_easy_cleanup(curl);
@@ -150,16 +145,17 @@ void saveRssXml(char const *pagename, char const *link)
 
 }
 
+
 void getRSS(std::string fname){
 
- 	std::vector<Feed> fe;
+ 	
 	std::ifstream file(fname);
 	std::string content;
 	int id =0;
 	while(file >> content) {
 		saveRssXml(std::to_string(id).c_str(), content.c_str());
-		TiXmlDocument doc =  openXMLSafe(std::to_string(id).c_str());
-		fe.push_back(openXml( &doc));
+		TiXmlDocument *doc =  openXMLSafe(std::to_string(id).c_str());
+		fe.push_back(openXml( doc));
 		id++;
 		remove(std::to_string(id).c_str());
 	}
@@ -213,12 +209,70 @@ void feedToXml(Feed feed){
 		entry->LinkEndChild(date);
 		date->LinkEndChild(new TiXmlText(item.GetDate().c_str()));
 
-
-		
-
 	}
 	doc.SaveFile( feed.GetName() + ".xml" );  
+}
 
+void openFeedStoreXML(std::string title){
+
+	title = title + ".xml";
+	TiXmlDocument *doc = openXMLSafe(title.c_str());
+
+	TiXmlElement *entryC;
+	TiXmlElement *entry;
+
+	TiXmlElement *rootElem = doc->RootElement();
+	TiXmlElement *entrys = rootElem->FirstChildElement("Entrys");
+
+	entryC = entrys->FirstChildElement( "Entry" );
+	entry = entrys->FirstChildElement( "Entry" );
+
+	int numItems = 0;
+	while(NULL != entryC){
+		numItems++;
+		entryC = entryC->NextSiblingElement("Entry");
+
+	}
+	std::vector<Item> itemArr(numItems);
+	
+	
+	int count = 0;
+	while(count<numItems){
+		TiXmlElement *title = entry->FirstChildElement( "Title" );
+		TiXmlElement *descr = entry->FirstChildElement( "Description" );
+		TiXmlElement *link = entry->FirstChildElement( "URL" );
+		TiXmlElement *pubdate = entry->FirstChildElement( "Date" );
+
+		itemArr[count].SetTitle(title->GetText());
+
+		itemArr[count].SetDescr(descr->GetText());
+	
+		itemArr[count].SetUrl(link->GetText());
+
+		itemArr[count].SetDate(pubdate->GetText());
+
+		count++;
+		entry = entry->NextSiblingElement("Entry");
+	
+	}
+
+	Feed feed(title, itemArr);
+	fe.push_back(feed);
+
+}
+
+void populateFeedVec(std::string urllist){
+	
+	std::ifstream file(urllist);
+	std::string content;
+	int id =0;
+	while(file >> content) {
+		saveRssXml(std::to_string(id).c_str(), content.c_str());
+		TiXmlDocument *doc =  openXMLSafe(std::to_string(id).c_str());
+		fe.push_back(openXml( doc));
+		id++;
+		remove(std::to_string(id).c_str());
+	}
 
 }
 

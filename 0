@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Sep 2018 12:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Sep 2018 12:58:57 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[The two men were named as suspects in the poisoning of Russian ex-spy Sergei Skripal and his daughter.]]></description>
             <link>https://www.bbc.co.uk/news/world-europe-45509697</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45509697</guid>
-            <pubDate>Thu, 13 Sep 2018 12:08:56 GMT</pubDate>
+            <pubDate>Thu, 13 Sep 2018 12:44:21 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1449D/production/_103410138_mediaitem103410134.jpg"/>
         </item>
         <item>
@@ -32,12 +32,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10A4/production/_103406240_hi038745105.jpg"/>
         </item>
         <item>
-            <title><![CDATA[No-deal Brexit won't bring back mobile roaming charges - minister]]></title>
-            <description><![CDATA[Britons won't be hit with mobile phone roaming charges if the UK leaves the EU without a deal, a minister vows.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45501007</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45501007</guid>
-            <pubDate>Thu, 13 Sep 2018 12:27:45 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3A4/production/_103408145_gettyimages-694014826.jpg"/>
+            <title><![CDATA[UK driving licence 'may not be valid in EU' after no-deal Brexit]]></title>
+            <description><![CDATA[UK drivers may need international permits in EU countries after a no-deal Brexit, the government says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45512152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45512152</guid>
+            <pubDate>Thu, 13 Sep 2018 12:54:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CBA3/production/_103413125_driving_pa.jpg"/>
         </item>
         <item>
             <title><![CDATA[John Lewis profits slump 99% in 'challenging times']]></title>
@@ -64,12 +64,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F376/production/_98262326_de27.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bank of England leaves rates on hold amid Brexit uncertainty]]></title>
-            <description><![CDATA[Policymakers at the Bank of England vote 9-0 to leave rates at 0.75% after last month's increase.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45508563</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45508563</guid>
-            <pubDate>Thu, 13 Sep 2018 12:09:12 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/17F16/production/_103407089_gettyimages-154742233.jpg"/>
+            <title><![CDATA[Ava-May Littleboy died of traumatic head injury, inquest hears]]></title>
+            <description><![CDATA[Three-year-old Ava-May Littleboy died after being thrown from a blow-up trampoline on a beach.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-45509262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-45509262</guid>
+            <pubDate>Thu, 13 Sep 2018 11:16:34 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/06D6/production/_102305710_ava-may.jpg"/>
         </item>
         <item>
             <title><![CDATA[Pupils sent home from Exeter schools amid 'norovirus' outbreak]]></title>
@@ -80,6 +80,14 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D732/production/_103409055_schools.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Second patient may have drunk toilet cleaner]]></title>
+            <description><![CDATA[The inquest into the death of Joan Blaber, 85, who died after drinking Flash hears she may not be the first.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-45506356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-45506356</guid>
+            <pubDate>Thu, 13 Sep 2018 08:57:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13C4A/production/_103407908_phototoreleasetomedia_e.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Heathers the Musical: Carrie Hope Fletcher body-shamed over lead role]]></title>
             <description><![CDATA[Carrie Hope Fletcher says she was criticised online after she was announced in the lead role.]]></description>
             <link>https://www.bbc.co.uk/news/entertainment-arts-45497344</link>
@@ -88,12 +96,20 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0559/production/_103396310_-l-r-jodie-steele--heather.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Gut instinct' helped catch Hull child rapist]]></title>
-            <description><![CDATA[David Bushell reported Keith Morris, 72, after observing him with young girls at a hotel in Kenya.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-humber-45499334</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-45499334</guid>
-            <pubDate>Thu, 13 Sep 2018 11:47:55 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1834C/production/_101684199_keithmorris.jpg"/>
+            <title><![CDATA[No-deal Brexit won't bring back mobile roaming charges - minister]]></title>
+            <description><![CDATA[Britons won't be hit with mobile phone roaming charges if the UK leaves the EU without a deal, a minister vows.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45501007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45501007</guid>
+            <pubDate>Thu, 13 Sep 2018 12:57:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D3A4/production/_103408145_gettyimages-694014826.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Skripal suspects deny involvement in Salisbury Novichok poisoning]]></title>
+            <description><![CDATA[Two men named as suspects in the poisoning of a Russian ex-spy in the UK say they were just tourists.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45508079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45508079</guid>
+            <pubDate>Thu, 13 Sep 2018 12:39:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/22EC/production/_103404980_p06l21ky.jpg"/>
         </item>
         <item>
             <title><![CDATA[How the bubble burst]]></title>
@@ -102,6 +118,14 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45504585</guid>
             <pubDate>Thu, 13 Sep 2018 05:37:19 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CE18/production/_103406725_banker.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Devon farmer who carries a cowpat]]></title>
+            <description><![CDATA[This farmer uses cowpats to educate people on where their food comes from.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-45499599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-45499599</guid>
+            <pubDate>Thu, 13 Sep 2018 00:10:32 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4B45/production/_103396291_p06l03gq.jpg"/>
         </item>
         <item>
             <title><![CDATA[Sam Morgan: The 17-year-old dressing football's biggest names]]></title>
@@ -134,22 +158,6 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45492228</guid>
             <pubDate>Wed, 12 Sep 2018 06:01:53 GMT</pubDate>
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/119AD/production/_103390127_p06ky0n7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Creepy' alarm sound made Ipswich woman 'feel sick']]></title>
-            <description><![CDATA[The woman heard the sound of "It's raining, it's pouring" intermittently over the course of a year.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-suffolk-45501615</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-45501615</guid>
-            <pubDate>Wed, 12 Sep 2018 17:35:40 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17565/production/_103398559_p06l00gg.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why women struggle to get coils and implants]]></title>
-            <description><![CDATA[Woman are having to wait longer and travel further to get coils and implants, doctors warn.]]></description>
-            <link>https://www.bbc.co.uk/news/health-45488815</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45488815</guid>
-            <pubDate>Wed, 12 Sep 2018 15:33:02 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/100A3/production/_103399656_p06kzmhm.jpg"/>
         </item>
         <item>
             <title><![CDATA[BBC News Channel]]></title>

@@ -8,9 +8,8 @@
 Feed::Feed(std::vector<Item> itemArr){
 	_itemArr=itemArr;
 }
-Feed::Feed(std::string name, std::string url, std::vector<Item> itemArr){
+Feed::Feed(std::string name, std::vector<Item> itemArr){
 	_name=name;
-	_url=url;
 	_itemArr=itemArr;
 }
 std::string Feed::GetName(){
