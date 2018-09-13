@@ -8,7 +8,7 @@
 
 void printTitles(Item items){
 	std::cout<<items.GetTitle()<<std::endl;
-	std::cout<<items.GetUrl()<<std::endl;
+	std::cout<<items.GetUrl()<<"\n"<<std::endl;
 	std::cout<<items.GetDate()<<std::endl;
 }
 bool checkExists(TiXmlElement *elem){
@@ -28,10 +28,6 @@ std::string openFirstType(TiXmlDocument *doc){
 		return "entry";
 	}
 	else{
-
-		TiXmlElement *rootElem = doc->RootElement();
-		TiXmlElement *channel = rootElem->FirstChildElement( "channel" );
-		TiXmlElement *itemC = channel->FirstChildElement( "item" );
 		return "item";
 	}
 }
@@ -50,6 +46,7 @@ void openXMLAtom(TiXmlDocument *doc)
 		entryC = channel->FirstChildElement( firstType.c_str() );
 		entry = channel->FirstChildElement( firstType.c_str() );
 	}
+
 	int numItems = 0;
 	while(NULL != entryC){
 		numItems++;
