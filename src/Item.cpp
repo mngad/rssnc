@@ -29,3 +29,7 @@ void Item::SetUrl(std::string url){
 void Item::SetDate(std::string date){
 	_date=date;
 }
+bool Item::exists(std::string title){
+	if(_title == title){return true;}
+	else{return false;}
+}

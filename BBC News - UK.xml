@@ -1,77 +1,113 @@
 <?xml version="1.0" ?>
-<BBC News - UK>
+<root>
     <Entrys>
         <Entry>
-            <Title>Skripal suspects: &apos;We were just tourists in Salisbury&apos;</Title>
-            <Description>The two men were named as suspects in the poisoning of Russian ex-spy Sergei Skripal and his daughter.</Description>
-            <URL>https://www.bbc.co.uk/news/world-europe-45509697</URL>
-            <Date>Thu, 13 Sep 2018 14:47:52 GMT</Date>
+            <Title>Brexit: Bank makes property crash warning</Title>
+            <Description>Bank of England governor Mark Carney tells the cabinet a no-deal Brexit could see home prices plunge.</Description>
+            <URL>https://www.bbc.co.uk/news/business-45516678</URL>
+            <Date>Fri, 14 Sep 2018 08:31:56 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Westminster Bridge inquest: Partner recalls girlfriend search</Title>
-            <Description>Andreea Cristea was visiting London with her boyfriend when she was run over and fell into the Thames.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-45507412</URL>
-            <Date>Thu, 13 Sep 2018 15:18:56 GMT</Date>
+            <Title>George Freeman says he will stand for Tory leader next year if asked</Title>
+            <Description>George Freeman says there should be a leadership contest next summer after Brexit is settled.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-politics-45519604</URL>
+            <Date>Fri, 14 Sep 2018 10:35:23 GMT</Date>
         </Entry>
         <Entry>
-            <Title>UK driving licence &apos;may not be valid in EU&apos; after no-deal Brexit</Title>
-            <Description>UK drivers may need international permits in EU countries after a no-deal Brexit, the government says.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-politics-45512152</URL>
-            <Date>Thu, 13 Sep 2018 13:50:44 GMT</Date>
+            <Title>Funeral held for siblings murdered in fire</Title>
+            <Description>Their mother Michelle Pearson will not attend as she recovers from injuries suffered in the blaze.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-manchester-45519364</URL>
+            <Date>Fri, 14 Sep 2018 10:05:51 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Two dead as lorry and cars crash on M5, near Taunton</Title>
-            <Description>Four people were taken to hospital, two of them with serious injuries, police said.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-somerset-45508272</URL>
-            <Date>Thu, 13 Sep 2018 11:42:59 GMT</Date>
+            <Title>Kimora Zondo, 7, died after hood caught on door</Title>
+            <Description>There is &quot;no evidence&quot; of how Kimora Zondo became caught after reconstructions ruled out possibilities.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-wales-45519785</URL>
+            <Date>Fri, 14 Sep 2018 10:40:18 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Diane Abbott unveils Labour&apos;s new immigration policy</Title>
-            <Description>Anyone with &quot;bona fide skills&quot; will be able to work in the UK if Labour wins power, Diane Abbott says.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-politics-45510623</URL>
-            <Date>Thu, 13 Sep 2018 13:15:25 GMT</Date>
+            <Title>Ex-JLS member Oritse Williams charged with Wolverhampton rape</Title>
+            <Description>Oritse Williams, 31, allegedly raped a fan in a hotel room after a concert in 2016.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-birmingham-45518544</URL>
+            <Date>Fri, 14 Sep 2018 08:10:08 GMT</Date>
         </Entry>
         <Entry>
-            <Title>HMP Bedford inmates &apos;effectively control&apos; jail</Title>
-            <Description>Inspectors fear there could &quot;all too easily be a complete breakdown in order&quot; at the Category B jail.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509813</URL>
-            <Date>Thu, 13 Sep 2018 14:24:23 GMT</Date>
+            <Title>Westminster inquest: Court shown moment PC Keith Palmer stabbed</Title>
+            <Description>&quot;Vivid&quot; footage is shown in court of the moment he was stabbed during the 2017 Westminster attack.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-45522294</URL>
+            <Date>Fri, 14 Sep 2018 10:45:57 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Calls for abortion clinic buffer zones rejected</Title>
-            <Description>The home secretary says protest-free areas around clinics &quot;would not be a proportionate response&quot;.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-45509202</URL>
-            <Date>Thu, 13 Sep 2018 14:33:00 GMT</Date>
+            <Title>Nicola Sturgeon: &apos;I was bullied at school&apos;</Title>
+            <Description>The first minister opened up about her school days as she faced questions from an audience of children.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-45519648</URL>
+            <Date>Fri, 14 Sep 2018 09:30:50 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Ava-May Littleboy died of traumatic head injury, inquest hears</Title>
-            <Description>Three-year-old Ava-May Littleboy died after being thrown from a blow-up trampoline on a beach.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-suffolk-45509262</URL>
-            <Date>Thu, 13 Sep 2018 11:16:34 GMT</Date>
+            <Title>Union leader suggests Israel &apos;created&apos; anti-Semitism row</Title>
+            <Description>PCS head Mark Serwotka is recorded suggesting Israel &quot;created&quot; the anti-Semitism row in the Labour Party.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-politics-45517094</URL>
+            <Date>Fri, 14 Sep 2018 08:46:10 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Pupils sent home from Exeter schools amid &apos;norovirus&apos; outbreak</Title>
-            <Description>A headteacher says the bug &quot;escalated very quickly&quot; and school premises have been deep-cleaned.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-devon-45507076</URL>
-            <Date>Thu, 13 Sep 2018 11:36:54 GMT</Date>
+            <Title>Prison staff protesting over inmate violence - POA union</Title>
+            <Description>Protests are being held at &quot;the majority&quot; of prisons, but the government says the action is illegal.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-45518744</URL>
+            <Date>Fri, 14 Sep 2018 10:34:58 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Second patient may have drunk toilet cleaner</Title>
-            <Description>The inquest into the death of Joan Blaber, 85, who died after drinking Flash hears she may not be the first.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-sussex-45506356</URL>
-            <Date>Thu, 13 Sep 2018 08:57:17 GMT</Date>
+            <Title>Wetherspoons warns of pricier pints</Title>
+            <Description>Pub chain reports record sales and profits but says its rock-bottom prices are likely to rise.</Description>
+            <URL>https://www.bbc.co.uk/news/business-45518774</URL>
+            <Date>Fri, 14 Sep 2018 07:26:00 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Heathers the Musical: Carrie Hope Fletcher body-shamed over lead role</Title>
-            <Description>Carrie Hope Fletcher says she was criticised online after she was announced in the lead role.</Description>
-            <URL>https://www.bbc.co.uk/news/entertainment-arts-45497344</URL>
-            <Date>Thu, 13 Sep 2018 10:00:14 GMT</Date>
+            <Title>Hundreds stranded on new high-speed train in Devon</Title>
+            <Description>Passengers had to be evacuated from the Hitachi 800 after it broke down in Devon.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-cornwall-45519014</URL>
+            <Date>Fri, 14 Sep 2018 10:01:39 GMT</Date>
         </Entry>
         <Entry>
-            <Title>Skripal suspects deny involvement in Salisbury Novichok poisoning</Title>
-            <Description>Two men named as suspects in the poisoning of a Russian ex-spy in the UK say they were just tourists.</Description>
-            <URL>https://www.bbc.co.uk/news/world-europe-45508079</URL>
-            <Date>Thu, 13 Sep 2018 12:39:02 GMT</Date>
+            <Title>Knives and alcohol sold to children in London</Title>
+            <Description>Fourteen per cent of the shops targeted by trading standards were prepared to sell a knife to a child.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-london-45511466</URL>
+            <Date>Fri, 14 Sep 2018 10:28:43 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Sister of hit-and-run victim calls for law change</Title>
+            <Description>Amy O&apos;Connor&apos;s brother Andrew Lindup was killed in a hit-and-run crash in December 2016.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-hereford-worcester-45513332</URL>
+            <Date>Thu, 13 Sep 2018 23:24:00 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>The Skripal suspects&apos; walk through Salisbury</Title>
+            <Description>Two suspects in the poisoning of a Russian ex-spy in the UK have said they were merely tourists.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-45515013</URL>
+            <Date>Thu, 13 Sep 2018 23:03:15 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Van launched into the air during Attleborough crash</Title>
+            <Description>Dashcam footage reveals the moment a van flies feet into the air.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-norfolk-45515656</URL>
+            <Date>Thu, 13 Sep 2018 16:29:27 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>High School Musical inspires UK student&apos;s US college dream</Title>
+            <Description>For six years Tilly Griffiths dreamt of studying in the US and now thanks to NHS funding she is going.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-45515326</URL>
+            <Date>Thu, 13 Sep 2018 23:23:01 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Being 18 on UK&apos;s Rathlin Island</Title>
+            <Description>Benedict Anslow talks about what life is like as one of the few young people on Rathlin Island.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-northern-ireland-45500374</URL>
+            <Date>Fri, 14 Sep 2018 00:50:50 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Nottingham make-up artist&apos;s surreal work is Instagram hit</Title>
+            <Description>Romanie Jade-Tulloch&apos;s mind-bending artworks can take five hours to create.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-nottinghamshire-45514535</URL>
+            <Date>Thu, 13 Sep 2018 23:23:48 GMT</Date>
         </Entry>
         <Entry>
             <Title>Why the shock of 2008 still matters today</Title>
@@ -80,40 +116,52 @@
             <Date>Thu, 13 Sep 2018 05:37:19 GMT</Date>
         </Entry>
         <Entry>
-            <Title>The Devon farmer who carries a cowpat</Title>
-            <Description>This farmer uses cowpats to educate people on where their food comes from.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-devon-45499599</URL>
-            <Date>Thu, 13 Sep 2018 00:10:32 GMT</Date>
-        </Entry>
-        <Entry>
-            <Title>Sam Morgan: The 17-year-old dressing football&apos;s biggest names</Title>
-            <Description>Sam Morgan is 17 and a personal shopper for some of football&apos;s biggest names, including Paul Pogba, and Kevin de Bruyne.</Description>
-            <URL>https://www.bbc.co.uk/sport/football/45496454</URL>
-            <Date>Thu, 13 Sep 2018 06:00:17 GMT</Date>
-        </Entry>
-        <Entry>
-            <Title>M25 &apos;middle lane hoggers&apos; targeted in Hertfordshire</Title>
-            <Description>A driver is stopped by officers on the M25 in Hertfordshire.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-45509592</URL>
-            <Date>Thu, 13 Sep 2018 10:10:46 GMT</Date>
-        </Entry>
-        <Entry>
-            <Title>The 80s teen classic about teenage sex and suicide that&apos;s been given a modern makeover.</Title>
-            <Description>The 80s teen classic about teenage sex and suicide that&apos;s been given a modern makeover.</Description>
-            <URL>https://www.bbc.co.uk/news/entertainment-arts-45503645</URL>
-            <Date>Thu, 13 Sep 2018 10:38:00 GMT</Date>
-        </Entry>
-        <Entry>
-            <Title>Peng? Beef? The secret world of slang</Title>
-            <Description>Police in Lancashire have compiled a list of slang words to help them understand teens. Do you know what they mean?</Description>
-            <URL>https://www.bbc.co.uk/news/uk-45492228</URL>
-            <Date>Wed, 12 Sep 2018 06:01:53 GMT</Date>
-        </Entry>
-        <Entry>
             <Title>BBC News Channel</Title>
             <Description>BBC coverage of latest developments</Description>
             <URL>https://www.bbc.co.uk/news/10318089</URL>
             <Date>Mon, 03 Sep 2018 06:55:21 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Hockney painting set for record $80m</Title>
+            <Description>One of the British artist&apos;s most recognisable works is to be sold at auction in November.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-45517469</URL>
+            <Date>Fri, 14 Sep 2018 04:43:04 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Urinating Newcastle man faces council football pitch ban</Title>
+            <Description>Residents near the King George V playing field in Fenham are &quot;fed up&quot; with footballers urinating.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-tyne-45519254</URL>
+            <Date>Fri, 14 Sep 2018 09:41:11 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Newspaper headlines: Russia&apos;s &apos;insult&apos; and Carney&apos;s warning</Title>
+            <Description>An &quot;extraordinary&quot; interview on Russian TV and a Bank of England Brexit briefing make the front pages.</Description>
+            <URL>https://www.bbc.co.uk/news/blogs-the-papers-45517066</URL>
+            <Date>Fri, 14 Sep 2018 05:04:42 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>The first lady of Jacobean Sex Comedy</Title>
+            <Description>Funny and Forgotten: How history ignored the first lady of rom-com.</Description>
+            <URL>https://www.bbc.co.uk/news/entertainment-arts-45433726</URL>
+            <Date>Fri, 14 Sep 2018 00:12:41 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Brexit papers: What no deal could mean</Title>
+            <Description>We boil down the tranche of new papers from the government and what they could mean for you.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-politics-45511297</URL>
+            <Date>Thu, 13 Sep 2018 19:31:37 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>From Mars Bars to Thunderbirds: Eight things Slough gave the world</Title>
+            <Description>Slough received its Royal Charter 80 years ago - but what has the Berkshire town given to the world?</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-berkshire-45420755</URL>
+            <Date>Thu, 13 Sep 2018 23:25:57 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Crowdfunded cancer treatments - do they work?</Title>
+            <Description>Experts are concerned vulnerable patients are being exploited.</Description>
+            <URL>https://www.bbc.co.uk/news/health-45509942</URL>
+            <Date>Fri, 14 Sep 2018 07:50:50 GMT</Date>
         </Entry>
         <Entry>
             <Title>How children&apos;s services cuts are affecting one family</Title>
@@ -217,5 +265,35 @@
             <URL>https://www.bbc.co.uk/news/business-45482460</URL>
             <Date>Tue, 11 Sep 2018 15:22:09 GMT</Date>
         </Entry>
+        <Entry>
+            <Title>Lee Rigby: Fundraiser Gary Gardner jailed for fraud</Title>
+            <Description>Lee Rigby&apos;s family said they &quot;never received a penny from&quot; Gary Gardner.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-leicestershire-45522484</URL>
+            <Date>Fri, 14 Sep 2018 10:52:35 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Big Brother and Celebrity Big Brother are officially ending</Title>
+            <Description>Show makers announced on Friday that the 19th series of the Channel 5 show would be its last.</Description>
+            <URL>https://www.bbc.co.uk/news/entertainment-arts-45519752</URL>
+            <Date>Fri, 14 Sep 2018 10:56:15 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>BBC Politics Live</Title>
+            <Description>Live coverage of the day&apos;s politics from Westminster.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-politics-24618323</URL>
+            <Date>Thu, 21 Jun 2018 11:26:10 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Kate Moss regrets &apos;nothing tastes as good as skinny feels&apos; comment</Title>
+            <Description>Almost ten years on from the model&apos;s controversial mantra, she explains why she got it wrong.</Description>
+            <URL>https://www.bbc.co.uk/news/newsbeat-45522714</URL>
+            <Date>Fri, 14 Sep 2018 11:27:07 GMT</Date>
+        </Entry>
+        <Entry>
+            <Title>Electoral Commission got Brexit law wrong over Vote Leave, court rules</Title>
+            <Description>The Electoral Commission loses a High Court case over its policing of Vote Leave&apos;s referendum spending.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-politics-45519676</URL>
+            <Date>Fri, 14 Sep 2018 11:09:13 GMT</Date>
+        </Entry>
     </Entrys>
-</BBC News - UK>
+</root>

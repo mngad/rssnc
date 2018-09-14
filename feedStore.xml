@@ -10,5 +10,11 @@
         <Entry>
             <FileName>The Independent - UK.xml</FileName>
         </Entry>
+        <Entry>
+            <FileName>BBC News - Home.xml</FileName>
+        </Entry>
+        <Entry>
+            <FileName>TechCrunch.xml</FileName>
+        </Entry>
     </Entrys>
 </feedStore.xml>

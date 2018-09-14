@@ -23,6 +23,7 @@ class Feed{
 		void SetItemArray(std::vector<Item> item);
 		void SetName(std::string name);
 		void SetUrl(std::string url);
+		bool exists(std::string name);
 
 
 };

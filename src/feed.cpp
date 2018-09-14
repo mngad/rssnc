@@ -36,3 +36,8 @@ void Feed::SetItem(int entry, Item item){
 void Feed::SetItemArray(std::vector<Item> itemVec){
 	_itemArr = itemVec;
 }
+bool Feed::exists(std::string name){
+	if(_name==name){ return true;}
+	else{return false;}
+
+}

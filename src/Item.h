@@ -18,7 +18,7 @@ class Item{
 		void SetDescr(std::string descr);
 		void SetUrl(std::string url);
 		void SetDate(std::string date);
-
+		bool exists(std::string title);
 };
 
 #endif
