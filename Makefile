@@ -27,6 +27,7 @@ RANLIB := ranlib
 
 DEBUG_CFLAGS     := -Wall -Wno-format -g -DDEBUG 
 RELEASE_CFLAGS   := -Wextra -g -Wall -Wno-unknown-pragmas -Wno-format -O3
+#RELEASE_CFLAGS   := -Os -s
 
 LIBS		 :=
 
