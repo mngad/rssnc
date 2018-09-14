@@ -11,57 +11,81 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Sep 2018 11:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Sep 2018 17:03:24 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[Electoral Commission got Brexit law wrong over Vote Leave, court rules]]></title>
+            <title><![CDATA[Electoral Commission 'misinterpreted' Vote Leave expenses, court rules]]></title>
             <description><![CDATA[The Electoral Commission loses a High Court case over its policing of Vote Leave's referendum spending.]]></description>
             <link>https://www.bbc.co.uk/news/uk-politics-45519676</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45519676</guid>
-            <pubDate>Fri, 14 Sep 2018 11:09:13 GMT</pubDate>
+            <pubDate>Fri, 14 Sep 2018 16:15:55 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D9E9/production/_102558755_74cf74ac-824a-47be-a0b9-d3f980ead9b7.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Westminster inquest: Court shown moment PC Keith Palmer stabbed]]></title>
-            <description><![CDATA["Distressing" footage is shown in court of the moment he was stabbed during the 2017 Westminster attack.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45522294</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45522294</guid>
-            <pubDate>Fri, 14 Sep 2018 11:36:24 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13D47/production/_103432218_785810ec-9cac-42f6-99ca-d3a590ad3d98.jpg"/>
+            <title><![CDATA[Boy murdered stepmum Fiona Scourfield with samurai sword]]></title>
+            <description><![CDATA[A teenager "obsessed" with extreme violence tried to upload pictures of her body to the internet.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-45522338</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45522338</guid>
+            <pubDate>Fri, 14 Sep 2018 14:51:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8450/production/_103427833_ruebenfionacomp.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Funeral held for siblings murdered in fire]]></title>
-            <description><![CDATA[The children were described as "angels in the sky" by mother Michelle Pearson, who could not attend.]]></description>
+            <title><![CDATA[House of Fraser online customers refused refunds]]></title>
+            <description><![CDATA[Sports Direct, the chain's new owner, says it won't give refunds for goods ordered before the takeover.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45520194</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45520194</guid>
+            <pubDate>Fri, 14 Sep 2018 11:49:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E0E7/production/_103057575_house_of_fraser_1_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fraud ringleader jailed over 'boiler room' scam]]></title>
+            <description><![CDATA[The ringleader of a scam designed to con 170 investors out of £2.8m has been sent to prison.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45521235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45521235</guid>
+            <pubDate>Fri, 14 Sep 2018 15:10:17 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10FED/production/_103431696_mediaitem103422702.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kimora Zondo, 7, died after hood caught on door]]></title>
+            <description><![CDATA[There is "no evidence" of how Kimora Zondo became caught after reconstructions ruled out theories.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-45519785</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45519785</guid>
+            <pubDate>Fri, 14 Sep 2018 10:40:18 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18081/production/_103433489_claude.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sports Direct boss says he's been 'stabbed in the back']]></title>
+            <description><![CDATA[Sports Direct boss Mike Ashley launches a furious attack on his firm's shareholders.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45523294</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45523294</guid>
+            <pubDate>Fri, 14 Sep 2018 12:07:02 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/9031/production/_103431963_ma.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Backlash over Arriva Trains Wales lost wallet return charge]]></title>
+            <description><![CDATA[Adam Howells had to pay more than £10 to Arriva Trains Wales to have his wallet returned.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-45519994</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45519994</guid>
+            <pubDate>Fri, 14 Sep 2018 13:55:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14840/production/_103423048_adammatthews-wallet.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salford fatal fire: Arson death children 'angels in the sky']]></title>
+            <description><![CDATA[Mourners at the funeral of the four children hear a tribute from their mother, who could not attend.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-manchester-45519364</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-45519364</guid>
             <pubDate>Fri, 14 Sep 2018 11:35:41 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B4F0/production/_99202364_salfordfire.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brexit: Bank makes property crash warning]]></title>
-            <description><![CDATA[Bank of England governor Mark Carney tells the cabinet a no-deal Brexit could see home prices plunge.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45516678</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45516678</guid>
-            <pubDate>Fri, 14 Sep 2018 11:06:51 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F74C/production/_103380336_lmi9tmmc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kimora Zondo, 7, died after hood caught on door]]></title>
-            <description><![CDATA[There is "no evidence" of how Kimora Zondo became caught after reconstructions ruled out possibilities.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-45519785</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45519785</guid>
-            <pubDate>Fri, 14 Sep 2018 10:40:18 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/258D/production/_103431690_ponty1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ex-JLS member Oritse Williams charged with Wolverhampton rape]]></title>
-            <description><![CDATA[Oritse Williams, 31, allegedly raped a fan in a hotel room after a concert in 2016.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-birmingham-45518544</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-45518544</guid>
-            <pubDate>Fri, 14 Sep 2018 08:10:08 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12964/production/_103423167_hi036847367_crop.jpg"/>
+            <title><![CDATA[Skripal case: Russian 'spies' targeted Swiss chemical weapons lab]]></title>
+            <description><![CDATA[Russians were reportedly caught spying on a Swiss lab involved in the Salisbury poisoning inquiry.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45522614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45522614</guid>
+            <pubDate>Fri, 14 Sep 2018 16:15:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1458F/production/_103434338_hi049275633.jpg"/>
         </item>
         <item>
             <title><![CDATA[George Freeman says he will stand for Tory leader next year if asked]]></title>
@@ -72,52 +96,28 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13512/production/_103422197_mediaitem103422196.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kate Moss regrets 'nothing tastes as good as skinny feels' comment]]></title>
-            <description><![CDATA[Almost ten years on from the model's controversial mantra, she explains why she got it wrong.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-45522714</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-45522714</guid>
-            <pubDate>Fri, 14 Sep 2018 11:27:07 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D8E3/production/_103432555_gettyimages-1029388208.jpg"/>
+            <title><![CDATA[Man's penis amputated following cancer misdiagnosis]]></title>
+            <description><![CDATA[Neil Walker is urging men not to be embarrassed about having intimate problems checked out.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-45522174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-45522174</guid>
+            <pubDate>Fri, 14 Sep 2018 14:07:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/75B5/production/_103433103_cc396e70-76b9-45ba-ae03-fc11a5731256.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Prison staff protesting over inmate violence - POA union]]></title>
-            <description><![CDATA[Protests are being held at "the majority" of prisons, but the government says the action is illegal.]]></description>
+            <title><![CDATA[Prison staff protest over 'unprecedented' inmate violence]]></title>
+            <description><![CDATA[Officers say they face attacks by groups of prisoners, being spat at and having urine thrown at them.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45518744</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45518744</guid>
-            <pubDate>Fri, 14 Sep 2018 11:28:38 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10BB4/production/_103423586_adcca127-359c-4846-850e-91e3f4d6f7a1.jpg"/>
+            <pubDate>Fri, 14 Sep 2018 14:38:11 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/A67F/production/_103432624_mediaitem103432623.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nicola Sturgeon: 'I was bullied at school']]></title>
-            <description><![CDATA[The first minister opened up about her school days as she faced questions from an audience of children.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-45519648</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-45519648</guid>
-            <pubDate>Fri, 14 Sep 2018 09:30:50 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/126A8/production/_103423457_049193651.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wetherspoons warns of pricier pints]]></title>
-            <description><![CDATA[Pub chain reports record sales and profits but says its rock-bottom prices are likely to rise.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45518774</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45518774</guid>
-            <pubDate>Fri, 14 Sep 2018 07:26:00 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1124E/production/_103422207_pints.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big Brother and Celebrity Big Brother are officially ending]]></title>
-            <description><![CDATA[Show makers announced on Friday that the 19th series of the Channel 5 show would be its last.]]></description>
-            <link>https://www.bbc.co.uk/news/entertainment-arts-45519752</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45519752</guid>
-            <pubDate>Fri, 14 Sep 2018 10:56:15 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/20CD/production/_103379380_cbblogo.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sister of hit-and-run victim calls for law change]]></title>
-            <description><![CDATA[Amy O'Connor's brother Andrew Lindup was killed in a hit-and-run crash in December 2016.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-45513332</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-45513332</guid>
-            <pubDate>Thu, 13 Sep 2018 23:24:00 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11EC4/production/_103421437_p06l286n.png"/>
+            <title><![CDATA[Transplant patient walked down aisle by donor’s dad]]></title>
+            <description><![CDATA[Lisa Simkin contacted her donor’s family six months after a life-saving lung transplant, and says they “opened their door with loving arms”.]]></description>
+            <link>https://www.bbc.co.uk/news/health-45523224</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45523224</guid>
+            <pubDate>Fri, 14 Sep 2018 12:02:01 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/F765/production/_103433336_p06l2q9z.jpg"/>
         </item>
         <item>
             <title><![CDATA[The Skripal suspects' walk through Salisbury]]></title>
@@ -128,12 +128,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/70D1/production/_103418882_p06l3bvw.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Van launched into the air during Attleborough crash]]></title>
-            <description><![CDATA[Dashcam footage reveals the moment a van flies feet into the air.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-norfolk-45515656</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-45515656</guid>
-            <pubDate>Thu, 13 Sep 2018 16:29:27 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D4C7/production/_103417445_p06l2rvp.jpg"/>
+            <title><![CDATA[World Afro Day: ‘Why I love my natural hair’]]></title>
+            <description><![CDATA[Women talk about why they love their natural hair.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45524065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45524065</guid>
+            <pubDate>Fri, 14 Sep 2018 13:44:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1D77/production/_103434570_p06l4qy2.jpg"/>
         </item>
         <item>
             <title><![CDATA[High School Musical inspires UK student's US college dream]]></title>
@@ -157,7 +157,7 @@
             <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-45514535</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-45514535</guid>
             <pubDate>Thu, 13 Sep 2018 23:23:48 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1019F/production/_103415956_p06l2tdm.jpg"/>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/5F5C/production/_103421442_p06l2tdm.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the shock of 2008 still matters today]]></title>
@@ -168,12 +168,12 @@
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/6E15/production/_103418182_p06l35qf.jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBC Politics Live]]></title>
-            <description><![CDATA[Live coverage of the day's politics from Westminster.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-24618323</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-24618323</guid>
-            <pubDate>Thu, 21 Jun 2018 11:26:10 GMT</pubDate>
-            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/118ED/production/_103271917_p06jnvyy-2.jpg"/>
+            <title><![CDATA[BBC News at Six]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>https://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Mon, 03 Sep 2018 06:55:21 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
         </item>
         <item>
             <title><![CDATA[Hockney painting set for record $80m]]></title>
@@ -192,12 +192,12 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9738/production/_103421783_hi020947074.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Newspaper headlines: Russia's 'insult' and Carney's warning]]></title>
-            <description><![CDATA[An "extraordinary" interview on Russian TV and a Bank of England Brexit briefing make the front pages.]]></description>
-            <link>https://www.bbc.co.uk/news/blogs-the-papers-45517066</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-45517066</guid>
-            <pubDate>Fri, 14 Sep 2018 05:04:42 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/12427/production/_103419747_comp.jpg"/>
+            <title><![CDATA[Shoplifters and a law that doesn't deter them]]></title>
+            <description><![CDATA[A shopkeeper says he is losing thousands of pounds of stock each month, as figures show arrests are falling.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45512468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45512468</guid>
+            <pubDate>Fri, 14 Sep 2018 16:08:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17369/production/_103418059_kelsey-2.jpg"/>
         </item>
         <item>
             <title><![CDATA[The first lady of Jacobean Sex Comedy]]></title>
@@ -220,7 +220,7 @@
             <description><![CDATA[Slough received its Royal Charter 80 years ago - but what has the Berkshire town given to the world?]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-berkshire-45420755</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-45420755</guid>
-            <pubDate>Thu, 13 Sep 2018 23:25:57 GMT</pubDate>
+            <pubDate>Fri, 14 Sep 2018 13:50:08 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A817/production/_103413034_sloughberkshire.jpg"/>
         </item>
         <item>

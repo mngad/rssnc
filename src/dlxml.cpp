@@ -6,28 +6,26 @@
 #include "tinyxml.h"
 #include "Item.h"
 #include "feed.h"
+#include "dlxml.h"
 #include <sys/stat.h>
 //#include <unistd.h>
 #include <string>
 
 
 
-std::vector<Feed> fe;
-void feedToXml(Feed feed);
-
-inline bool fileExists (const std::string& name) {
+inline bool Dlxml::fileExists (const std::string& name) {
   struct stat buffer;   
   return (stat (name.c_str(), &buffer) == 0); 
 }
 
-void printTitles(Item items){
+void Dlxml::printTitles(Item items){
 	std::cout<<items.GetTitle()<<std::endl;
 	std::cout<<items.GetUrl()<<"\n"<<std::endl;
 
 	// std::cout<<items.GetDate()<<std::endl;
 
 }
-bool checkExists(TiXmlElement *elem){
+bool Dlxml::checkExists(TiXmlElement *elem){
 
 	if(elem != NULL){
 		return true;
@@ -37,7 +35,7 @@ bool checkExists(TiXmlElement *elem){
 	}
 }
 
-std::string openFirstType(TiXmlElement *rootElem){
+std::string Dlxml::openFirstType(TiXmlElement *rootElem){
 	
 	if(NULL != rootElem->FirstChildElement( "entry" )){
 		return "entry";
@@ -47,7 +45,7 @@ std::string openFirstType(TiXmlElement *rootElem){
 	}
 }
 
-bool itemexists(std::vector<Item> itemarr, std::string feedTitle, Item item){
+bool Dlxml::itemexists(std::vector<Item> itemarr, std::string feedTitle, Item item){
 
 	for(Feed feed : fe){
 
@@ -65,7 +63,7 @@ bool itemexists(std::vector<Item> itemarr, std::string feedTitle, Item item){
 	return false;
 }
 
-void openXml(TiXmlDocument *doc)
+void Dlxml::openXml(TiXmlDocument *doc)
 {
 	
 	TiXmlElement *entryC;
@@ -169,7 +167,7 @@ void openXml(TiXmlDocument *doc)
 
 }
 
-TiXmlDocument * openXMLSafe(const char* pFilename)
+TiXmlDocument * Dlxml::openXMLSafe(const char* pFilename)
 {
 	TiXmlDocument *doc = new TiXmlDocument(pFilename);
 	bool loadOkay = doc->LoadFile();
@@ -187,7 +185,7 @@ TiXmlDocument * openXMLSafe(const char* pFilename)
 
 }
 
-void saveRssXml(char const *pagename, char const *link)
+void Dlxml::saveRssXml(char const *pagename, char const *link)
 {
 
 	CURL *curl = curl_easy_init();
@@ -209,7 +207,7 @@ void saveRssXml(char const *pagename, char const *link)
 }
 
 
-void getRSS(std::string fname){
+void Dlxml::getRSS(std::string fname){
 
  	
 	std::ifstream file(fname);
@@ -235,7 +233,7 @@ void getRSS(std::string fname){
 	}
 }
 
-void feedToXml(Feed feed){
+void Dlxml::feedToXml(Feed feed){
 
 	TiXmlDocument doc;  
 	TiXmlElement* entry;
@@ -279,7 +277,7 @@ void feedToXml(Feed feed){
 	doc.SaveFile( feed.GetName() + ".xml" );  
 }
 
-void openFeedStoreXML(std::string titlefull){
+void Dlxml::openFeedStoreXML(std::string titlefull){
 	
 	size_t lastindex = titlefull.find_last_of("."); 
 	std::string title = titlefull.substr(0, lastindex); 
@@ -343,7 +341,7 @@ void openFeedStoreXML(std::string titlefull){
 
 }
 
-void feedListToXML(std::string feedListFname){
+void Dlxml::feedListToXML(std::string feedListFname){
 
 	TiXmlDocument doc;  
 	TiXmlElement* entry;
@@ -372,7 +370,7 @@ void feedListToXML(std::string feedListFname){
 }
 
 
-void populateFeedVec(std::string feedStoreName){
+void Dlxml::populateFeedVec(std::string feedStoreName){
 	
 	TiXmlDocument *doc = openXMLSafe(feedStoreName.c_str());
 
@@ -398,30 +396,53 @@ void populateFeedVec(std::string feedStoreName){
 
 }
 
-int main()
-{
-
+std::vector<Feed> Dlxml::init(){
 
 	if(fileExists("feedStore.xml")){
-
-
 		populateFeedVec("feedStore.xml");
-	}
-
-	for(Feed i:fe){
-		//std::cout<<i.GetName()<<std::endl;
-		std::vector<Item> itemarr = i.GetItemArray();
-		for(Item item : itemarr){
-			//printTitles(item);
-
-		}
 	}
 
 	getRSS("urllist.txt");
 	feedListToXML("feedStore.xml");
-	std::cout<<"fe.size() = "<<fe.size()<<std::endl;
-	for(Feed i:fe){
-		//std::cout<<i.GetName()<<std::endl;
-	}
-	return 0;
+	return fe;
 }
+
+std::vector<Feed> Dlxml::update(){
+
+	getRSS("urllist.txt");
+	feedListToXML("feedStore.xml");
+	return fe;
+
+}
+
+std::vector<Feed> Dlxml::getFeedVec(){
+	return fe;
+}
+
+// int main()
+// {
+
+
+// 	if(fileExists("feedStore.xml")){
+
+
+// 		populateFeedVec("feedStore.xml");
+// 	}
+
+// 	for(Feed i:fe){
+// 		//std::cout<<i.GetName()<<std::endl;
+// 		std::vector<Item> itemarr = i.GetItemArray();
+// 		for(Item item : itemarr){
+// 			//printTitles(item);
+
+// 		}
+// 	}
+
+// 	getRSS("urllist.txt");
+// 	feedListToXML("feedStore.xml");
+// 	std::cout<<"fe.size() = "<<fe.size()<<std::endl;
+// 	for(Feed i:fe){
+// 		//std::cout<<i.GetName()<<std::endl;
+// 	}
+// 	return 0;
+// }

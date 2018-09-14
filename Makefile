@@ -34,7 +34,7 @@ DEBUG_CXXFLAGS   := ${DEBUG_CFLAGS}
 RELEASE_CXXFLAGS := ${RELEASE_CFLAGS}
 
 DEBUG_LDFLAGS    := -g -lcurl
-RELEASE_LDFLAGS  := -lcurl
+RELEASE_LDFLAGS  := -lcurl -lncurses
 
 ifeq (YES, ${DEBUG})
    CFLAGS       := ${DEBUG_CFLAGS}
@@ -81,7 +81,7 @@ CXXFLAGS := ${CXXFLAGS} ${DEFS}
 # Targets of the build
 #****************************************************************************
 
-OUTPUT := dlxml
+OUTPUT := ui
 
 all: ${OUTPUT}
 
@@ -90,7 +90,7 @@ all: ${OUTPUT}
 # Source files
 #****************************************************************************
 
-SRCS := src/tinyxml.cpp src/tinyxmlparser.cpp src/dlxml.cpp src/tinyxmlerror.cpp src/tinystr.cpp src/Item.cpp src/feed.cpp
+SRCS := src/tinyxml.cpp src/tinyxmlparser.cpp src/dlxml.cpp src/tinyxmlerror.cpp src/tinystr.cpp src/Item.cpp src/feed.cpp src/ui.cpp
 
 # Add on the sources for libraries
 SRCS := ${SRCS}
@@ -126,5 +126,8 @@ depend:
 
 tinyxml.o: tinyxml.h tinystr.h
 tinyxmlparser.o: tinyxml.h tinystr.h
-dlxml.o: tinyxml.h tinystr.h Item.h
+#feed.o: feed.h Item.h
+#Item.o: feed.h Item.h
+dlxml.o: tinyxml.h tinystr.h Item.h dlxml.h feed.h
+#ui.o: feed.h Item.h dlxml.h
 tinyxmlerror.o: tinyxml.h tinystr.h
