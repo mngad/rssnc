@@ -6,16 +6,35 @@
 
 WINDOW *create_newwin(int height, int width, int starty, int startx);
 void destroy_win(WINDOW *local_win);
+std::vector<Feed> feedVector;
+
+void printFeed(WINDOW *childwin, int feedNum){
+
+	box(childwin, 0, 0);
+    mvwaddstr(childwin, 1, 4, feedVector[feedNum].GetName().c_str());
+    int count = 2;
+    for(Item item : feedVector[feedNum].GetItemArray()){
+
+    	mvwaddstr(childwin, count, 2, item.GetTitle().c_str());
+    	mvwaddstr(childwin, count+1, 2, item.GetUrl().c_str());
+    	mvwaddstr(childwin, count+2, 2, item.GetDate().c_str());
+
+    	//mvwaddstr(childwin, count + 1, 2, item.GetDescr().c_str());
+    	count += 4;
+    }
+
+
+}
 
 int main()
 {
 	Dlxml dlxml;
-	std::vector<Feed> feedVector = dlxml.init();
+	feedVector = dlxml.init();
 	//std::vector<Feed> fe =  dlxml.getFeedVec();
 
 
     WINDOW * mainwin, * childwin;
-    int      ch;
+    std::string      ch;
 
     if ( (mainwin = initscr()) == NULL ) {
 	fprintf(stderr, "Error initialising ncurses.\n");
@@ -23,7 +42,7 @@ int main()
     }
     
 
-    int      width = 50, height = 7;
+    int      width = COLS -2, height = LINES -2;
     int      rows  = LINES, cols   = COLS;
     int      x = (cols - width)  / 2;
     int      y = (rows - height) / 2;
@@ -40,17 +59,32 @@ int main()
 
 	
 	childwin = subwin(mainwin, height, width, y, x);
-    box(childwin, 0, 0);
-    mvwaddstr(childwin, 1, 4, feedVector[0].GetName().c_str());
-    mvwaddstr(childwin, 2, 4, feedVector[0].GetItem(2).GetTitle().c_str());
-
-
+    int feednum = 0;
+	printFeed(childwin, feednum);
     refresh();
 
 	//vwaddstr(my_win,startx, starty, "feedVector[0].GetName().c_str()");
 	//addstr(feedVector[0].GetName().c_str());
-    ch = getch();
+    ch = " ";
+    while(ch != "q"){
+    	ch = getch();
+
+		if(ch == "n" && (feednum + 1)<=feedVector.size()-1){
+			feednum++;
+
+		}
+		if(ch=="p" && (feednum-1)>=0){
+			feednum--;
+			
+		}
+		
 	   /*  Clean up after ourselves  */
+		delwin(childwin);
+		childwin = subwin(mainwin, height, width, y, x);
+		printFeed(childwin, feednum);
+    	refresh();
+
+    }
 
     delwin(childwin);
     delwin(mainwin);
