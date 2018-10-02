@@ -3,6 +3,8 @@
 #include "dlxml.h"
 #include "feed.h"
 #include "Item.h"
+#include <signal.h>
+
 
 WINDOW *create_newwin(int height, int width, int starty, int startx);
 void destroy_win(WINDOW *local_win);
@@ -11,8 +13,8 @@ std::vector<Feed> feedVector;
 void printFeed(WINDOW *childwin, int feedNum){
 
 	box(childwin, 0, 0);
-    mvwaddstr(childwin, 1, 4, feedVector[feedNum].GetName().c_str());
-    int count = 2;
+    mvwaddstr(childwin, 1, COLS/2 - feedVector[feedNum].GetName().length(), feedVector[feedNum].GetName().c_str());
+    int count = 3;
     for(Item item : feedVector[feedNum].GetItemArray()){
 
     	mvwaddstr(childwin, count, 2, item.GetTitle().c_str());
@@ -25,6 +27,16 @@ void printFeed(WINDOW *childwin, int feedNum){
 
 
 }
+void updateFD(WINDOW *mainwin, WINDOW *childwin, int feednum){
+
+	wclear(mainwin);
+	printFeed(childwin, feednum);
+	refresh();
+}
+void resizeHandler(WINDOW *mainwin, WINDOW *childwin, int feednum) {
+    
+	updateFD(mainwin,childwin,feednum);
+}
 
 int main()
 {
@@ -32,7 +44,7 @@ int main()
 	feedVector = dlxml.init();
 	//std::vector<Feed> fe =  dlxml.getFeedVec();
 
-
+	
     WINDOW * mainwin, * childwin;
     std::string      ch;
 
@@ -65,24 +77,25 @@ int main()
 
 	//vwaddstr(my_win,startx, starty, "feedVector[0].GetName().c_str()");
 	//addstr(feedVector[0].GetName().c_str());
+
+	signal(SIGWINCH, resizeHandler(mainwin, childwin, feednum));
     ch = " ";
     while(ch != "q"){
     	ch = getch();
 
 		if(ch == "n" && (feednum + 1)<=feedVector.size()-1){
 			feednum++;
+			updateFD(mainwin,childwin,feednum);
 
 		}
 		if(ch=="p" && (feednum-1)>=0){
 			feednum--;
+			updateFD(mainwin,childwin,feednum);
 			
 		}
 		
 	   /*  Clean up after ourselves  */
-		delwin(childwin);
-		childwin = subwin(mainwin, height, width, y, x);
-		printFeed(childwin, feednum);
-    	refresh();
+
 
     }
 

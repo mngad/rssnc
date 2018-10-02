@@ -11,16 +11,16 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Sep 2018 16:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Sep 2018 18:47:44 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA[UK visas: EU workers after Brexit 'should get no special treatment']]></title>
-            <description><![CDATA[The Migration Advisory Committee also says there should be no limit on skilled workers coming to the UK.]]></description>
+            <title><![CDATA[UK visas: High-skilled migrants cap 'should be scrapped']]></title>
+            <description><![CDATA[A key report suggests making it easier for skilled workers from anywhere in the world to come to the UK after Brexit.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45556246</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45556246</guid>
-            <pubDate>Tue, 18 Sep 2018 15:08:05 GMT</pubDate>
+            <pubDate>Tue, 18 Sep 2018 18:17:17 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/87BB/production/_103474743_0264ea6e-1234-43e1-9b61-1399556e92fa.jpg"/>
         </item>
         <item>
@@ -28,16 +28,16 @@
             <description><![CDATA[An opportunity to save Keith Palmer's life was possibly lost, a firearms officer tells an inquest.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45564224</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45564224</guid>
-            <pubDate>Tue, 18 Sep 2018 16:07:02 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1850B/production/_103359599_westminsterattackvictims.jpg"/>
+            <pubDate>Tue, 18 Sep 2018 16:59:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5B1E/production/_103462332_hi038658976_crop.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Billy Joe Saunders sorry after offering woman drugs]]></title>
-            <description><![CDATA[Police are investigating a video of world boxing champion Billy Joe Saunders offering a woman drugs.]]></description>
-            <link>https://www.bbc.co.uk/news/newsbeat-45559904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-45559904</guid>
-            <pubDate>Tue, 18 Sep 2018 10:41:43 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8707/production/_103476543_gettyimages-143529732.jpg"/>
+            <title><![CDATA[Coventry bus crash: Kailash Chander was driving dangerously]]></title>
+            <description><![CDATA[Kailash Chander was diagnosed with dementia after a crash which left two dead, a court is told.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-45561937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-45561937</guid>
+            <pubDate>Tue, 18 Sep 2018 18:47:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/33CA/production/_103485231_bg.jpg"/>
         </item>
         <item>
             <title><![CDATA[Egypt hotel deaths: Inquests opened for couple who died on holiday]]></title>
@@ -60,7 +60,7 @@
             <description><![CDATA[Loss of the EU Arrest Warrant could make cases like the Novichok attack investigation harder, a police chief says.]]></description>
             <link>https://www.bbc.co.uk/news/uk-45561527</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45561527</guid>
-            <pubDate>Tue, 18 Sep 2018 15:04:34 GMT</pubDate>
+            <pubDate>Tue, 18 Sep 2018 17:35:35 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1C13/production/_103478170_32cf2beb-73fb-4c31-8022-82a8c9ee6e05.jpg"/>
         </item>
         <item>
@@ -84,8 +84,8 @@
             <description><![CDATA[Footage of Shane Seymour driving a stolen car at cyclists in London was circulated on social media.]]></description>
             <link>https://www.bbc.co.uk/news/uk-england-london-45563799</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45563799</guid>
-            <pubDate>Tue, 18 Sep 2018 16:12:34 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15584/production/_103482478_claphamroad.jpg"/>
+            <pubDate>Tue, 18 Sep 2018 17:30:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D550/production/_103480645_l507-18seymour2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Gloucester Cathedral offers Welby's 'evil' contracts]]></title>
@@ -168,20 +168,20 @@
             <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
         </item>
         <item>
+            <title><![CDATA[Poem-roaring lion unveiled in Trafalgar Square]]></title>
+            <description><![CDATA[Passersby can type in words on a screen to prompt the lion to generate and recite a poem.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-45560794</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45560794</guid>
+            <pubDate>Tue, 18 Sep 2018 17:36:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/38D4/production/_103484541_lion.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Emmy Awards 2018: Matthew Rhys surprises fans with accent]]></title>
             <description><![CDATA[Welsh actor Matthew Rhys surprised fans when he accepted his Emmy award in his native accent.]]></description>
             <link>https://www.bbc.co.uk/news/uk-wales-45559664</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45559664</guid>
-            <pubDate>Tue, 18 Sep 2018 14:34:47 GMT</pubDate>
+            <pubDate>Tue, 18 Sep 2018 18:21:09 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0D95/production/_103477430_matthew_rhys_afp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crisp packet graduation gown worn in Walkers recycling protest]]></title>
-            <description><![CDATA[The biologist's dress is calculated to put pressure on Walkers to make recyclable packaging.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-devon-45558074</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-45558074</guid>
-            <pubDate>Tue, 18 Sep 2018 10:39:26 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/148D1/production/_103477148_crispindex.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wrexham burns survivor poses at London Fashion Week]]></title>
