@@ -170,7 +170,14 @@ void Dlxml::openXml(TiXmlDocument *doc)
 				&sec,
 				&timz
 			    );
-
+			if(hour + timz >=0 && hour+timz <=24){
+				hour = hour +timz;
+			}
+			else{
+				
+				hour = (hour +timz) -24;
+				day = day +1;
+			}
 			item.SetDate(min,hour,day,month,year);
 		
 

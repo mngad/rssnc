@@ -26,11 +26,7 @@ class Feed{
 		bool exists(std::string name);
 		void SortDate();
 
-		static bool wayToSortH(Item i, Item j); 
-		static bool wayToSortM(Item i, Item j); 
-		static bool wayToSortD(Item i, Item j); 
-		static bool wayToSortMo(Item i, Item j);
-		static bool wayToSortY(Item i, Item j); 
+		static bool wayToSort(Item i, Item j);
 
 
 };

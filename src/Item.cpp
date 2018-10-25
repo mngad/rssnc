@@ -40,11 +40,13 @@ int Item::count_numbers ( int num) {
    return count;
 }
 void Item::SetDate(int min, int hour, int day, int month, int year){
+	if(_dst = true){hour = hour +1;}
 	_day=day;
 	_month=month;
 	_year=year;
 	_min=min;
 	_hour=hour;
+
 	std::string mins;
 	if(count_numbers(min)==1){
 		mins = "0"+std::to_string(min);
@@ -52,7 +54,14 @@ void Item::SetDate(int min, int hour, int day, int month, int year){
 	else{
 		mins = std::to_string(min);
 	}
-	_date=std::to_string(hour)+":"+
+	std::string hours;
+	if(count_numbers(hour)==1){
+		hours = "0"+std::to_string(hour);
+	}
+	else{
+		hours = std::to_string(hour);
+	}
+	_date=hours+":"+
 		mins+" "+
 		std::to_string(day)+"/"+
 		std::to_string(month)+"/"+

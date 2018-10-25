@@ -42,17 +42,18 @@ bool Feed::exists(std::string name){
 	else{return false;}
 
 }
-bool Feed::wayToSortH(Item i, Item j) { return i.GetHour() > j.GetHour(); }
-bool Feed::wayToSortM(Item i, Item j) { return i.GetMin() > j.GetMin(); }
-bool Feed::wayToSortD(Item i, Item j) { return i.GetDay() > j.GetDay(); }
-bool Feed::wayToSortMo(Item i, Item j) { return i.GetMonth() > j.GetMonth(); }
-bool Feed::wayToSortY(Item i, Item j) { return i.GetYear() > j.GetYear(); }
+
+bool Feed::wayToSort(Item i, Item j) { 
+	int datei = i.GetYear()*1000000 + i.GetMonth() *1000000 + i.GetDay()* 10000 +i.GetHour() *100 + i.GetMin();
+	int datej = j.GetYear()*1000000 + j.GetMonth() *1000000 + j.GetDay()* 10000 +j.GetHour() *100 + j.GetMin();
+	if(datei>datej){
+		return true;
+	} 
+	else{return false;}
+}
 
 void Feed::SortDate(){
 
-	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortY);
-	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortMo);
-	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortD);
-	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortH);
-	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortM);
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSort);
+
 }

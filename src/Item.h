@@ -14,6 +14,7 @@ class Item{
 		int _year;
 		int _min;
 		int _hour;
+		bool _dst = true;
 	public:
 		std::string GetTitle();
 		std::string GetDescr();

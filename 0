@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>The Verge -  All Posts</title>
   <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2018-10-25T12:32:23-04:00</updated>
+  <updated>2018-10-25T13:15:29-04:00</updated>
   <id>https://www.theverge.com/rss/full.xml</id>
   <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2018-10-25T13:15:29-04:00</published>
+    <updated>2018-10-25T13:15:29-04:00</updated>
+    <title>Rick and Morty’s head writer is making an animated Star Trek series</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Hy0MvR5PEJaSb9jIlMEptnc7U_M=/225x0:2655x1620/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61907245/st.0.0.png" /&gt;
+
+
+
+  &lt;p id="gZJMHM"&gt;&lt;a href="https://www.theverge.com/2018/6/19/17479734/cbs-star-trek-discovery-alex-kurtzman-five-year-deal"&gt;Back in June, CBS Television Studios announced&lt;/a&gt; it had signed a five-year deal with &lt;a href="https://www.theverge.com/2017/5/17/15653976/star-trek-discovery-trailers-commentary-updates-CBS-all-access"&gt;&lt;em&gt;Star Trek: Discovery&lt;/em&gt;&lt;/a&gt; co-creator and executive producer Alex Kurtzman, who would develop a number of future entries in the utopian TV franchise. At the time, it was reported that those shows would include a soapier Starfleet Academy show from the creators of &lt;em&gt;Gossip Girl&lt;/em&gt; and &lt;em&gt;Marvel’s &lt;/em&gt;&lt;a href="https://www.theverge.com/2018/1/11/16879936/marvel-runaways-finale-season-2"&gt;&lt;em&gt;Runaways&lt;/em&gt;&lt;/a&gt;; two limited series, including one based on &lt;em&gt;The&lt;/em&gt; &lt;em&gt;Wrath of Khan&lt;/em&gt;; and an animated series. Today, the studio announced more details on that animated project: it’ll be an adult cartoon called &lt;em&gt;Star Trek: Lower Decks&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;created by &lt;em&gt;Rick and Morty&lt;/em&gt; head writer Mike McMahan.&lt;/p&gt;
+&lt;p id="00TytQ"&gt;Described as focusing on “the support crew serving on one of Starfleet’s least important ships,” the new...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan"/>
+    <id>https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan</id>
+    <author>
+      <name>Devon Maloney</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T13:03:38-04:00</published>
+    <updated>2018-10-25T13:03:38-04:00</updated>
+    <title>Christie’s sells its first AI portrait for $432,500, beating estimates of $10,000</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/ZnrBh-3Urp6TT4VxeE0DImYspfU=/0x1:1200x801/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61907021/image_2.0.jpeg" /&gt;
+
+
+
+  &lt;p id="X22O2M"&gt;Christie’s has &lt;a href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;amp;LN=363&amp;amp;intsaleid=27814&amp;amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee"&gt;sold&lt;/a&gt; its first piece of AI art, a canvas named the &lt;em&gt;Portrait of Edmond Belamy&lt;/em&gt;, for $432,500. The sale is unusual not only as a first for the 252-year-old auction house, but because the expected price for the print was between $7,000 and $10,000.&lt;/p&gt;
+&lt;p id="KuY8Jt"&gt;The artwork was created by a collective named Obvious. The three members of Obvious, a trio of 25-year-old French students, used a type of machine learning algorithm known as a GAN (generative adversarial network) to create the picture. The network was trained on a dataset of historical portraits, and then it tried to create one of its own. Obvious printed the image, framed it, and signed it with part of the GAN’s algorithm. &lt;/p&gt;
+&lt;aside id="iDXWTD"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"How three French students used borrowed code to put the first AI portrait in Christie’s ","url":"https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;p id="51qSZE"&gt;However, as &lt;em&gt;The Verge&lt;/em&gt; &lt;a href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans"&gt;reported earlier this week&lt;/a&gt;, the &lt;em&gt;B...&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold"/>
+    <id>https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold</id>
+    <author>
+      <name>James Vincent</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:40:33-04:00</published>
+    <updated>2018-10-25T12:40:33-04:00</updated>
+    <title>Western Digital’s new 15TB hard drive is the biggest one ever made</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/DffAR5ZzHhk1oV6vOuRvj4EIdFs=/0x28:748x527/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906665/Western_Digital_15TB_HDD.0.jpg" /&gt;
+
+
+
+  &lt;p id="JBxVvL"&gt;Step aside, boring 14TB hard drives. There’s a new storage champion in town: Western Digital has announced a new 15TB Ultrastar DC HC620 HDD that takes the crown as the biggest hard drive yet, &lt;a href="https://www.slashgear.com/western-digital-hard-drive-lineup-gains-a-15tb-behemoth-25551384/"&gt;via&lt;em&gt; SlashGear&lt;/em&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;p id="dNdNa1"&gt;The new drive beats out Western Digital’s 14TB model &lt;a href="https://www.theverge.com/circuitbreaker/2017/10/5/16432568/western-digital-14tb-hard-drive-ultrastar-hs14"&gt;that it announced last year&lt;/a&gt; and &lt;a href="https://www.seagate.com/about-seagate/news/seagate-industry-advanced-14tb-data-storage-pr-master/"&gt;Seagate’s recently announced 14TB lineup&lt;/a&gt;. Seagate did announce last year that it was &lt;a href="https://www.theverge.com/circuitbreaker/2017/1/27/14417316/seagate-16tb-hard-drive-announced-coming-2018"&gt;planning to release a 16TB drive in 2018&lt;/a&gt;, which would have topped the old 14TB drives as well as the new 15TB Ultrastar, but there hasn’t been any word on the 16TB drive since that initial announcement. &lt;/p&gt;
+&lt;p id="xhJasr"&gt;That leaves the new Western Digital drive as the biggest hard drive available, although the company hasn’t said how much it’ll cost (spoiler: a lot) or when you’ll...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever"/>
+    <id>https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever</id>
+    <author>
+      <name>Chaim Gartenberg</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:36:48-04:00</published>
+    <updated>2018-10-25T12:36:48-04:00</updated>
+    <title>How authorities look for a mail bomber</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/lzzJbca3NMERvlNVQahpjb3HW5U=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906605/1052931244.jpg.0.jpg" /&gt;
+
+
+
+  &lt;p id="jqgwaY"&gt;Panic unfolded yesterday after a series of pipe bombs were mailed to CNN and prominent critics of Trump. As of Thursday morning, at least 10 bombs have been discovered, including packages sent to George Soros, Robert De Niro, and Joe Biden. &lt;/p&gt;
+&lt;p id="cTwAry"&gt;While the CNN delivery made its way to parent company Time Warner in New York, triggering a massive law enforcement response, packages meant for Hillary Clinton and Barack Obama were never delivered. Moreover, the packages have been obtained intact, giving investigators a wealth of potential clues. Law enforcement will now sift through all of the evidence in the hunt for the culprit.&lt;/p&gt;
+&lt;p id="r4PX36"&gt;Crucially, the intercepted packages were obtained by authorities before detonation. In a statement on the incident,...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton"/>
+    <id>https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton</id>
+    <author>
+      <name>Colin Lecher</name>
+    </author>
+  </entry>
   <entry>
     <published>2018-10-25T12:32:23-04:00</published>
     <updated>2018-10-25T12:32:23-04:00</updated>
@@ -14,7 +105,7 @@
 
 
 
-  &lt;p id="qnaNmF"&gt;wLast September, the FN SCAR made its virtual debut in &lt;em&gt;Fortnite&lt;/em&gt;’s popular battle royale mode as the legendary variant of the common assault rifle. Next summer, the SCAR will make its Nerf debut as the “AR-L Blaster,” the first Nerf gun to come out of the partnership between Epic Games and Hasbro. (&lt;a href="https://www.ign.com/articles/2018/09/06/fortnite-nerf-blasters-are-coming-in-2019"&gt;Look out for a whole line of them in 2019&lt;/a&gt;.)&lt;/p&gt;
+  &lt;p id="qnaNmF"&gt;Last September, the FN SCAR made its virtual debut in &lt;em&gt;Fortnite&lt;/em&gt;’s popular battle royale mode as the legendary variant of the common assault rifle. Next summer, the SCAR will make its Nerf debut as the “AR-L Blaster,” the first Nerf gun to come out of the partnership between Epic Games and Hasbro. (&lt;a href="https://www.ign.com/articles/2018/09/06/fortnite-nerf-blasters-are-coming-in-2019"&gt;Look out for a whole line of them in 2019&lt;/a&gt;.)&lt;/p&gt;
 &lt;p id="UjfrF8"&gt;The toy version of the gas-operated self-loading rifle will appear on shelves on June 1st, 2019, and it will cost $49.99, &lt;a href="https://www.ign.com/articles/2018/10/25/fortnites-first-real-life-nerf-blaster-announced"&gt;&lt;em&gt;IGN&lt;/em&gt; reports&lt;/a&gt;. The AR-L Blaster features “rapid-fire motorized blasting and flip-up sights,” presumably to help players hit each other more easily with foam darts. &lt;/p&gt;
 &lt;p id="nLPUlu"&gt;The Nerf gun is modeled from Fortnite’s assault rifle, which happens to look a lot like its real-life metal cousin: the...&lt;/p&gt;
   &lt;p&gt;
@@ -134,94 +225,6 @@
     <id>https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows</id>
     <author>
       <name>Dieter Bohn</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T11:15:26-04:00</published>
-    <updated>2018-10-25T11:15:26-04:00</updated>
-    <title>CompUSA resurrected as a sad affiliate deals site</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/fxG8KEpxd1LXBzFG5u5M_JjZ5oc=/0x0:1122x748/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61905293/Screen_Shot_2018_10_25_at_10.35.50_AM.0.png" /&gt;
-
-
-
-  &lt;p id="zYzRxL"&gt;&lt;a href="http://CompUSA.com"&gt;CompUSA.com&lt;/a&gt; is back, this time as an affiliate deals site. The company was acquired by &lt;a href="https://www.dealcentral.com/"&gt;DealCentral&lt;/a&gt;, a startup specializing in deal hunting and coupons, earlier this month. According to DealCentral CEO Yishai Grossman, the relaunch is strategically timed before Black Friday and the holiday season.&lt;/p&gt;
-&lt;p id="5w02iJ"&gt;The new site brings staff and user reviews of products, along with deals on laptops, televisions, and other tech products. Grossman says he’s hired an editorial team with “decades of combined experience in the deal space,” including Slickdeals, eBates, and FatWallet. “Acquiring CompUSA makes sense for us on so many levels,” Grossman said in a press release. “Out of the gate we can offer the best deals, sales and coupons from all around the web...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday"/>
-    <id>https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday</id>
-    <author>
-      <name>Dami Lee</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T11:07:07-04:00</published>
-    <updated>2018-10-25T11:07:07-04:00</updated>
-    <title>Mail bombing is a generational form of American terrorism</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/6qrqS2m0-f74mYhILMrzLmAOLA4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61905171/1052953028.jpg.0.jpg" /&gt;
-
-
-
-  &lt;p id="mMVI1U"&gt;This week, &lt;a href="https://www.cnn.com/2018/10/24/politics/bill-clinton-hillary-clinton-chappaqua/index.html"&gt;someone in America has taken it upon themselves to mail bombs&lt;/a&gt; to George Soros, Barack Obama, Hillary Clinton, Joe Biden, the Democratic Rep. (and former chair of the Democratic National Committee) Debbie Wasserman Schultz, former US Attorney General Eric Holder, Democratic Rep. Maxine Waters, and former CIA director John Brennan. Brennan’s bomb arrived at CNN’s New York City office, leading to the prompt evacuation of the building. Robert De Niro, a prominent critic of the current president, also received a package with an explosive device inside. On Thursday, &lt;a href="https://www.nytimes.com/2018/10/25/nyregion/bomb-explosive-device.html?action=click&amp;amp;module=Top%20Stories&amp;amp;pgtype=Homepage"&gt;&lt;em&gt;The New York Times &lt;/em&gt;reported&lt;/a&gt; that the US Postal Service records images of mail that comes into its system, and a search of those images led to the discovery of more...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy"/>
-    <id>https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy</id>
-    <author>
-      <name>Bijan Stephen</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T10:38:13-04:00</published>
-    <updated>2018-10-25T10:38:13-04:00</updated>
-    <title>More solar panels mean more waste and there’s no easy solution </title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/P9IOSumlDrLjEtEn0wxgEnkseNM=/3x0:1017x676/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61904793/solar-panel-green-energy-stock_1020.0.jpg" /&gt;
-
-
-
-  &lt;p id="5vk8nM"&gt;Solar panels might be &lt;a href="https://www.vox.com/2015/4/28/8506953/solar-photovoltaic-future"&gt;the energy source of the future&lt;/a&gt;, but they also create a problem without an easy solution: what do we do with millions of panels when they stop working? &lt;/p&gt;
-&lt;p id="z1jo7O"&gt;In November 2016, the Environment Ministry of Japan &lt;a href="http://asia.nikkei.com/Tech-Science/Tech/Japan-tries-to-chip-away-at-mountain-of-disused-solar-panels?page=2"&gt;warned that&lt;/a&gt; the country will produce 800,000 tons of solar waste by 2040, and it can’t yet handle those volumes. That same year, the International Renewable Energy Agency &lt;a href="http://www.irena.org/publications/2016/Jun/End-of-life-management-Solar-Photovoltaic-Panels"&gt;estimated that there were already 250,000 metric tons of solar panel waste&lt;/a&gt; worldwide and that this number would grow to 78 million by 2050. “That’s an amazing amount of growth,” says &lt;a href="https://www.instituteforenergyresearch.org/tag/mary-hutzler/"&gt;Mary Hutzler&lt;/a&gt;, a senior fellow at the Institute for Energy Research. “It’s going to be a major problem.”&lt;/p&gt;
-&lt;p id="pwCOvR"&gt;Usually, panels are warrantied for 25 to 30 years and can last...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling"/>
-    <id>https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling</id>
-    <author>
-      <name>Angela Chen</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T10:16:34-04:00</published>
-    <updated>2018-10-25T10:16:34-04:00</updated>
-    <title>Xbox One consoles are $100 off when you purchase Red Dead Redemption 2</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/rvPJit2yCtwnrfU2FOzxH1J0yHs=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61890623/RDR2_Screenshot_084_copy.0.jpg" /&gt;
-
-
-
-  &lt;p id="jYCeJG"&gt;The Xbox One S and Xbox One X are heavily discounted for those who purchase &lt;em&gt;Red Dead Redemption 2&lt;/em&gt; online at GameStop, Amazon, Newegg, Best Buy, or the Microsoft Store. Buying Rockstar’s open-world title for Xbox One will activate $100 of savings on either console at the time of checkout, bringing pre-tax prices as low as $259 for the Xbox One S or $459 for the more powerful Xbox One X. If you’d rather shop at your local store, the savings won’t begin until 9PM ET on Thursday, October 25th.&lt;/p&gt;
-&lt;p id="TwueBH"&gt;Many of the participating retailers haven’t yet shared which console bundles will be offered once the deal goes live, though you’ll likely have more options if you buy online rather than at a brick-and-mortar store where your selection will be limited...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft"/>
-    <id>https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft</id>
-    <author>
-      <name>Cameron Faulkner</name>
     </author>
   </entry>
 </feed>
