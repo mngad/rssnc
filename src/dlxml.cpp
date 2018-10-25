@@ -10,8 +10,44 @@
 #include <sys/stat.h>
 //#include <unistd.h>
 #include <string>
+#include <map>
 
+int Dlxml::get_month_index( std::string name )
+{
+    std::map<std::string, int> months
+    {
+        { "jan", 1 },
+        { "feb", 2 },
+        { "mar", 3 },
+        { "apr", 4 },
+        { "may", 5 },
+        { "jun", 6 },
+        { "jul", 7 },
+        { "aug", 8 },
+        { "sep", 9 },
+        { "oct", 10 },
+        { "nov", 11 },
+        { "dec", 12 },
+        { "Jan", 1 },
+        { "Feb", 2 },
+        { "Mar", 3 },
+        { "Apr", 4 },
+        { "May", 5 },
+        { "Jun", 6 },
+        { "Jul", 7 },
+        { "Aug", 8 },
+        { "Sep", 9 },
+        { "Oct", 10 },
+        { "Nov", 11 },
+        { "Dec", 12 }
+    };
 
+    const auto iter = months.find( name );
+
+    if( iter != months.cend() )
+        return iter->second;
+    return -1;
+}
 
 inline bool Dlxml::fileExists (const std::string& name) {
   struct stat buffer;   
@@ -90,7 +126,7 @@ void Dlxml::openXml(TiXmlDocument *doc)
 		if(feed.exists(feedTitle)){
 
 			itemArr = feed.GetItemArray();
-			std::cout<<feedTitle<<", itemArr.size() = "<<itemArr.size()<<std::endl;
+
 			break;
 		}
 	}
@@ -120,11 +156,41 @@ void Dlxml::openXml(TiXmlDocument *doc)
 		else if(checkExists(link)){
 			item.SetUrl(link->GetText());
 		}
+
 		if(checkExists(date)){
-			item.SetDate(date->GetText());
+			//2018-10-02T08:29:17-04:00
+			std::string currDate = date->GetText();
+			int day,month,year,min,hour,sec,timz;
+			sscanf(currDate.c_str(), "%4d-%2d-%2dT%2d:%2d:%2d-%2d",
+				&year,
+				&month,
+				&day,
+				&hour,
+				&min,
+				&sec,
+				&timz
+			    );
+
+			item.SetDate(min,hour,day,month,year);
+		
+
 		}
 		else if(checkExists(pubdate)){
-			item.SetDate(pubdate->GetText());
+			//Tue, 02 Oct 2018 11:42:04
+			std::string currDate = pubdate->GetText();
+			int day,year,min,hour,sec,timz;
+			char dc [3];
+			char monthc [3];
+			sscanf(currDate.c_str(), "%3c, %2d %3c %4d %2d:%2d:%2d",
+				dc,
+				&day,
+				monthc,
+				&year,
+				&hour,
+				&min,
+				&sec
+			    );
+			item.SetDate(min,hour,day,get_month_index(monthc),year);
 		}
 
 		
@@ -163,6 +229,7 @@ void Dlxml::openXml(TiXmlDocument *doc)
 		
 
 		fe.push_back(feedcurr);
+
 	}
 
 }
@@ -175,7 +242,7 @@ TiXmlDocument * Dlxml::openXMLSafe(const char* pFilename)
 	{
 		//printf("\n%s:\n", pFilename);
 		return doc;
-	}
+	} 
 	else
 	{
 		printf("Failed to load file \"%s\"\n", pFilename);
@@ -216,20 +283,24 @@ void Dlxml::getRSS(std::string fname){
 	while(file >> content) {
 		saveRssXml(std::to_string(id).c_str(), content.c_str());
 		TiXmlDocument *doc =  openXMLSafe(std::to_string(id).c_str());
-		
+
 		openXml( doc);
-		
+
 		
 		id++;
 		remove(std::to_string(id).c_str());
 	}
 
 	for(Feed i:fe){
-		feedToXml(i);
 		std::vector<Item> itemarr = i.GetItemArray();
-		for(Item item : itemarr){
-			//printTitles(item);
-		}
+
+		feedToXml(i);
+
+		
+		
+		// for(Item item : itemarr){
+		// 	//printTitles(item);
+		// }
 	}
 }
 
@@ -274,6 +345,7 @@ void Dlxml::feedToXml(Feed feed){
 		date->LinkEndChild(new TiXmlText(item.GetDate().c_str()));
 
 	}
+
 	doc.SaveFile( feed.GetName() + ".xml" );  
 }
 
@@ -326,8 +398,17 @@ void Dlxml::openFeedStoreXML(std::string titlefull){
 	
 		item.SetUrl(link->GetText());
 
-		item.SetDate(pubdate->GetText());
-
+		std::string currDate = pubdate->GetText();
+		int day,month,year,min,hour;
+		sscanf(currDate.c_str(), "%2d:%2d %2d/%2d/%4d",
+			&hour,
+			&min,
+			&day,
+			&month,
+			&year
+		    );
+		item.SetDate(min,hour,day,month,year);
+	
 
 		entry = entry->NextSiblingElement("Entry");
 		itemArr.push_back(item);
@@ -403,7 +484,9 @@ std::vector<Feed> Dlxml::init(){
 	}
 
 	getRSS("urllist.txt");
+
 	feedListToXML("feedStore.xml");
+	std::cout<<"here"<<std::endl;
 	return fe;
 }
 

@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <iostream> 
 #include <string>
+#include <algorithm>
 
 Feed::Feed(std::vector<Item> itemArr){
 	_itemArr=itemArr;
@@ -40,4 +41,18 @@ bool Feed::exists(std::string name){
 	if(_name==name){ return true;}
 	else{return false;}
 
+}
+bool Feed::wayToSortH(Item i, Item j) { return i.GetHour() > j.GetHour(); }
+bool Feed::wayToSortM(Item i, Item j) { return i.GetMin() > j.GetMin(); }
+bool Feed::wayToSortD(Item i, Item j) { return i.GetDay() > j.GetDay(); }
+bool Feed::wayToSortMo(Item i, Item j) { return i.GetMonth() > j.GetMonth(); }
+bool Feed::wayToSortY(Item i, Item j) { return i.GetYear() > j.GetYear(); }
+
+void Feed::SortDate(){
+
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortY);
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortMo);
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortD);
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortH);
+	std::sort(_itemArr.begin(), _itemArr.end(), wayToSortM);
 }

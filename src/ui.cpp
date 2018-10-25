@@ -13,6 +13,7 @@ std::vector<Feed> feedVector;
 void printFeed(WINDOW *childwin, int feedNum){
 
 	box(childwin, 0, 0);
+    feedVector[feedNum].SortDate();
     mvwaddstr(childwin, 1, COLS/2 - feedVector[feedNum].GetName().length(), feedVector[feedNum].GetName().c_str());
     int count = 3;
     for(Item item : feedVector[feedNum].GetItemArray()){
@@ -72,13 +73,14 @@ int main()
 	
 	childwin = subwin(mainwin, height, width, y, x);
     int feednum = 0;
+    
 	printFeed(childwin, feednum);
     refresh();
 
 	//vwaddstr(my_win,startx, starty, "feedVector[0].GetName().c_str()");
 	//addstr(feedVector[0].GetName().c_str());
 
-	signal(SIGWINCH, resizeHandler(mainwin, childwin, feednum));
+	//signal(SIGWINCH, resizeHandler(mainwin, childwin, feednum));
     ch = " ";
     while(ch != "q"){
     	ch = getch();

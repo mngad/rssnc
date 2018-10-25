@@ -17,6 +17,11 @@ std::string Item::GetUrl(){
 std::string Item::GetDate(){
 	return _date;
 }
+int Item::GetHour(){return _hour;}
+int Item::GetMin(){return _min;}
+int Item::GetDay(){return _day;}
+int Item::GetMonth(){return _month;}
+int Item::GetYear(){return _year;}
 void Item::SetTitle(std::string title){
 	_title=title;
 }
@@ -26,8 +31,32 @@ void Item::SetDescr(std::string descr){
 void Item::SetUrl(std::string url){
 	_url=url;
 }
-void Item::SetDate(std::string date){
-	_date=date;
+int Item::count_numbers ( int num) {
+   int count =0;
+   while (num !=0) {   
+      count++;  
+      num/=10;
+   } 
+   return count;
+}
+void Item::SetDate(int min, int hour, int day, int month, int year){
+	_day=day;
+	_month=month;
+	_year=year;
+	_min=min;
+	_hour=hour;
+	std::string mins;
+	if(count_numbers(min)==1){
+		mins = "0"+std::to_string(min);
+	}
+	else{
+		mins = std::to_string(min);
+	}
+	_date=std::to_string(hour)+":"+
+		mins+" "+
+		std::to_string(day)+"/"+
+		std::to_string(month)+"/"+
+		std::to_string(year);
 }
 bool Item::exists(std::string title){
 	if(_title == title){return true;}

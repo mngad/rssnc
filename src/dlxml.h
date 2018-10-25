@@ -11,13 +11,14 @@
 #include <sys/stat.h>
 //#include <unistd.h>
 #include <string>
+#include <map>
 
 class Dlxml{
 
 
 	public:
 		std::vector<Feed> fe;
-
+		int get_month_index( std::string name );
 		void feedToXml(Feed feed);
 		inline bool fileExists (const std::string& name);
 		void printTitles(Item items);

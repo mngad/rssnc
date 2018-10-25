@@ -1,259 +1,227 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-    <channel>
-        <title><![CDATA[BBC News - UK]]></title>
-        <description><![CDATA[BBC News - UK]]></description>
-        <link>https://www.bbc.co.uk/news/</link>
-        <image>
-            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
-            <title>BBC News - UK</title>
-            <link>https://www.bbc.co.uk/news/</link>
-        </image>
-        <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Sep 2018 18:47:44 GMT</lastBuildDate>
-        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
-        <language><![CDATA[en-gb]]></language>
-        <ttl>15</ttl>
-        <item>
-            <title><![CDATA[UK visas: High-skilled migrants cap 'should be scrapped']]></title>
-            <description><![CDATA[A key report suggests making it easier for skilled workers from anywhere in the world to come to the UK after Brexit.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45556246</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45556246</guid>
-            <pubDate>Tue, 18 Sep 2018 18:17:17 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/87BB/production/_103474743_0264ea6e-1234-43e1-9b61-1399556e92fa.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Westminster inquest: Security 'completely failed' stabbed PC]]></title>
-            <description><![CDATA[An opportunity to save Keith Palmer's life was possibly lost, a firearms officer tells an inquest.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45564224</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45564224</guid>
-            <pubDate>Tue, 18 Sep 2018 16:59:20 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5B1E/production/_103462332_hi038658976_crop.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coventry bus crash: Kailash Chander was driving dangerously]]></title>
-            <description><![CDATA[Kailash Chander was diagnosed with dementia after a crash which left two dead, a court is told.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-45561937</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-45561937</guid>
-            <pubDate>Tue, 18 Sep 2018 18:47:27 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/33CA/production/_103485231_bg.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Egypt hotel deaths: Inquests opened for couple who died on holiday]]></title>
-            <description><![CDATA[John Cooper, 69, and his wife Susan, 63, from Burnley, died in the Red Sea city of Hurghada in August.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-lancashire-45560676</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-45560676</guid>
-            <pubDate>Tue, 18 Sep 2018 14:39:12 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/18141/production/_103152689_cooperss.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sir Vince Cable: Brexit not inevitable and must be stopped]]></title>
-            <description><![CDATA[The Lib Dem leader says Brexit "can and must be stopped" in his big party conference speech.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45553411</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45553411</guid>
-            <pubDate>Tue, 18 Sep 2018 14:43:57 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/314A/production/_103481621_mediaitem103477699.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No-deal Brexit 'could make policing harder']]></title>
-            <description><![CDATA[Loss of the EU Arrest Warrant could make cases like the Novichok attack investigation harder, a police chief says.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45561527</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45561527</guid>
-            <pubDate>Tue, 18 Sep 2018 17:35:35 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1C13/production/_103478170_32cf2beb-73fb-4c31-8022-82a8c9ee6e05.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Educating Greater Manchester head Drew Povey resigns]]></title>
-            <description><![CDATA[Drew Povey, of Harrop Fold School, starred in Channel 4's Educating Greater Manchester.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-manchester-45558565</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-45558565</guid>
-            <pubDate>Tue, 18 Sep 2018 11:13:49 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/166BA/production/_102543819_povey.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Storm Ali approach brings amber weather warning]]></title>
-            <description><![CDATA[The Met Office warns of winds of up to 80 mph, which could endanger life.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45561524</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45561524</guid>
-            <pubDate>Tue, 18 Sep 2018 15:23:48 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/664B/production/_103478162_9a4debf7-cb31-4ff8-951e-0a80b99bb1be.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Man admits driving stolen car at London cyclists]]></title>
-            <description><![CDATA[Footage of Shane Seymour driving a stolen car at cyclists in London was circulated on social media.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45563799</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45563799</guid>
-            <pubDate>Tue, 18 Sep 2018 17:30:02 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/D550/production/_103480645_l507-18seymour2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gloucester Cathedral offers Welby's 'evil' contracts]]></title>
-            <description><![CDATA[Gloucester Cathedral says the contracts are used in "limited cases to carry out occasional tasks".]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-45559844</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-45559844</guid>
-            <pubDate>Tue, 18 Sep 2018 12:58:32 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5A25/production/_103477032_capture.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woodcote ram-raiders escape with stolen Lambrini]]></title>
-            <description><![CDATA[Four men who twice smashed their way into a Co-op were unable to remove a cash machine.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-oxfordshire-45561404</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-oxfordshire-45561404</guid>
-            <pubDate>Tue, 18 Sep 2018 12:12:06 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5575/production/_103477812_fert.png"/>
-        </item>
-        <item>
-            <title><![CDATA[PM's wedding crasher photo surprise for Cowes couple]]></title>
-            <description><![CDATA[A photographer captures the "surreal" moment the prime minister joins a newlywed couple for a photo.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-hampshire-45558945</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-45558945</guid>
-            <pubDate>Tue, 18 Sep 2018 10:27:17 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B50B/production/_103474364_p06lh35x.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 107-year-old who fought fires during the Blitz]]></title>
-            <description><![CDATA[The story of the 107-year-old who was among the first to tackle the fires in London World War Two.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-sussex-45402305</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-45402305</guid>
-            <pubDate>Mon, 17 Sep 2018 23:29:53 GMT</pubDate>
-            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/7F41/production/_103477523_oldfirenewstill.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tariq Ramadan: #MeToo in the Muslim world]]></title>
-            <description><![CDATA[Several women have come forward to accuse Tariq Ramadan, one of the Muslim world’s most famous thinkers, of sexual assault.]]></description>
-            <link>https://www.bbc.co.uk/news/world-europe-45552139</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45552139</guid>
-            <pubDate>Mon, 17 Sep 2018 23:35:09 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9040/production/_103482963_3ba578ae-e7ad-43c3-ab55-ecd63f922eeb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ultra runner Sophie Power on breastfeeding during a 103-mile race]]></title>
-            <description><![CDATA[An ultra runner mother on why she breastfed her baby during a 103-mile marathon race.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45560184</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45560184</guid>
-            <pubDate>Tue, 18 Sep 2018 10:37:32 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6515/production/_103477852_p06lh0bq.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leave and Remain couple-up to talk Brexit]]></title>
-            <description><![CDATA[Believe in Brexit at first sight? Three pairs chat about how Brexit will affect their lives.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-politics-45552140</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45552140</guid>
-            <pubDate>Mon, 17 Sep 2018 23:31:38 GMT</pubDate>
-            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/30BD/production/_103477421_rt_mediaitem-103469364.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[London Fashion Week 2018: Robots take over the runway]]></title>
-            <description><![CDATA[A catwalk show at London Fashion Week has divided opinions about the future of fashion.]]></description>
-            <link>https://www.bbc.co.uk/news/technology-45548805</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-45548805</guid>
-            <pubDate>Mon, 17 Sep 2018 10:28:38 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6B36/production/_103464472_robots2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sheffield dogs appeal: Charity's plea to rescue centres]]></title>
-            <description><![CDATA[A Sheffield charity is appealing to rescue centres to help them keep up with demand for support dogs.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-45546925</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-45546925</guid>
-            <pubDate>Mon, 17 Sep 2018 11:38:52 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4CD2/production/_103466691_p06ld32q.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBC News Channel]]></title>
-            <description><![CDATA[BBC coverage of latest developments]]></description>
-            <link>https://www.bbc.co.uk/news/10318089</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
-            <pubDate>Mon, 03 Sep 2018 06:55:21 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Poem-roaring lion unveiled in Trafalgar Square]]></title>
-            <description><![CDATA[Passersby can type in words on a screen to prompt the lion to generate and recite a poem.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45560794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45560794</guid>
-            <pubDate>Tue, 18 Sep 2018 17:36:54 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/38D4/production/_103484541_lion.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emmy Awards 2018: Matthew Rhys surprises fans with accent]]></title>
-            <description><![CDATA[Welsh actor Matthew Rhys surprised fans when he accepted his Emmy award in his native accent.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-45559664</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45559664</guid>
-            <pubDate>Tue, 18 Sep 2018 18:21:09 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0D95/production/_103477430_matthew_rhys_afp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wrexham burns survivor poses at London Fashion Week]]></title>
-            <description><![CDATA[Catrin Pugh had to undergo 200 operations after a bus crash in the French Alps in 2013.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-wales-45557486</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45557486</guid>
-            <pubDate>Tue, 18 Sep 2018 12:11:14 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10871/production/_103479676_2613dbc1-0e4b-4aca-b8c3-c1b5120013d9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Drug dealers only' space highlights crime]]></title>
-            <description><![CDATA[Residents in an east London neighbourhood, near Shoreditch, want to highlight drug crime in the area.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-england-london-45557730</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-45557730</guid>
-            <pubDate>Tue, 18 Sep 2018 09:27:54 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B565/production/_103473464_pennycreed.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bedside light tool could detect baby brain injury earlier]]></title>
-            <description><![CDATA[A new bedside tool can detect brain damage by measuring oxygen and energy levels using light.]]></description>
-            <link>https://www.bbc.co.uk/news/health-45522794</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45522794</guid>
-            <pubDate>Tue, 18 Sep 2018 01:39:13 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/285D/production/_103433301_naz_04_ml-hospital4a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I dialled into work and prayed my baby wouldn't wake up']]></title>
-            <description><![CDATA[Winning flexible working hours can bring a new set of major problems, a survey finds.]]></description>
-            <link>https://www.bbc.co.uk/news/business-45484904</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45484904</guid>
-            <pubDate>Mon, 17 Sep 2018 23:12:25 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F2B8/production/_103463126_mb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What British people think about Brexit now]]></title>
-            <description><![CDATA[With six months to go until Brexit, opinions on the subject remain sharply divided.]]></description>
-            <link>https://www.bbc.co.uk/news/uk-45520517</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45520517</guid>
-            <pubDate>Tue, 18 Sep 2018 00:25:26 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6D7A/production/_103462082_brexitpoll1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I've performed 23,000 post-mortems']]></title>
-            <description><![CDATA[Dr Richard Shepherd has examined evidence from 9/11 and 7/7 terror attacks, and the death of Stephen Lawrence.]]></description>
-            <link>https://www.bbc.co.uk/news/health-45548977</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45548977</guid>
-            <pubDate>Tue, 18 Sep 2018 00:10:37 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11D4C/production/_103463037_richardshepherd1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[School open days: Eight things to look for]]></title>
-            <description><![CDATA[Glossy prospectuses and slick open evenings, but what should I look for when visiting secondary schools?]]></description>
-            <link>https://www.bbc.co.uk/news/education-41469041</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-41469041</guid>
-            <pubDate>Tue, 18 Sep 2018 00:28:27 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6924/production/_103461962_secschool.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the payment app: 'I hardly use cash any more']]></title>
-            <description><![CDATA[Person-to-person payment apps are rising fast in popularity around the world, but are they safe?]]></description>
-            <link>https://www.bbc.co.uk/news/business-45515666</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45515666</guid>
-            <pubDate>Mon, 17 Sep 2018 23:48:49 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/180C/production/_103465160_nikki.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hiding my psychosis for 10 years from the age of 12]]></title>
-            <description><![CDATA[Luke Watkin first experienced psychosis at 12 years old - he didn't talk about it for a decade.]]></description>
-            <link>https://www.bbc.co.uk/news/health-45548755</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45548755</guid>
-            <pubDate>Tue, 18 Sep 2018 01:33:21 GMT</pubDate>
-            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3A76/production/_103466941_luke-watkin.gif"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>The Verge -  All Posts</title>
+  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
+  <updated>2018-10-25T12:32:23-04:00</updated>
+  <id>https://www.theverge.com/rss/full.xml</id>
+  <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
+  <entry>
+    <published>2018-10-25T12:32:23-04:00</published>
+    <updated>2018-10-25T12:32:23-04:00</updated>
+    <title>Fortnite’s SCAR will make its Nerf debut next summer</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/kFsNVFikDC17AcMhTBgFRIva68Y=/0x488:2400x2088/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906573/arl_blaster.0.jpg" /&gt;
+
+
+
+  &lt;p id="qnaNmF"&gt;wLast September, the FN SCAR made its virtual debut in &lt;em&gt;Fortnite&lt;/em&gt;’s popular battle royale mode as the legendary variant of the common assault rifle. Next summer, the SCAR will make its Nerf debut as the “AR-L Blaster,” the first Nerf gun to come out of the partnership between Epic Games and Hasbro. (&lt;a href="https://www.ign.com/articles/2018/09/06/fortnite-nerf-blasters-are-coming-in-2019"&gt;Look out for a whole line of them in 2019&lt;/a&gt;.)&lt;/p&gt;
+&lt;p id="UjfrF8"&gt;The toy version of the gas-operated self-loading rifle will appear on shelves on June 1st, 2019, and it will cost $49.99, &lt;a href="https://www.ign.com/articles/2018/10/25/fortnites-first-real-life-nerf-blaster-announced"&gt;&lt;em&gt;IGN&lt;/em&gt; reports&lt;/a&gt;. The AR-L Blaster features “rapid-fire motorized blasting and flip-up sights,” presumably to help players hit each other more easily with foam darts. &lt;/p&gt;
+&lt;p id="nLPUlu"&gt;The Nerf gun is modeled from Fortnite’s assault rifle, which happens to look a lot like its real-life metal cousin: the...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun"/>
+    <id>https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun</id>
+    <author>
+      <name>Bijan Stephen</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:28:07-04:00</published>
+    <updated>2018-10-25T12:28:07-04:00</updated>
+    <title>Fox News’ streaming service will launch on November 27th </title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/p0R8yU2fEh4olEnHwkwmmqxzDPY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906499/486121240.jpg.0.jpg" /&gt;
+
+
+
+  &lt;p id="t6uRIc"&gt;Earlier this year, Fox News announced plans to &lt;a href="https://www.theverge.com/2018/2/20/17032526/fox-news-streaming-video-service-fox-nation-announced"&gt;launch a subscription-based streaming service&lt;/a&gt; called Fox Nation, an opinion platform featuring the network’s personalities and original content. That service will launch on November 27th, and it will cost $5.99 a month, or $64.99 per year.&lt;/p&gt;
+&lt;p id="RSc8nI"&gt;Fox News will begin selling subscriptions on October 28th, and it will air a special preview for the platform that same night at 8PM ET. Fox noted in September that it plans to launch the platform prior to the midterm elections — it does seem designed for the exact purpose of whipping up the Republican Party’s base — but that doesn’t appear to have worked out, although it will certainly be up and running for the upcoming 2020 presidential election.&lt;/p&gt;
+&lt;div class="c-float-right"&gt;&lt;aside id="jznYCb"&gt;&lt;q&gt;The...&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th"/>
+    <id>https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th</id>
+    <author>
+      <name>Andrew Liptak</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:18:21-04:00</published>
+    <updated>2018-10-25T12:18:21-04:00</updated>
+    <title>Pokémon Go will soon record your steps in the background</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Ik4AsjlmY9g0IkXkYVccIgKFBQ4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906377/jbareham_160711_1134_0057_02.0.0.jpg" /&gt;
+
+
+
+  &lt;p id="uTaROI"&gt;Soon you’ll be able to get a lot more out of &lt;em&gt;Pokémon Go&lt;/em&gt; without taking your phone out. Developer Niantic &lt;a href="https://nianticlabs.com/blog/adventuresync/"&gt;is adding&lt;/a&gt; a new feature called “adventure sync,” which records your steps in the background. It’s rolling out to all users “soon.” Previously, one of the biggest annoyances with &lt;em&gt;Pokémon Go &lt;/em&gt;was that your walking data — which is especially important for hatching eggs — was only tracked when your phone was awake. Today’s update should alleviate that for players who have stuck with the game. The feature will also sync in the background with HealthKit on iOS and Android’s Google Fit.&lt;/p&gt;
+&lt;p id="DZSHoo"&gt;Late last year, &lt;a href="https://www.theverge.com/2017/12/2/16725884/ingress-prime-update-niantic-pokemon-go"&gt;Niantic revealed that it was moving all of its location-based AR games&lt;/a&gt; — which include &lt;em&gt;Pokémon Go&lt;/em&gt;, &lt;em&gt;Ingress,&lt;/em&gt; and an upcoming &lt;em&gt;Harry Potter&lt;/em&gt; game...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync"/>
+    <id>https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync</id>
+    <author>
+      <name>Andrew Webster</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:05:22-04:00</published>
+    <updated>2018-10-25T12:05:22-04:00</updated>
+    <title>Apple News hits 90 million readers as rumored subscription service nears</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/lOUbk8UAuuHu8ov1_DeDj03F004=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906183/jbareham_160909_1215_B_0165.0.0.jpg" /&gt;
+
+
+
+  &lt;p id="pqDkRV"&gt;Apple News has reached 90 million regular readers, three years after the app launched on iPhones and iPads. The stat comes out of &lt;a href="https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html"&gt;a story this morning in &lt;em&gt;The New York Times&lt;/em&gt;&lt;/a&gt;, which got to go behind the scenes with the Apple News team to see how it works. The &lt;em&gt;Times &lt;/em&gt;also furthers reports that Apple is close to launching a subscription service inside the app.&lt;/p&gt;
+&lt;p id="MuvEj4"&gt;There are &lt;a href="https://www.theverge.com/2018/4/17/17246332/apple-news-subscription-service-rumors"&gt;already rumors&lt;/a&gt; that Apple plans to turn its News app into a bigger venture, and the &lt;em&gt;Times &lt;/em&gt;backs those up. Its story says that Apple plans to “bundle access to dozens of magazines” for a monthly fee, much like Netflix does for TV shows and movies. Newspapers could be included in the bundle, too.&lt;/p&gt;
+&lt;p id="C5Qk8R"&gt;That wouldn’t be a huge surprise. Apple bought a service called Texture earlier...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor"/>
+    <id>https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor</id>
+    <author>
+      <name>Jacob Kastrenakes</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:01:15-04:00</published>
+    <updated>2018-10-25T12:01:15-04:00</updated>
+    <title>Google Maps now lets you ‘follow’ your go-to locations</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/1Wq7Hbp2GkHB3WbwusPKvq6g5-0=/60x0:1752x1128/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906149/Screen_Shot_2018_10_25_at_11.40.31_AM.0.png" /&gt;
+
+
+
+  &lt;p id="caBmXb"&gt;Google Maps for Android is getting a new feature today: &lt;a href="https://www.blog.google/products/maps/fresh-ways-stay-date-your-favorite-places-and-find-new-ones/"&gt;the option to follow locations and businesses&lt;/a&gt; like you would an account on a social network, letting you stay in the loop on any news, events, or upcoming offers that are featured there.&lt;/p&gt;
+&lt;p id="qPN1dQ"&gt;Those updates will show up in the &lt;a href="https://www.theverge.com/2018/6/26/17506506/google-maps-explore-for-you-tab-redesign-launch"&gt;recently added “For You” tab&lt;/a&gt; that Google already uses as a personalized feed of local recommendations and restaurants. Allowing users to personalize that section a bit more by adding their favorite stores seems like a natural extension of the functionality, especially as Google seems to be set on adding more social features to Maps. &lt;/p&gt;
+&lt;p id="10TCIy"&gt;After all, it’s easy to imagine a jump from following stores to following friends and having their comments and reviews pop up in your...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores"/>
+    <id>https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores</id>
+    <author>
+      <name>Chaim Gartenberg</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T12:00:02-04:00</published>
+    <updated>2018-10-25T12:00:02-04:00</updated>
+    <title>Lenovo Yoga Book C930 review: two screens and lots of compromises</title>
+    <content type="html">
+  		 &lt;p&gt;Easy to love, hard to live with&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows"/>
+    <id>https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows</id>
+    <author>
+      <name>Dieter Bohn</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T11:15:26-04:00</published>
+    <updated>2018-10-25T11:15:26-04:00</updated>
+    <title>CompUSA resurrected as a sad affiliate deals site</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/fxG8KEpxd1LXBzFG5u5M_JjZ5oc=/0x0:1122x748/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61905293/Screen_Shot_2018_10_25_at_10.35.50_AM.0.png" /&gt;
+
+
+
+  &lt;p id="zYzRxL"&gt;&lt;a href="http://CompUSA.com"&gt;CompUSA.com&lt;/a&gt; is back, this time as an affiliate deals site. The company was acquired by &lt;a href="https://www.dealcentral.com/"&gt;DealCentral&lt;/a&gt;, a startup specializing in deal hunting and coupons, earlier this month. According to DealCentral CEO Yishai Grossman, the relaunch is strategically timed before Black Friday and the holiday season.&lt;/p&gt;
+&lt;p id="5w02iJ"&gt;The new site brings staff and user reviews of products, along with deals on laptops, televisions, and other tech products. Grossman says he’s hired an editorial team with “decades of combined experience in the deal space,” including Slickdeals, eBates, and FatWallet. “Acquiring CompUSA makes sense for us on so many levels,” Grossman said in a press release. “Out of the gate we can offer the best deals, sales and coupons from all around the web...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday"/>
+    <id>https://www.theverge.com/2018/10/25/18022674/compusa-dealcentral-affiliate-deals-black-friday</id>
+    <author>
+      <name>Dami Lee</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T11:07:07-04:00</published>
+    <updated>2018-10-25T11:07:07-04:00</updated>
+    <title>Mail bombing is a generational form of American terrorism</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/6qrqS2m0-f74mYhILMrzLmAOLA4=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61905171/1052953028.jpg.0.jpg" /&gt;
+
+
+
+  &lt;p id="mMVI1U"&gt;This week, &lt;a href="https://www.cnn.com/2018/10/24/politics/bill-clinton-hillary-clinton-chappaqua/index.html"&gt;someone in America has taken it upon themselves to mail bombs&lt;/a&gt; to George Soros, Barack Obama, Hillary Clinton, Joe Biden, the Democratic Rep. (and former chair of the Democratic National Committee) Debbie Wasserman Schultz, former US Attorney General Eric Holder, Democratic Rep. Maxine Waters, and former CIA director John Brennan. Brennan’s bomb arrived at CNN’s New York City office, leading to the prompt evacuation of the building. Robert De Niro, a prominent critic of the current president, also received a package with an explosive device inside. On Thursday, &lt;a href="https://www.nytimes.com/2018/10/25/nyregion/bomb-explosive-device.html?action=click&amp;amp;module=Top%20Stories&amp;amp;pgtype=Homepage"&gt;&lt;em&gt;The New York Times &lt;/em&gt;reported&lt;/a&gt; that the US Postal Service records images of mail that comes into its system, and a search of those images led to the discovery of more...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy"/>
+    <id>https://www.theverge.com/2018/10/25/18020564/mail-bomb-soros-clinton-obama-biden-de-niro-democrat-conspiracy</id>
+    <author>
+      <name>Bijan Stephen</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T10:38:13-04:00</published>
+    <updated>2018-10-25T10:38:13-04:00</updated>
+    <title>More solar panels mean more waste and there’s no easy solution </title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/P9IOSumlDrLjEtEn0wxgEnkseNM=/3x0:1017x676/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61904793/solar-panel-green-energy-stock_1020.0.jpg" /&gt;
+
+
+
+  &lt;p id="5vk8nM"&gt;Solar panels might be &lt;a href="https://www.vox.com/2015/4/28/8506953/solar-photovoltaic-future"&gt;the energy source of the future&lt;/a&gt;, but they also create a problem without an easy solution: what do we do with millions of panels when they stop working? &lt;/p&gt;
+&lt;p id="z1jo7O"&gt;In November 2016, the Environment Ministry of Japan &lt;a href="http://asia.nikkei.com/Tech-Science/Tech/Japan-tries-to-chip-away-at-mountain-of-disused-solar-panels?page=2"&gt;warned that&lt;/a&gt; the country will produce 800,000 tons of solar waste by 2040, and it can’t yet handle those volumes. That same year, the International Renewable Energy Agency &lt;a href="http://www.irena.org/publications/2016/Jun/End-of-life-management-Solar-Photovoltaic-Panels"&gt;estimated that there were already 250,000 metric tons of solar panel waste&lt;/a&gt; worldwide and that this number would grow to 78 million by 2050. “That’s an amazing amount of growth,” says &lt;a href="https://www.instituteforenergyresearch.org/tag/mary-hutzler/"&gt;Mary Hutzler&lt;/a&gt;, a senior fellow at the Institute for Energy Research. “It’s going to be a major problem.”&lt;/p&gt;
+&lt;p id="pwCOvR"&gt;Usually, panels are warrantied for 25 to 30 years and can last...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling"/>
+    <id>https://www.theverge.com/2018/10/25/18018820/solar-panel-waste-chemicals-energy-environment-recycling</id>
+    <author>
+      <name>Angela Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <published>2018-10-25T10:16:34-04:00</published>
+    <updated>2018-10-25T10:16:34-04:00</updated>
+    <title>Xbox One consoles are $100 off when you purchase Red Dead Redemption 2</title>
+    <content type="html">  
+    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/rvPJit2yCtwnrfU2FOzxH1J0yHs=/0x0:3240x2160/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61890623/RDR2_Screenshot_084_copy.0.jpg" /&gt;
+
+
+
+  &lt;p id="jYCeJG"&gt;The Xbox One S and Xbox One X are heavily discounted for those who purchase &lt;em&gt;Red Dead Redemption 2&lt;/em&gt; online at GameStop, Amazon, Newegg, Best Buy, or the Microsoft Store. Buying Rockstar’s open-world title for Xbox One will activate $100 of savings on either console at the time of checkout, bringing pre-tax prices as low as $259 for the Xbox One S or $459 for the more powerful Xbox One X. If you’d rather shop at your local store, the savings won’t begin until 9PM ET on Thursday, October 25th.&lt;/p&gt;
+&lt;p id="TwueBH"&gt;Many of the participating retailers haven’t yet shared which console bundles will be offered once the deal goes live, though you’ll likely have more options if you buy online rather than at a brick-and-mortar store where your selection will be limited...&lt;/p&gt;
+  &lt;p&gt;
+    &lt;a href="https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+  &lt;/p&gt;
+
+</content>
+    <link rel="alternate" type="text/html" href="https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft"/>
+    <id>https://www.theverge.com/good-deals/2018/10/24/18014106/xbox-one-console-red-dead-redemption-2-sale-gamestop-best-buy-walmart-microsoft</id>
+    <author>
+      <name>Cameron Faulkner</name>
+    </author>
+  </entry>
+</feed>
