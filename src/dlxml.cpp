@@ -133,12 +133,16 @@ void Dlxml::openXml(TiXmlDocument *doc)
 	
 	while(NULL != entry){
 		Item item;
+		//std::cout<<"feedTitle ="<<feedTitle<<std::endl; 
+		item.SetFeedTitle(feedTitle.c_str());
+		//std::cout<<"item.GetFeedTitle ="<<item.GetFeedTitle()<<std::endl; 
 		TiXmlElement *title = entry->FirstChildElement( "title" );
 		TiXmlElement *content = entry->FirstChildElement( "content" );
 		TiXmlElement *id = entry->FirstChildElement( "id" );
 		TiXmlElement *date = entry->FirstChildElement( "updated" );
 		TiXmlElement *descr = entry->FirstChildElement( "description" );
 		TiXmlElement *link = entry->FirstChildElement( "link" );
+		TiXmlElement *update = entry->FirstChildElement( "dc:modified");
 		TiXmlElement *pubdate = entry->FirstChildElement( "pubDate" );
 
 		if(checkExists(title)){
@@ -161,7 +165,7 @@ void Dlxml::openXml(TiXmlDocument *doc)
 			//2018-10-02T08:29:17-04:00
 			std::string currDate = date->GetText();
 			int day,month,year,min,hour,sec,timz;
-			sscanf(currDate.c_str(), "%4d-%2d-%2dT%2d:%2d:%2d-%2d",
+			sscanf(currDate.c_str(), "%4d-%2d-%2dT%2d:%2d:%2d%3d",
 				&year,
 				&month,
 				&day,
@@ -170,15 +174,43 @@ void Dlxml::openXml(TiXmlDocument *doc)
 				&sec,
 				&timz
 			    );
-			if(hour + timz >=0 && hour+timz <=24){
-				hour = hour +timz;
+			if(hour - timz >=0 && hour-timz <=24){
+				hour = hour -timz;
 			}
 			else{
 				
-				hour = (hour +timz) -24;
+				hour = (hour -timz) +24;
+				day = day +1;
+			}
+			item.SetDate(min,hour+1,day,month,year);
+		
+
+		}
+		else if (checkExists(update)){
+			//2018-10-02T08:29:17-04:00
+			//2018-10-26T14:05:37+00:00
+			std::string currDate = update->GetText();
+			int day,month,year,min,hour,sec,timz;
+			char sign [1];
+			sscanf(currDate.c_str(), "%4d-%2d-%2dT%2d:%2d:%2d%3d",
+				&year,
+				&month,
+				&day,
+				&hour,
+				&min,
+				&sec,
+				&timz
+			    );
+			if(hour - timz >=0 && hour-timz <=24){
+				hour = hour -timz;
+			}
+			else{
+				
+				hour = (hour -timz) +24;
 				day = day +1;
 			}
 			item.SetDate(min,hour,day,month,year);
+		
 		
 
 		}
@@ -197,7 +229,7 @@ void Dlxml::openXml(TiXmlDocument *doc)
 				&min,
 				&sec
 			    );
-			item.SetDate(min,hour,day,get_month_index(monthc),year);
+			item.SetDate(min,hour+1,day,get_month_index(monthc),year);
 		}
 
 		
@@ -298,11 +330,18 @@ void Dlxml::getRSS(std::string fname){
 		remove(std::to_string(id).c_str());
 	}
 
+
 	for(Feed i:fe){
+
+
 		std::vector<Item> itemarr = i.GetItemArray();
 
-		feedToXml(i);
+		if(i.GetName() == "All Feeds"){
 
+		}
+		else{
+			feedToXml(i);
+		}
 		
 		
 		// for(Item item : itemarr){
@@ -325,15 +364,23 @@ void Dlxml::feedToXml(Feed feed){
 	root->LinkEndChild( entrys );  
 	std::vector<Item> itemarr = feed.GetItemArray();
 
+	TiXmlElement * feedtitle;
 	TiXmlElement * title;
 	TiXmlElement * descr;
 	TiXmlElement * url;
 	TiXmlElement * date;
 
+
 	for(Item item : itemarr){
 
 		entry = new TiXmlElement( "Entry" );  
 		entrys->LinkEndChild( entry );
+
+
+		feedtitle = new TiXmlElement( "FeedTitle" );
+		entry->LinkEndChild(feedtitle);
+		feedtitle->LinkEndChild(new TiXmlText(item.GetFeedTitle()));
+
 
 		title = new TiXmlElement( "Title" );
 		entry->LinkEndChild(title);
@@ -351,7 +398,9 @@ void Dlxml::feedToXml(Feed feed){
 		entry->LinkEndChild(date);
 		date->LinkEndChild(new TiXmlText(item.GetDate().c_str()));
 
+
 	}
+
 
 	doc.SaveFile( feed.GetName() + ".xml" );  
 }
@@ -381,11 +430,17 @@ void Dlxml::openFeedStoreXML(std::string titlefull){
 
 	while(NULL != entry){
 		
+		TiXmlElement *feedtitle;
 		TiXmlElement *title;
 		TiXmlElement *descr;
 		TiXmlElement *link;
 		TiXmlElement *pubdate;
 		Item item;
+
+
+		if(entry->FirstChildElement( "FeedTitle")->GetText() != NULL){
+			feedtitle = entry->FirstChildElement("FeedTitle");
+		}
 		if(entry->FirstChildElement( "Title" )->GetText()  != NULL){
 			title = entry->FirstChildElement( "Title" );
 		}
@@ -399,6 +454,7 @@ void Dlxml::openFeedStoreXML(std::string titlefull){
 			pubdate = entry->FirstChildElement( "Date" );
 		}
 
+		item.SetFeedTitle(feedtitle->GetText());
 		item.SetTitle(title->GetText());
 
 		item.SetDescr(descr->GetText());
@@ -493,20 +549,42 @@ std::vector<Feed> Dlxml::init(){
 	getRSS("urllist.txt");
 
 	feedListToXML("feedStore.xml");
-	std::cout<<"here"<<std::endl;
+	updateMaster();
 	return fe;
 }
 
 std::vector<Feed> Dlxml::update(){
 
 	getRSS("urllist.txt");
+	
 	feedListToXML("feedStore.xml");
+	updateMaster();
 	return fe;
 
 }
 
 std::vector<Feed> Dlxml::getFeedVec(){
 	return fe;
+}
+
+void Dlxml::updateMaster(){
+
+	Feed masterFeed;
+	masterFeed.SetName("All Feeds");
+	std::vector<Item> tempMaster;
+	for(Feed feed : fe){
+		for(Item item : feed.GetItemArray()){
+			tempMaster.push_back(item);
+		}
+	}
+	masterFeed.SetItemArray(tempMaster);
+	if(fe[0].GetName() == "All Feeds"){
+		fe[0]=masterFeed;
+	}
+	else{
+		fe.insert(fe.begin(),masterFeed);
+	}
+
 }
 
 // int main()

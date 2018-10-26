@@ -5,6 +5,7 @@
 class Item{
 	
 	private:
+		std::string _feedtitle;
 		std::string _title;
 		std::string _descr;
 		std::string _url;
@@ -16,6 +17,9 @@ class Item{
 		int _hour;
 		bool _dst = true;
 	public:
+		std::string UrlShort(std::string url);
+		//static size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *userp);
+		std::string GetFeedTitle();
 		std::string GetTitle();
 		std::string GetDescr();
 		std::string GetUrl();
@@ -26,6 +30,7 @@ class Item{
 		int GetMonth();
 		int GetYear();
 		void SetTitle(std::string title);
+		void SetFeedTitle(std::string feedtitle);
 		void SetDescr(std::string descr);
 		void SetUrl(std::string url);
 		void SetDate(int day, int month, int year, int min, int hour);

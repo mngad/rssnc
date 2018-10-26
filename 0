@@ -1,230 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>The Verge -  All Posts</title>
-  <icon>https://cdn.vox-cdn.com/community_logos/52801/VER_Logomark_32x32..png</icon>
-  <updated>2018-10-25T13:15:29-04:00</updated>
-  <id>https://www.theverge.com/rss/full.xml</id>
-  <link type="text/html" href="https://www.theverge.com/" rel="alternate"/>
-  <entry>
-    <published>2018-10-25T13:15:29-04:00</published>
-    <updated>2018-10-25T13:15:29-04:00</updated>
-    <title>Rick and Morty’s head writer is making an animated Star Trek series</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Hy0MvR5PEJaSb9jIlMEptnc7U_M=/225x0:2655x1620/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61907245/st.0.0.png" /&gt;
-
-
-
-  &lt;p id="gZJMHM"&gt;&lt;a href="https://www.theverge.com/2018/6/19/17479734/cbs-star-trek-discovery-alex-kurtzman-five-year-deal"&gt;Back in June, CBS Television Studios announced&lt;/a&gt; it had signed a five-year deal with &lt;a href="https://www.theverge.com/2017/5/17/15653976/star-trek-discovery-trailers-commentary-updates-CBS-all-access"&gt;&lt;em&gt;Star Trek: Discovery&lt;/em&gt;&lt;/a&gt; co-creator and executive producer Alex Kurtzman, who would develop a number of future entries in the utopian TV franchise. At the time, it was reported that those shows would include a soapier Starfleet Academy show from the creators of &lt;em&gt;Gossip Girl&lt;/em&gt; and &lt;em&gt;Marvel’s &lt;/em&gt;&lt;a href="https://www.theverge.com/2018/1/11/16879936/marvel-runaways-finale-season-2"&gt;&lt;em&gt;Runaways&lt;/em&gt;&lt;/a&gt;; two limited series, including one based on &lt;em&gt;The&lt;/em&gt; &lt;em&gt;Wrath of Khan&lt;/em&gt;; and an animated series. Today, the studio announced more details on that animated project: it’ll be an adult cartoon called &lt;em&gt;Star Trek: Lower Decks&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;created by &lt;em&gt;Rick and Morty&lt;/em&gt; head writer Mike McMahan.&lt;/p&gt;
-&lt;p id="00TytQ"&gt;Described as focusing on “the support crew serving on one of Starfleet’s least important ships,” the new...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan"/>
-    <id>https://www.theverge.com/2018/10/25/18023124/star-trek-lower-decks-animated-series-rick-morty-mike-mcmahan</id>
-    <author>
-      <name>Devon Maloney</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T13:03:38-04:00</published>
-    <updated>2018-10-25T13:03:38-04:00</updated>
-    <title>Christie’s sells its first AI portrait for $432,500, beating estimates of $10,000</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/ZnrBh-3Urp6TT4VxeE0DImYspfU=/0x1:1200x801/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61907021/image_2.0.jpeg" /&gt;
-
-
-
-  &lt;p id="X22O2M"&gt;Christie’s has &lt;a href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;amp;LN=363&amp;amp;intsaleid=27814&amp;amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee"&gt;sold&lt;/a&gt; its first piece of AI art, a canvas named the &lt;em&gt;Portrait of Edmond Belamy&lt;/em&gt;, for $432,500. The sale is unusual not only as a first for the 252-year-old auction house, but because the expected price for the print was between $7,000 and $10,000.&lt;/p&gt;
-&lt;p id="KuY8Jt"&gt;The artwork was created by a collective named Obvious. The three members of Obvious, a trio of 25-year-old French students, used a type of machine learning algorithm known as a GAN (generative adversarial network) to create the picture. The network was trained on a dataset of historical portraits, and then it tried to create one of its own. Obvious printed the image, framed it, and signed it with part of the GAN’s algorithm. &lt;/p&gt;
-&lt;aside id="iDXWTD"&gt;&lt;div data-anthem-component="readmore" data-anthem-component-data='{"stories":[{"title":"How three French students used borrowed code to put the first AI portrait in Christie’s ","url":"https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans"}]}'&gt;&lt;/div&gt;&lt;/aside&gt;&lt;p id="51qSZE"&gt;However, as &lt;em&gt;The Verge&lt;/em&gt; &lt;a href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans"&gt;reported earlier this week&lt;/a&gt;, the &lt;em&gt;B...&lt;/em&gt;&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold"/>
-    <id>https://www.theverge.com/2018/10/25/18023266/ai-art-portrait-christies-obvious-sold</id>
-    <author>
-      <name>James Vincent</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:40:33-04:00</published>
-    <updated>2018-10-25T12:40:33-04:00</updated>
-    <title>Western Digital’s new 15TB hard drive is the biggest one ever made</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/DffAR5ZzHhk1oV6vOuRvj4EIdFs=/0x28:748x527/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906665/Western_Digital_15TB_HDD.0.jpg" /&gt;
-
-
-
-  &lt;p id="JBxVvL"&gt;Step aside, boring 14TB hard drives. There’s a new storage champion in town: Western Digital has announced a new 15TB Ultrastar DC HC620 HDD that takes the crown as the biggest hard drive yet, &lt;a href="https://www.slashgear.com/western-digital-hard-drive-lineup-gains-a-15tb-behemoth-25551384/"&gt;via&lt;em&gt; SlashGear&lt;/em&gt;&lt;/a&gt;. &lt;/p&gt;
-&lt;p id="dNdNa1"&gt;The new drive beats out Western Digital’s 14TB model &lt;a href="https://www.theverge.com/circuitbreaker/2017/10/5/16432568/western-digital-14tb-hard-drive-ultrastar-hs14"&gt;that it announced last year&lt;/a&gt; and &lt;a href="https://www.seagate.com/about-seagate/news/seagate-industry-advanced-14tb-data-storage-pr-master/"&gt;Seagate’s recently announced 14TB lineup&lt;/a&gt;. Seagate did announce last year that it was &lt;a href="https://www.theverge.com/circuitbreaker/2017/1/27/14417316/seagate-16tb-hard-drive-announced-coming-2018"&gt;planning to release a 16TB drive in 2018&lt;/a&gt;, which would have topped the old 14TB drives as well as the new 15TB Ultrastar, but there hasn’t been any word on the 16TB drive since that initial announcement. &lt;/p&gt;
-&lt;p id="xhJasr"&gt;That leaves the new Western Digital drive as the biggest hard drive available, although the company hasn’t said how much it’ll cost (spoiler: a lot) or when you’ll...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever"/>
-    <id>https://www.theverge.com/2018/10/25/18023166/western-digital-15tb-hard-drive-biggest-ever</id>
-    <author>
-      <name>Chaim Gartenberg</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:36:48-04:00</published>
-    <updated>2018-10-25T12:36:48-04:00</updated>
-    <title>How authorities look for a mail bomber</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/lzzJbca3NMERvlNVQahpjb3HW5U=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906605/1052931244.jpg.0.jpg" /&gt;
-
-
-
-  &lt;p id="jqgwaY"&gt;Panic unfolded yesterday after a series of pipe bombs were mailed to CNN and prominent critics of Trump. As of Thursday morning, at least 10 bombs have been discovered, including packages sent to George Soros, Robert De Niro, and Joe Biden. &lt;/p&gt;
-&lt;p id="cTwAry"&gt;While the CNN delivery made its way to parent company Time Warner in New York, triggering a massive law enforcement response, packages meant for Hillary Clinton and Barack Obama were never delivered. Moreover, the packages have been obtained intact, giving investigators a wealth of potential clues. Law enforcement will now sift through all of the evidence in the hunt for the culprit.&lt;/p&gt;
-&lt;p id="r4PX36"&gt;Crucially, the intercepted packages were obtained by authorities before detonation. In a statement on the incident,...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton"/>
-    <id>https://www.theverge.com/2018/10/25/18019716/secret-service-mail-bomb-screening-obama-clinton</id>
-    <author>
-      <name>Colin Lecher</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:32:23-04:00</published>
-    <updated>2018-10-25T12:32:23-04:00</updated>
-    <title>Fortnite’s SCAR will make its Nerf debut next summer</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/kFsNVFikDC17AcMhTBgFRIva68Y=/0x488:2400x2088/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906573/arl_blaster.0.jpg" /&gt;
-
-
-
-  &lt;p id="qnaNmF"&gt;Last September, the FN SCAR made its virtual debut in &lt;em&gt;Fortnite&lt;/em&gt;’s popular battle royale mode as the legendary variant of the common assault rifle. Next summer, the SCAR will make its Nerf debut as the “AR-L Blaster,” the first Nerf gun to come out of the partnership between Epic Games and Hasbro. (&lt;a href="https://www.ign.com/articles/2018/09/06/fortnite-nerf-blasters-are-coming-in-2019"&gt;Look out for a whole line of them in 2019&lt;/a&gt;.)&lt;/p&gt;
-&lt;p id="UjfrF8"&gt;The toy version of the gas-operated self-loading rifle will appear on shelves on June 1st, 2019, and it will cost $49.99, &lt;a href="https://www.ign.com/articles/2018/10/25/fortnites-first-real-life-nerf-blaster-announced"&gt;&lt;em&gt;IGN&lt;/em&gt; reports&lt;/a&gt;. The AR-L Blaster features “rapid-fire motorized blasting and flip-up sights,” presumably to help players hit each other more easily with foam darts. &lt;/p&gt;
-&lt;p id="nLPUlu"&gt;The Nerf gun is modeled from Fortnite’s assault rifle, which happens to look a lot like its real-life metal cousin: the...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun"/>
-    <id>https://www.theverge.com/2018/10/25/18023012/fortnite-scar-nerf-toy-gun</id>
-    <author>
-      <name>Bijan Stephen</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:28:07-04:00</published>
-    <updated>2018-10-25T12:28:07-04:00</updated>
-    <title>Fox News’ streaming service will launch on November 27th </title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/p0R8yU2fEh4olEnHwkwmmqxzDPY=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906499/486121240.jpg.0.jpg" /&gt;
-
-
-
-  &lt;p id="t6uRIc"&gt;Earlier this year, Fox News announced plans to &lt;a href="https://www.theverge.com/2018/2/20/17032526/fox-news-streaming-video-service-fox-nation-announced"&gt;launch a subscription-based streaming service&lt;/a&gt; called Fox Nation, an opinion platform featuring the network’s personalities and original content. That service will launch on November 27th, and it will cost $5.99 a month, or $64.99 per year.&lt;/p&gt;
-&lt;p id="RSc8nI"&gt;Fox News will begin selling subscriptions on October 28th, and it will air a special preview for the platform that same night at 8PM ET. Fox noted in September that it plans to launch the platform prior to the midterm elections — it does seem designed for the exact purpose of whipping up the Republican Party’s base — but that doesn’t appear to have worked out, although it will certainly be up and running for the upcoming 2020 presidential election.&lt;/p&gt;
-&lt;div class="c-float-right"&gt;&lt;aside id="jznYCb"&gt;&lt;q&gt;The...&lt;/q&gt;&lt;/aside&gt;&lt;/div&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th"/>
-    <id>https://www.theverge.com/2018/10/25/18022964/fox-nation-news-streaming-service-launch-date-november-27th</id>
-    <author>
-      <name>Andrew Liptak</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:18:21-04:00</published>
-    <updated>2018-10-25T12:18:21-04:00</updated>
-    <title>Pokémon Go will soon record your steps in the background</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/Ik4AsjlmY9g0IkXkYVccIgKFBQ4=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906377/jbareham_160711_1134_0057_02.0.0.jpg" /&gt;
-
-
-
-  &lt;p id="uTaROI"&gt;Soon you’ll be able to get a lot more out of &lt;em&gt;Pokémon Go&lt;/em&gt; without taking your phone out. Developer Niantic &lt;a href="https://nianticlabs.com/blog/adventuresync/"&gt;is adding&lt;/a&gt; a new feature called “adventure sync,” which records your steps in the background. It’s rolling out to all users “soon.” Previously, one of the biggest annoyances with &lt;em&gt;Pokémon Go &lt;/em&gt;was that your walking data — which is especially important for hatching eggs — was only tracked when your phone was awake. Today’s update should alleviate that for players who have stuck with the game. The feature will also sync in the background with HealthKit on iOS and Android’s Google Fit.&lt;/p&gt;
-&lt;p id="DZSHoo"&gt;Late last year, &lt;a href="https://www.theverge.com/2017/12/2/16725884/ingress-prime-update-niantic-pokemon-go"&gt;Niantic revealed that it was moving all of its location-based AR games&lt;/a&gt; — which include &lt;em&gt;Pokémon Go&lt;/em&gt;, &lt;em&gt;Ingress,&lt;/em&gt; and an upcoming &lt;em&gt;Harry Potter&lt;/em&gt; game...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync"/>
-    <id>https://www.theverge.com/2018/10/25/18023046/pokemon-go-adventure-sync</id>
-    <author>
-      <name>Andrew Webster</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:05:22-04:00</published>
-    <updated>2018-10-25T12:05:22-04:00</updated>
-    <title>Apple News hits 90 million readers as rumored subscription service nears</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/lOUbk8UAuuHu8ov1_DeDj03F004=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906183/jbareham_160909_1215_B_0165.0.0.jpg" /&gt;
-
-
-
-  &lt;p id="pqDkRV"&gt;Apple News has reached 90 million regular readers, three years after the app launched on iPhones and iPads. The stat comes out of &lt;a href="https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html"&gt;a story this morning in &lt;em&gt;The New York Times&lt;/em&gt;&lt;/a&gt;, which got to go behind the scenes with the Apple News team to see how it works. The &lt;em&gt;Times &lt;/em&gt;also furthers reports that Apple is close to launching a subscription service inside the app.&lt;/p&gt;
-&lt;p id="MuvEj4"&gt;There are &lt;a href="https://www.theverge.com/2018/4/17/17246332/apple-news-subscription-service-rumors"&gt;already rumors&lt;/a&gt; that Apple plans to turn its News app into a bigger venture, and the &lt;em&gt;Times &lt;/em&gt;backs those up. Its story says that Apple plans to “bundle access to dozens of magazines” for a monthly fee, much like Netflix does for TV shows and movies. Newspapers could be included in the bundle, too.&lt;/p&gt;
-&lt;p id="C5Qk8R"&gt;That wouldn’t be a huge surprise. Apple bought a service called Texture earlier...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor"/>
-    <id>https://www.theverge.com/2018/10/25/18022980/apple-news-90-million-readers-subscription-service-rumor</id>
-    <author>
-      <name>Jacob Kastrenakes</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:01:15-04:00</published>
-    <updated>2018-10-25T12:01:15-04:00</updated>
-    <title>Google Maps now lets you ‘follow’ your go-to locations</title>
-    <content type="html">  
-    &lt;img alt="" src="https://cdn.vox-cdn.com/thumbor/1Wq7Hbp2GkHB3WbwusPKvq6g5-0=/60x0:1752x1128/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/61906149/Screen_Shot_2018_10_25_at_11.40.31_AM.0.png" /&gt;
-
-
-
-  &lt;p id="caBmXb"&gt;Google Maps for Android is getting a new feature today: &lt;a href="https://www.blog.google/products/maps/fresh-ways-stay-date-your-favorite-places-and-find-new-ones/"&gt;the option to follow locations and businesses&lt;/a&gt; like you would an account on a social network, letting you stay in the loop on any news, events, or upcoming offers that are featured there.&lt;/p&gt;
-&lt;p id="qPN1dQ"&gt;Those updates will show up in the &lt;a href="https://www.theverge.com/2018/6/26/17506506/google-maps-explore-for-you-tab-redesign-launch"&gt;recently added “For You” tab&lt;/a&gt; that Google already uses as a personalized feed of local recommendations and restaurants. Allowing users to personalize that section a bit more by adding their favorite stores seems like a natural extension of the functionality, especially as Google seems to be set on adding more social features to Maps. &lt;/p&gt;
-&lt;p id="10TCIy"&gt;After all, it’s easy to imagine a jump from following stores to following friends and having their comments and reviews pop up in your...&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores"/>
-    <id>https://www.theverge.com/2018/10/25/18022534/google-maps-android-follow-favorite-locations-stores</id>
-    <author>
-      <name>Chaim Gartenberg</name>
-    </author>
-  </entry>
-  <entry>
-    <published>2018-10-25T12:00:02-04:00</published>
-    <updated>2018-10-25T12:00:02-04:00</updated>
-    <title>Lenovo Yoga Book C930 review: two screens and lots of compromises</title>
-    <content type="html">
-  		 &lt;p&gt;Easy to love, hard to live with&lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href="https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows"&gt;Continue reading&amp;hellip;&lt;/a&gt;
-  &lt;/p&gt;
-
-</content>
-    <link rel="alternate" type="text/html" href="https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows"/>
-    <id>https://www.theverge.com/2018/10/25/18019840/lenovo-yoga-book-c930-review-e-ink-tablet-laptop-windows</id>
-    <author>
-      <name>Dieter Bohn</name>
-    </author>
-  </entry>
-</feed>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - UK]]></title>
+        <description><![CDATA[BBC News - UK]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - UK</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Oct 2018 15:43:37 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Megan Lee: Pair guilty of girl's takeaway allergy death]]></title>
+            <description><![CDATA[Allergy sufferer Megan Lee's father warned food shops not to "play Russian roulette with precious lives".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-45994891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45994891</guid>
+            <pubDate>Fri, 26 Oct 2018 15:01:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/58D0/production/_99463722_ed2bf20c-fce8-4da4-aa43-79a02edf82a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lord Hain branded 'arrogant' for naming Sir Philip Green]]></title>
+            <description><![CDATA[Ex-Attorney General Dominic Grieve speaks out after Sir Philip Green is named over harassment claims.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45989404</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45989404</guid>
+            <pubDate>Fri, 26 Oct 2018 15:16:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/856A/production/_104045143_3ae5ba8b-d68e-48fd-a941-5aa37406e405.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Davidson gives birth to baby boy]]></title>
+            <description><![CDATA[The Scottish Conservative leader says she and partner Jen Wilson are "delighted" to welcome Finn to the world.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-45995711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-45995711</guid>
+            <pubDate>Fri, 26 Oct 2018 14:14:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4F96/production/_104047302_dqcf289xcauqk4x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cot designer jailed over baby's death]]></title>
+            <description><![CDATA[Seven-month-old Oscar Abbey was found caught in the side of his cot bed at his home in York.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-45991236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-45991236</guid>
+            <pubDate>Fri, 26 Oct 2018 14:53:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2958/production/_104048501_craigwilliams05-01-81.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fracking in Lancashire suspended following earthquake]]></title>
+            <description><![CDATA[Cuadrilla has halted drilling just 11 days after it won a court battle to allow work to start.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lancashire-45976219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lancashire-45976219</guid>
+            <pubDate>Fri, 26 Oct 2018 15:09:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3A1D/production/_93277841_pnrfrackingsite050117gettyimages.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[City could shut roads during school run]]></title>
+            <description><![CDATA[Roads around Liverpool's primary schools could close to traffic at the start and end of the school day.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-45992425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-merseyside-45992425</guid>
+            <pubDate>Fri, 26 Oct 2018 12:33:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/90B4/production/_104044073_srt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryanair flight rant man says he is 'not a racist']]></title>
+            <description><![CDATA[David Mesher denies being a racist and said he had "a fit of temper" when he shouted at Delsie Gayle, 77.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-45988890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-45988890</guid>
+            <pubDate>Fri, 26 Oct 2018 12:41:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/35D8/production/_104048731_capture.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asda considering up to 2,500 job cuts]]></title>
+            <description><![CDATA[The supermarket chain is to consult staff on changing their roles and working hours.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45989912</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45989912</guid>
+            <pubDate>Fri, 26 Oct 2018 13:29:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/119B2/production/_104041127_asda_cuts_alamy.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry and Meghan jet aborts landing due to runway hitch]]></title>
+            <description><![CDATA[The pilot says another jet on the runway forced the flight to abort its landing at Sydney airport.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45989403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45989403</guid>
+            <pubDate>Fri, 26 Oct 2018 13:30:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/36F0/production/_104046041_2ad5b635-5931-4389-aa00-9fb2bae0e0f8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arrest over Salisbury Cathedral Magna Carta theft attempt]]></title>
+            <description><![CDATA[A hammer-wielding man smashes holes into a glass box displaying a Magna Carta at Salisbury Cathedral.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-45991475</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-45991475</guid>
+            <pubDate>Fri, 26 Oct 2018 15:25:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/66A2/production/_104047262_mediaitem104043346.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road rage driver Darren Hefferman jailed for cyclist punch]]></title>
+            <description><![CDATA[Darren Hefferman hit Gareth Marshall into oncoming traffic leaving the victim with multiple injuries.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-45989288</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45989288</guid>
+            <pubDate>Fri, 26 Oct 2018 12:55:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9C26/production/_104047993_darrenhefferman.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit won't ruin Strictly Come Dancing - No 10]]></title>
+            <description><![CDATA[It comes after Sir Vince Cable claimed dancers from EU countries might not be allowed in to the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45991267</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45991267</guid>
+            <pubDate>Fri, 26 Oct 2018 14:40:16 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/B5B2/production/_104041564_mediaitem104041563.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HS2 construction: Moving the remains of 40,000 people]]></title>
+            <description><![CDATA[Work begins to exhume thousands of skeletons to make way for HS2 construction.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45988254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45988254</guid>
+            <pubDate>Fri, 26 Oct 2018 10:26:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6030/production/_104042642_p06py9px.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monaco, models and money - who is retail mogul Sir Philip Green?]]></title>
+            <description><![CDATA[The retail billionaire has previously faced criticism over his business dealings, now he has been named over harassment claims.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45993735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45993735</guid>
+            <pubDate>Fri, 26 Oct 2018 13:05:55 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D146/production/_104047535_p06pzc0d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burns survivor: How the Katie Piper Foundation 'gave me hope']]></title>
+            <description><![CDATA[The Strictly Come Dancing star and burns survivor is opening a new rehabilitation centre.]]></description>
+            <link>https://www.bbc.co.uk/news/health-45991286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-45991286</guid>
+            <pubDate>Fri, 26 Oct 2018 15:07:56 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15CBA/production/_104047298_p06pzc8c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meghan gets the giggles and almost cries with laughter]]></title>
+            <description><![CDATA[The Duke of Sussex managed to control his laughter a bit more than his wife but still smirked at her.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-pacific-45990505</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-pacific-45990505</guid>
+            <pubDate>Fri, 26 Oct 2018 10:44:50 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/725A/production/_104047292_hi050199544.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Helping care leavers through performance art]]></title>
+            <description><![CDATA[The government is introducing the Care Leaver Covenant which aims to provide work based opportunities to young people leaving the care system.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45993085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45993085</guid>
+            <pubDate>Fri, 26 Oct 2018 11:25:42 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/3E3E/production/_104043951_p06pyh4t.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Russian spy poisoning: Why was Sergei Skripal attacked?]]></title>
+            <description><![CDATA[Evidence suggests the former spy was active across Europe, perhaps even investigating the Russian mafia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-45979830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-45979830</guid>
+            <pubDate>Thu, 25 Oct 2018 11:40:57 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/16227/production/_104036609_p06pv7q2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How (not) to spend your money]]></title>
+            <description><![CDATA[BBC Business Editor Simon Jack talks to Radio 1 Xtra DJ Sideman about all things money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-45983530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-45983530</guid>
+            <pubDate>Thu, 25 Oct 2018 23:17:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="574" url="http://c.files.bbci.co.uk/E3D3/production/_104032385_p06pvdfm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[BBC coverage of latest developments]]></description>
+            <link>https://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 10 Oct 2018 20:19:03 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Saturdays star Mollie set to wake us up every weekend]]></title>
+            <description><![CDATA[Matt and Mollie will take over the morning slot from Dev and Alice between Friday and Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-45976649</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-45976649</guid>
+            <pubDate>Fri, 26 Oct 2018 06:59:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/645C/production/_104029652_mattmolliebbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drone team joins Scottish Mountain Rescue]]></title>
+            <description><![CDATA[Search and Rescue Aerial Association Scotland is the newest member of Scottish Mountain Rescue.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-highlands-islands-45989393</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-highlands-islands-45989393</guid>
+            <pubDate>Fri, 26 Oct 2018 08:18:31 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A2D4/production/_104048614_e0bd3011-0288-4671-bc7f-2b68483bce8b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Leaving care: 'A spare room changed my life']]></title>
+            <description><![CDATA["When I tell people about my previous life you can see their jaws drop," says 18-year-old Chloe.]]></description>
+            <link>https://www.bbc.co.uk/news/education-45959563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-45959563</guid>
+            <pubDate>Thu, 25 Oct 2018 23:01:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4BFD/production/_104035491_sarahandchloel-r.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit and the booming British strawberry]]></title>
+            <description><![CDATA[British berry growers have expanded rapidly on the back of cheap EU labour but the good times could soon be over.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-45900563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-45900563</guid>
+            <pubDate>Fri, 26 Oct 2018 08:26:14 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/E792/production/_104028295_mediaitem104028294.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Glasgow should own up to its dark secret']]></title>
+            <description><![CDATA[As a mixed-race Scot, Laura Cripps thinks it is time Glasgow acknowledged its roots in the slave trade.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-45978790</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-45978790</guid>
+            <pubDate>Fri, 26 Oct 2018 00:09:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/54C8/production/_104040712_mediaitem104040711.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My intersex life: Now I have a new penis, I hope I will find love]]></title>
+            <description><![CDATA[Anick - who was born intersex - had a series of operations to give him a fully-functioning penis. The BBC followed his progress.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45979431</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45979431</guid>
+            <pubDate>Fri, 26 Oct 2018 00:36:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/70BE/production/_104026882_anick_a_pdc0259_976549.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sexually transmitted infections: What to do if you get one]]></title>
+            <description><![CDATA[Don't panic - these are the steps you need to take if you have an STI.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45975236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45975236</guid>
+            <pubDate>Thu, 25 Oct 2018 14:14:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12C5A/production/_100009867_condomsmaingetty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roman Vishniac: Jewish photographer between World Wars]]></title>
+            <description><![CDATA[An exhibition of Roman Vishniac, one of the most important documentary photographers of the 20th century.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-45964835</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-45964835</guid>
+            <pubDate>Fri, 26 Oct 2018 00:09:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3A5E/production/_104024941_38b07ea7-d766-4e93-959b-9aff1f08c1b1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Murder memorials: A grisly history written in stone]]></title>
+            <description><![CDATA[The grisly history behind murder stones - monuments to victims of crimes that outraged local communities.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-45651931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-45651931</guid>
+            <pubDate>Fri, 26 Oct 2018 00:28:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/13285/production/_103796487_cadoxton-stone.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stonehenge: A ruin to a treasure in 100 years of public ownership]]></title>
+            <description><![CDATA[A wealthy couple bought Stonehenge at an auction - and exactly 100 years ago gave it to the nation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-45953712</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-45953712</guid>
+            <pubDate>Thu, 25 Oct 2018 23:57:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CB92/production/_104041125_stonehenge_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the Week: Which reality TV show was tried in job centres?]]></title>
+            <description><![CDATA[It's the weekly news quiz - have you been paying attention to what's been going on in the world during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/stories-45939374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-45939374</guid>
+            <pubDate>Fri, 26 Oct 2018 00:15:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C13E/production/_104007494_1024-promo-2-cps-composite.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White poppy: How is it different from the red remembrance symbol?]]></title>
+            <description><![CDATA[Red, white or purple: does it matter what colour marks Remembrance Day?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45971456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45971456</guid>
+            <pubDate>Thu, 25 Oct 2018 17:49:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5001/production/_104018402_gettyimages-496249300.jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -3,10 +3,14 @@
 #include <stdlib.h>
 #include <iostream> 
 #include <string>
+#include <curl/curl.h>
 
 
 std::string Item::GetTitle(){
 	return _title;
+}
+std::string Item::GetFeedTitle(){
+	return _feedtitle;
 }
 std::string Item::GetDescr(){
 	return _descr;
@@ -22,6 +26,10 @@ int Item::GetMin(){return _min;}
 int Item::GetDay(){return _day;}
 int Item::GetMonth(){return _month;}
 int Item::GetYear(){return _year;}
+void Item::SetFeedTitle(std::string feedtitle){
+	_feedtitle=feedtitle;
+	//std::cout<<"hey"<<_feedtitle<<std::endl;
+}
 void Item::SetTitle(std::string title){
 	_title=title;
 }
@@ -29,7 +37,12 @@ void Item::SetDescr(std::string descr){
 	_descr=descr;
 }
 void Item::SetUrl(std::string url){
-	_url=url;
+	// if(url.length()>50){
+	// 	_url=UrlShort(url);
+	// }
+	// else{
+		_url = url;
+	// }
 }
 int Item::count_numbers ( int num) {
    int count =0;
@@ -41,7 +54,7 @@ int Item::count_numbers ( int num) {
    return count;
 }
 void Item::SetDate(int min, int hour, int day, int month, int year){
-	if(_dst = true){hour = hour +1;}
+
 	_day=day;
 	_month=month;
 	_year=year;
@@ -71,4 +84,23 @@ void Item::SetDate(int min, int hour, int day, int month, int year){
 bool Item::exists(std::string title){
 	if(_title == title){return true;}
 	else{return false;}
+}
+
+std::string Item::UrlShort(std::string url){
+
+	curl_global_init(CURL_GLOBAL_ALL);
+
+    CURL* easyhandle = curl_easy_init();
+    std::string readBuffer;
+
+    curl_easy_setopt(easyhandle, CURLOPT_URL, "https://is.gd/create.php\\?format\\=simple\\&url\\=" + url);
+    //curl_easy_setopt(easyhandle, CURLOPT_VERBOSE, 1L);
+
+    curl_easy_setopt(easyhandle, CURLOPT_WRITEDATA, &readBuffer);
+
+    curl_easy_perform(easyhandle);
+
+    std::cout << readBuffer << std::endl;
+
+    return readBuffer;
 }

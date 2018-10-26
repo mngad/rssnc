@@ -6,6 +6,8 @@
 #include <string>
 #include <algorithm>
 
+Feed::Feed(){}
+
 Feed::Feed(std::vector<Item> itemArr){
 	_itemArr=itemArr;
 }
@@ -57,3 +59,4 @@ void Feed::SortDate(){
 	std::sort(_itemArr.begin(), _itemArr.end(), wayToSort);
 
 }
+

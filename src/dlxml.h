@@ -18,6 +18,7 @@ class Dlxml{
 
 	public:
 		std::vector<Feed> fe;
+		void updateMaster();
 		int get_month_index( std::string name );
 		void feedToXml(Feed feed);
 		inline bool fileExists (const std::string& name);

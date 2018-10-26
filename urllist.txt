@@ -1,5 +1,5 @@
+http://feeds.bbci.co.uk/news/uk/rss.xml
 https://www.theverge.com/rss/index.xml
 http://www.independent.co.uk/news/uk/rss
 http://feeds.bbci.co.uk/news/rss.xml
-http://feeds.bbci.co.uk/news/uk/rss.xml
 http://feeds.feedburner.com/TechCrunch?fmt=xml
