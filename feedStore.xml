@@ -2,9 +2,6 @@
 <feedStore.xml>
     <Entrys>
         <Entry>
-            <FileName>All Feeds.xml</FileName>
-        </Entry>
-        <Entry>
             <FileName>BBC News - UK.xml</FileName>
         </Entry>
         <Entry>
@@ -18,6 +15,9 @@
         </Entry>
         <Entry>
             <FileName>TechCrunch.xml</FileName>
+        </Entry>
+        <Entry>
+            <FileName>All news, US and international..xml</FileName>
         </Entry>
     </Entrys>
 </feedStore.xml>

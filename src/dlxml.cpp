@@ -501,7 +501,7 @@ void Dlxml::feedListToXML(std::string feedListFname){
 	TiXmlElement * filename;
 
 	for(Feed feed : fe){
-
+		if(feed.GetName()== "All Feeds"){break;}
 		entry = new TiXmlElement( "Entry" );  
 		entrys->LinkEndChild( entry );
 

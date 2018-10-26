@@ -3,10 +3,10 @@
     <Entrys>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
-            <Title>US mail bombs: Person held after campaign against Trump critics</Title>
-            <Description>The mail-bombing campaign in recent days has been aimed at critics of President Trump.</Description>
+            <Title>US mail bombs: Man held after campaign against Trump critics</Title>
+            <Description>The 56-year-old is detained after a mail-bombing campaign aimed at critics of President Trump.</Description>
             <URL>https://www.bbc.co.uk/news/world-us-canada-45996655</URL>
-            <Date>16:27 26/10/2018</Date>
+            <Date>16:52 26/10/2018</Date>
         </Entry>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
@@ -27,7 +27,7 @@
             <Title>Ruth Davidson gives birth to baby boy</Title>
             <Description>The Scottish Conservative leader says she and partner Jen Wilson are &quot;delighted&quot; to welcome Finn to the world.</Description>
             <URL>https://www.bbc.co.uk/news/uk-scotland-45995711</URL>
-            <Date>15:14 26/10/2018</Date>
+            <Date>17:05 26/10/2018</Date>
         </Entry>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
@@ -59,13 +59,6 @@
         </Entry>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
-            <Title>Ryanair flight rant man says he is &apos;not a racist&apos;</Title>
-            <Description>David Mesher denies being a racist and said he had &quot;a fit of temper&quot; when he shouted at Delsie Gayle, 77.</Description>
-            <URL>https://www.bbc.co.uk/news/uk-england-essex-45988890</URL>
-            <Date>13:41 26/10/2018</Date>
-        </Entry>
-        <Entry>
-            <FeedTitle>BBC News - Home</FeedTitle>
             <Title>Crossrail delay: £350m loan for London route announced by government</Title>
             <Description>The £15bn route is Europe&apos;s biggest infrastructure project is expected to launch nine months late.</Description>
             <URL>https://www.bbc.co.uk/news/uk-england-london-45993855</URL>
@@ -77,6 +70,13 @@
             <Description>Work begins to exhume thousands of skeletons to make way for HS2 construction.</Description>
             <URL>https://www.bbc.co.uk/news/uk-45988254</URL>
             <Date>11:26 26/10/2018</Date>
+        </Entry>
+        <Entry>
+            <FeedTitle>BBC News - Home</FeedTitle>
+            <Title>John Taylor given whole life sentence for further historical sex attacks</Title>
+            <Description>Child killer John Taylor is jailed for the rest of his life after admitting historical sex attacks.</Description>
+            <URL>https://www.bbc.co.uk/news/uk-england-leeds-45990773</URL>
+            <Date>16:14 26/10/2018</Date>
         </Entry>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
@@ -171,7 +171,7 @@
         </Entry>
         <Entry>
             <FeedTitle>BBC News - Home</FeedTitle>
-            <Title>Megyn Kelly: Could &apos;blackface&apos; row end TV anchor&apos;s career?</Title>
+            <Title>Could &apos;blackface&apos; row end US anchor Megyn Kelly&apos;s career?</Title>
             <Description>The future of Megyn Kelly, one of America&apos;s highest paid and best-known news anchors, is in doubt.</Description>
             <URL>https://www.bbc.co.uk/news/world-us-canada-45990543</URL>
             <Date>14:46 26/10/2018</Date>
@@ -308,13 +308,6 @@
             <Description>In the last two years, three Saudi princes living in Europe have disappeared. All were critical of the Saudi government.</Description>
             <URL>https://www.bbc.co.uk/news/magazine-40926963</URL>
             <Date>24:57 14/8/2017</Date>
-        </Entry>
-        <Entry>
-            <FeedTitle>BBC News - Home</FeedTitle>
-            <Title>US mail bombs: Man held after campaign against Trump critics</Title>
-            <Description>The 56-year-old is detained after a mail-bombing campaign aimed at critics of President Trump.</Description>
-            <URL>https://www.bbc.co.uk/news/world-us-canada-45996655</URL>
-            <Date>16:52 26/10/2018</Date>
         </Entry>
     </Entrys>
 </root>
